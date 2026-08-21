@@ -1,0 +1,22 @@
+[
+  {
+    "id": "portrait",
+    "name": "Portrait",
+    "fileUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-data/main/categories/portrait.json"
+  },
+  {
+    "id": "cinematic",
+    "name": "Cinematic",
+    "fileUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-data/main/categories/cinematic.json"
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy",
+    "fileUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-data/main/categories/fantasy.json"
+  },
+  {
+    "id": "product",
+    "name": "Product",
+    "fileUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-data/main/categories/product.json"
+  }
+]
