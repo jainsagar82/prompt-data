@@ -326,5 +326,23 @@
   "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/47.jpg",
   "promptText": "Transform the provided reference photo into a premium nostalgic Polaroid contact-sheet style portrait collection while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the person's original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual in every photograph. Do not replace, redesign, beautify, masculinize, feminize, age, de-age, or otherwise alter the person's identity. Create a cohesive collection of approximately six to eight authentic instant-film photographs showing the same person across different candid moments, poses, expressions, and environments. Include a close-up portrait, relaxed sitting portrait, walking candid, side-profile moment, laughing expression, thoughtful expression, and casual lifestyle moment. Keep the person's facial identity, hairstyle, and overall appearance consistent across every photograph. Dress the person in a sophisticated casual outfit consisting of a vintage cream overshirt, simple white t-shirt, relaxed dark denim, clean sneakers, and minimal accessories. Arrange the instant photographs naturally on a textured tabletop or pinned memory-board surface, with slightly overlapping Polaroid frames, uneven alignment, subtle handwritten-style marks, small tape pieces, realistic paper shadows, and authentic physical imperfections. Each instant photograph should have subtle differences in exposure and framing as if captured at different moments on a real instant camera. Recreate realistic instant-film characteristics including soft highlight bloom, slightly faded colors, gentle film grain, subtle chemical color variation, mild exposure inconsistency, realistic white borders, tiny dust particles, imperfect edges, and natural analog softness. Use warm window light combined with soft ambient illumination across the physical photographs. Preserve realistic paper texture, tiny surface imperfections, natural reflections, and believable contact shadows between the photographs. The final composition should feel like a genuine collection of personal memories arranged on a desk rather than a digitally generated collage. Ultra-photorealistic instant photography, authentic Polaroid aesthetic, nostalgic memory collection, realistic identity consistency, natural skin texture, analog film character, tactile paper detail, realistic shadows, premium lifestyle photography, emotional storytelling, subtle grain, soft warm lighting, 8K detail, no identity change, no inconsistent faces, no distorted facial features, no plastic skin, no excessive retouching, no fake logos, no excessive readable text, no cartoon appearance, 16:9 composition.",
   "trending": true
-}
+},
+  {
+    "id": "582",
+    "title": "Avant-Garde Magazine Tear-Sheet",
+    "category": "Fashion",
+    "subcategory": "Editorial Collage",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/582.jpeg",
+    "promptText": "Transform the provided reference photo into a high-concept high-fashion editorial tear-sheet collage while retaining 100% facial identity, authentic skin pores, sharp bone structure, and natural eye characteristics. The layout combines a razor-sharp primary studio portrait in bold haute couture styling alongside overlapping monochrome detail shots of fabric drapes, runway accessories, and geometric architectural shadows. Accented with subtle metallic foil overlays, minimalist grid alignments, magazine bleed marks, and raw torn paper edges. High-fashion studio flash lighting, glossy editorial grade, crisp micro-contrast, zero plastic airbrushing, high aesthetic runway realism, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "583",
+    "title": "Metropolis Silhouette Double Exposure",
+    "category": "Fashion",
+    "subcategory": "Double Exposure",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/583.jpeg",
+    "promptText": "Transform the provided reference photo into a luxury monochrome fashion double-exposure portrait while strictly preserving the person's exact jawline, eye details, lips, and facial proportions. The primary subject is captured in an elegant side-profile pose under sharp editorial studio rim lighting. Seamlessly merged inside the silhouette is an intricate second exposure of brutalist glass skyscrapers, soaring geometric bridges, and high-speed highway light streaks. Deep inky blacks, luminous silver-gelatin midtones, crisp highlight gradients, authentic Ilford medium-format film grain, flawless edge separation, 8K detail, no facial distortion. 3:4 composition.",
+    "trending": true
+  }
 ]
