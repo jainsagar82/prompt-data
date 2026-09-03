@@ -376,5 +376,96 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/629.jpg",
     "promptText": "Transform the provided family reference photos into a museum-worthy fine-art black-and-white studio portrait while preserving 100% facial identity, bone contours, natural skin textures, and individual character of every family member. The family poses in an intimate, close-knit grouping against a seamless deep charcoal backdrop, embracing each other with quiet warmth, deep love, and dignified confidence. Dressed in simple, unadorned black and dark-gray clothing. A single large studio octabox key light sculpts their faces with smooth grayscale gradations, brilliant silver specular highlights on cheekbones, and soft shadow transitions. Photographed on a 105mm medium-format studio lens at f/3.2, razor-sharp focus on every eye, natural skin pores, realistic wrinkles, and fine hair strands. Masterful monochrome silver-gelatin tonal range with inky blacks and luminous highlights. Ultra-photorealistic fine-art family portrait, 8K detail, no face mixing, no cartoon appearance, 3:4 composition.",
     "trending": true
+  },
+  {
+    "id": "630",
+    "title": "Mother's First Embrace",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/630.jpg",
+    "promptText": "Transform the provided mother reference photo into an intimate, heartwarming newborn portrait while strictly preserving the mother's exact facial structure, facial features, natural skin tone, eyes, nose, lips, jawline, and natural expressions. The mother gently holds her sleeping newborn baby close against her bare collarbone in skin-to-skin embrace, cradling the tiny infant with tender, realistic hands and fingers. Soft, diffused morning window light pours through sheer linen curtains, casting gentle wrap-around illumination, delicate highlights, and soft shadow transitions across the mother's radiant face and the baby's delicate features. The mother gazes down with an authentic, emotional smile of unconditional love. Photographed on an 85mm f/1.4 portrait prime lens, shallow depth of field, razor-sharp focus on the mother's eyes and baby, and creamy, soft nursery background bokeh. Delicate pastel color grading with warm ivory, soft blush, and natural skin textures without artificial smoothing. Ultra-photorealistic mother and newborn portrait, 8K detail, no facial distortion, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "631",
+    "title": "Father's Gentle Strength",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/631.jpg",
+    "promptText": "Transform the provided father reference photo into a deeply emotional portrait of fatherhood while strictly maintaining 100% facial identity, exact bone structure, eyes, eyebrows, nose, lips, jawline, facial hair, and natural skin texture. The father sits in a comfortable leather armchair holding his sleeping newborn baby securely against his chest, supporting the baby's tiny head with his large, protective hand. Dressed in a relaxed cotton henley or textured sweater. Gentle, warm side-lighting from a nearby standing lamp illuminates the father's peaceful, proud, and awe-filled expression with authentic catchlights in his eyes. Shot on a 50mm f/1.8 cinema lens, shallow depth of field, sharp facial details, and creamy background shadow rolloff. Authentic skin pores, realistic hand and finger anatomy showing the scale contrast between father and newborn. Warm organic color grading with rich mahogany, amber, and natural skin tones. Ultra-photorealistic father and newborn photography, 8K detail, no identity change, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "632",
+    "title": "Nursery Rocker Lullaby",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/632.jpg",
+    "promptText": "Transform the provided mother reference photo into a peaceful evening lullaby scene while precisely retaining the mother's facial features, bone contours, natural skin tone, eyes, and gentle expressions. The mother sits gently swaying in a classic wooden rocking chair in a softly lit nursery, cradling her newborn swaddled in a breathable organic muslin blanket. The mother looks down lovingly, whispering a quiet lullaby with a serene, contented smile. In the background, a soft glowing moon lamp and floating wooden wall shelves with storybooks melt into smooth bokeh. Captured on an 85mm f/1.8 lens, shallow depth of field, precise eye focus, and soft highlight rolloff. Warm, comforting low-light color grading with honey amber, soft cream, and natural skin tones, showing authentic skin texture and realistic hands. Ultra-photorealistic mother and newborn nursery moment, 8K detail, no facial alteration, no cartoon appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "633",
+    "title": "Father's Shoulder Slumber",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/633.jpg",
+    "promptText": "Transform the provided father reference photo into an authentic candid parenting moment while strictly preserving the father's exact facial identity, eyes, nose, lips, jawline, beard or facial hair, and skin texture. The father stands beside a sunlit window gently patting and burping his newborn, whose head rests soundly over his shoulder with a soft knit beanie. The father looks toward the camera with a gentle, joyful smile that reflects both slight exhaustion and pure, profound happiness. Dressed in a comfortable, textured waffle-knit shirt. Soft overcast morning daylight illuminates his face with natural, shadowless brilliance. Photographed on a 50mm f/1.8 portrait lens, shallow depth of field, razor-sharp focus on the father's eyes and the baby's tiny ear and cheek, and soft domestic background blur. Authentic skin pores, realistic hands and posture. Neutral lifestyle color grade with soft grays, warm beige, and natural skin tones. Ultra-photorealistic father and baby lifestyle portrait, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "634",
+    "title": "Morning Linen Snuggles",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/634.jpg",
+    "promptText": "Transform the provided mother reference photo into a bright, airy morning newborn bonding photo while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The mother lies propped up on one elbow on a bed covered in rumpled white linen sheets, smiling nose-to-nose with her newborn who lies beside her stretching in a tiny organic cotton onesie. Fresh morning sunlight streams across the bed, creating luminous highlights and an ethereal, joyful ambiance. Dressed in comfortable, breathable morning loungewear. Captured on a 50mm f/1.4 prime lens, shallow depth of field, sharp eye focus on both the mother and baby, and creamy, bright white bokeh. Clean, minimalist Scandinavian lifestyle aesthetic with bright whites, soft warm sunlight, and natural skin textures. Ultra-photorealistic mother and newborn morning portrait, 8K detail, no plastic skin, no distorted anatomy, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "635",
+    "title": "In Father's Hands",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/635.jpg",
+    "promptText": "Transform the provided father reference photo into a tender, artistic fatherhood photograph while strictly maintaining 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The father sits on the edge of an unmade bed looking down in quiet marvel, gently cupping the newborn's tiny bare feet between his large, weathered palms while the baby rests comfortably on a soft duvet. The father's face reflects quiet wonder and overwhelming love. Soft directional natural light cuts across his profile and arms, emphasizing realistic skin details, natural veins, and the delicate softness of the baby's skin. Shot on an 85mm f/1.8 lens, shallow depth of field, razor-sharp focus on the hands and father's eyes, and creamy background blur. Intimate, moody fine-art color grading with warm earth tones, deep shadows, and realistic anatomy. Ultra-photorealistic fatherhood portrait, 8K detail, no distorted fingers, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "636",
+    "title": "Newborn Cocoon Trio",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/636.jpg",
+    "promptText": "Transform the provided mother and father reference photos into a heartwarming first-family portrait while strictly preserving the exact facial structure, bone contours, natural skin tones, eyes, nose, lips, and unique features of both parents. The parents lie together on a plush bed cocooning their sleeping newborn nestled safely between them, with their foreheads gently touching as they gaze down with radiant, tearful happiness. Dressed in coordinated soft neutral-toned clothing. Soft, natural daylight pours from above, casting flattering highlights across both parents' faces and the baby's swaddle. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus on all three subjects, and soft bedroom bokeh. Warm, tender color palette with cream, oatmeal, and natural skin tones, realistic hands resting protectively on the baby. Ultra-photorealistic family of three milestone portrait, 8K detail, no face mixing, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "637",
+    "title": "First Golden Hour at Home",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/637.jpg",
+    "promptText": "Transform the provided parents reference photos into a breathtaking golden-hour family scene while precisely retaining the individual facial features, bone structure, eyes, and natural skin tones of both mother and father. The mother cradles the newborn wrapped in a knit blanket standing beside a large living room window, while the father stands closely behind her, wrapping his arms around them both and resting his chin gently near her temple. Low-angle sunset sunlight floods through the window, bathing the family in rich, glowing amber rim light and casting delicate shadows on the hardwood floor. Both parents smile softly with deep gratitude and calm joy. Captured on a 50mm f/1.4 cinema lens, shallow depth of field, sharp facial focus, and creamy, sun-drenched bokeh. Warm cinematic lifestyle grade with golden amber, honey, and natural skin textures. Ultra-photorealistic family golden hour portrait, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "638",
+    "title": "Quiet Nursery Sofa Slumber",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/638.jpg",
+    "promptText": "Transform the provided parents reference photos into an authentic candid newborn family photo while maintaining 100% facial identity, natural skin texture, and expressions of both parents. The parents sit together on a deep, cozy sofa in a softly decorated nursery; the mother leans her head on the father's shoulder with a peaceful, contented smile, while the father rests an arm around her, supporting the newborn sleeping peacefully across their laps. Nearby, a warm mug of tea sits on a wooden side table. Warm ambient indoor light mixed with gentle afternoon window glow creates soft, realistic dimensional lighting. Captured on a 50mm f/1.8 prime lens, shallow depth of field, sharp facial details, and creamy room background blur. Natural, heartfelt lifestyle color palette with warm beige, sage green, and authentic skin pores. Ultra-photorealistic candid family portrait, 8K detail, no plastic skin, no distorted anatomy, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "639",
+    "title": "Monochrome Newborn Family Embrace",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/639.jpg",
+    "promptText": "Transform the provided mother and father reference photos into a museum-grade fine-art black-and-white family portrait while strictly preserving the exact facial identity, bone structure, eyes, nose, lips, and natural skin texture of both parents. The mother and father are posed in a close, sculptural embrace against a seamless dark charcoal studio background, both gently cradling their tiny, sleeping newborn between them. Dressed in simple, unadorned black knit tops. A single large studio softbox provides elegant directional lighting, sculpting the parents' jawlines and cheekbones with smooth silver grayscale gradients, luminous skin highlights, and rich, deep velvety shadows. Photographed on a 105mm medium-format studio lens at f/2.8, razor-sharp focus on the baby and parents' eyes, authentic silver-halide film grain, and realistic hands. Masterwork monochrome family photography, 8K detail, no identity change, no artificial smoothing, 3:4 composition.",
+    "trending": true
   }
+
 ]
