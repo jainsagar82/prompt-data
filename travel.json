@@ -448,5 +448,24 @@
 "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/575.jpeg",
 "promptText": "Transform the provided reference photo into a spectacular premium around-the-world travel collage while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the exact original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, facial hair where present, natural skin tone, age characteristics, and distinctive personal features throughout every appearance. Create a cohesive visual journey showing the same person across several dream travel destinations including tropical beaches, dramatic mountains, European streets, futuristic city lights, desert landscapes, and an Indian heritage location. Each scene should feel like a genuine photograph taken during the same lifetime journey, with consistent identity but naturally varied clothing, poses, lighting, and environments. Arrange the images into an elegant editorial collage using overlapping photographs, subtle film borders, realistic paper shadows, travel-ticket fragments, passport-inspired details without readable personal information, small map elements, and tactile scrapbook textures. Use a sophisticated mixture of cinematic photography, 35mm film character, natural skin texture, realistic lighting, subtle grain, atmospheric depth, and premium travel-magazine composition. Avoid excessive text, fake logos, distorted faces, duplicated limbs, or inconsistent identity. The final image should feel like a visual diary of an extraordinary life of travel, highly personal, joyful, aspirational, and shareable. 3:4 composition.",
 "trending": true
-}
+},
+{
+    "id": "576",
+    "title": "Kyoto Heritage Travel Scrapbook",
+    "category": "Travel",
+    "subcategory": "Scrapbook & Collage",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/576.jpeg",
+    "promptText": "Transform the provided reference photo into a beautifully handcrafted Kyoto travel scrapbook page while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the exact identity, facial structure, natural skin tone, hairstyle, and distinctive features across every appearance. Create a cohesive travel-memory collage featuring the person in several believable Kyoto moments including a serene bamboo grove pathway, traditional wooden machiya street, historic shrine gate, and a tranquil matcha tea house. Arrange the photographs as overlapping printed memories with realistic torn paper edges, translucent washi tape, vintage train ticket fragments, pressed autumn maple leaves, and subtle handwritten-style travel notes without excessive readable text. Keep every version of the person consistent and recognizable. Use warm Kodachrome 35mm analog photography, subtle film grain, natural exposure variation, tactile paper texture, and premium lifestyle-editorial composition. 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "577",
+    "title": "Alpine Explorer Cinema Poster",
+    "category": "Travel",
+    "subcategory": "Movie Poster",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/577.jpeg",
+    "promptText": "Transform the provided reference photo into an epic cinematic expedition movie-poster composition while strictly preserving the exact identity, bone structure, eye shape, nose, lips, and facial characteristics of the person in the reference image. Present the subject as a determined mountain explorer positioned heroically against towering jagged Alpine snow peaks, misty glacial valleys, and a winding high-altitude pass leading into the horizon. Layer dramatic atmospheric depth with blowing powder snow, high-altitude sun glare, subtle double-exposure blending of mountain topography through the jacket silhouette, and hyper-realistic outdoor apparel textures. Compose like a premier adventure-film one-sheet with clean cinematic color grading, rich cool shadows, warm highlight contrast, minimal modern typography styling, authentic 70mm film grain, 8K detail, and flawless identity preservation. 3:4 composition.",
+    "trending": true
+  }
+
 ]
