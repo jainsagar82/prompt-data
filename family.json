@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": "580",
+    "title": "Generations Heritage Scrapbook",
+    "category": "Family",
+    "subcategory": "Scrapbook & Collage",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/580.jpeg",
+    "promptText": "Transform the provided reference photo into an heirloom-style family memory journal page while preserving the exact facial characteristics, age details, natural skin tones, and recognizable expressions of all family members. Construct a warm multi-photo layout featuring candid moments: a sunny backyard picnic, cozy kitchen cooking, living room laughter, and a golden afternoon park stroll. Integrate layered kraft paper backing, stitched linen threads, pressed wild botanicals, vintage photo mounting corners, and soft textured paper grain. Warm nostalgic ambient light, authentic color reproduction, natural smiles, crisp eye focus, tactile tactile scrapbooking depth, 8K resolution, and zero facial distortion. 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "581",
+    "title": "Heartland Journey Movie Poster",
+    "category": "Family",
+    "subcategory": "Movie Poster",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/581.jpeg",
+    "promptText": "Transform the provided reference photo into an emotional, cinematic family adventure-drama movie poster while strictly preserving the real facial structures, natural skin tones, and distinct identities of each family member. Present the family standing together against an expansive golden sunset landscape with rolling hills, an open highway, and a classic vintage travel wagon in the background. Incorporate gentle double exposure of sprawling countryside horizons and sunset skies layered into the composition. Rich Kodachrome cinema grade, warm rim lighting catching wind-swept hair, authentic cinematic grain, balanced editorial spacing, minimal prestige film typography, 8K detail, no identity morphing. 3:4 composition.",
+    "trending": true
+  }
+]
