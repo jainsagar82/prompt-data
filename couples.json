@@ -398,5 +398,23 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/255.jpeg",
     "promptText": "Transform the provided reference photos of both people into a breathtaking dreamlike couple portrait surrounded by an expansive cloudscape while preserving the exact identity and recognizable facial characteristics of both individuals. Maintain each person's original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, facial hair where present, natural skin tone, and distinctive personal features. Create a visually magical but photorealistic scene where the couple stands together on a beautiful elevated landscape above a vast sea of soft clouds during sunrise. Show them holding hands and looking at each other with genuine happiness and wonder. Dress them in elegant flowing contemporary clothing with sophisticated neutral tones and subtle movement from the wind. Create enormous soft clouds, warm sunlight breaking through the horizon, atmospheric haze, realistic fabric movement, natural shadows, and cinematic depth. Use professional full-frame photography with an 85mm lens, precise facial focus, realistic skin texture, soft golden rim lighting, subtle lens flare, natural bokeh, and premium cinematic color grading. Preserve authentic facial identity, realistic hands, anatomy, clothing texture, and natural expressions. The final photograph should feel extraordinary yet believable, like a once-in-a-lifetime romantic travel photograph. Ultra-photorealistic cinematic couple photography, dreamlike cloudscape, sunrise romance, emotional storytelling, premium editorial aesthetic, realistic atmospheric lighting, 8K detail, 3:4 composition.",
     "trending": true
+  },
+  {
+    "id": "578",
+    "title": "Coastal Road-Trip Scrapbook",
+    "category": "Couples",
+    "subcategory": "Scrapbook & Collage",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/578.jpeg",
+    "promptText": "Transform the provided reference photo into a handcrafted vintage coastal road-trip scrapbook page while preserving 100% facial identity, expressions, bone structure, and distinctive facial features of both partners. Arrange overlapping polaroid snapshots and candid 35mm cutouts showing the couple leaning against a vintage convertible, laughing at an oceanfront scenic overlook, watching a golden-hour beach sunset, and sharing coffee at a retro highway diner. Decorate with textured masking tape strips, embossed highway map fragments, real paper creases, subtle drop-shadows, and sun-bleached postcard borders. Soft 1970s warm film tones, natural grain, candid authentic chemistry, realistic skin textures, zero plastic smoothing, and tactile paper styling. 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "579",
+    "title": "Midnight Romance Film Poster",
+    "category": "Couples",
+    "subcategory": "Movie Poster",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/579.jpeg",
+    "promptText": "Transform the provided reference photo into an intimate indie-romance film poster while maintaining the exact facial identity, bone structure, hairstyle, and expressions of both people in the reference image. The primary focus features the couple sharing an affectionate, natural moment under the soft glow of rain-drizzled city streetlamps. Artfully blend a subtle double exposure within their silhouettes showcasing a glowing metropolitan skyline, blurred vehicle light trails, and European cobblestone alleys at midnight. Cinematic teal-and-amber split toning, moody atmospheric fog, subtle film halation around light sources, minimal non-distracting festival laurel typography marks, 35mm anamorphic lens depth, 8K detail, no identity alteration. 3:4 composition.",
+    "trending": true
   }
 ]
