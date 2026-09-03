@@ -16,5 +16,365 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/581.jpeg",
     "promptText": "Transform the provided reference photo into an emotional, cinematic family adventure-drama movie poster while strictly preserving the real facial structures, natural skin tones, and distinct identities of each family member. Present the family standing together against an expansive golden sunset landscape with rolling hills, an open highway, and a classic vintage travel wagon in the background. Incorporate gentle double exposure of sprawling countryside horizons and sunset skies layered into the composition. Rich Kodachrome cinema grade, warm rim lighting catching wind-swept hair, authentic cinematic grain, balanced editorial spacing, minimal prestige film typography, 8K detail, no identity morphing. 3:4 composition.",
     "trending": true
+  },
+  {
+    "id": "590",
+    "title": "Three Generations Heirloom Portrait",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/590.jpg",
+    "promptText": "Transform the provided family reference photos into a timeless three-generation fine-art portrait while strictly preserving the exact facial structure, bone contours, natural skin tones, eyes, nose, lips, age-defining characteristics, and distinctive features of every individual. Arrange grandparents, parents, and children in an elegant, dignified seated and standing composition inside a heritage estate room with wood-paneled walls and muted velvet drapery. Dressed in coordinated classic formal ethnic or western attire with rich fabric textures. Soft, directional window key light falls across their faces, creating gentle Rembrandt lighting, delicate shadow rolloff, and authentic catchlights in every pair of eyes. Photographed on a medium-format 85mm portrait lens at f/2.8, shallow depth of field, razor-sharp facial details, and smooth background bokeh. Rich museum-grade color palette with warm mahogany, ivory, and soft gold, authentic skin pores, and natural posture. Ultra-photorealistic multi-generational family portrait, 8K detail, no face mixing, no plastic skin, no distorted anatomy, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "591",
+    "title": "Golden Hour Meadow Walk",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/591.jpg",
+    "promptText": "Transform the provided family reference photos into an emotional outdoor golden-hour photograph while strictly maintaining 100% facial identity, individual bone structures, natural skin tones, and authentic expressions of every person. The family is captured mid-walk across a sun-drenched golden wildflower meadow, holding hands and laughing naturally together. Dressed in comfortable earth-toned casual attire with soft linen and cotton textures. Low-angle sunset sunlight creates radiant golden rim lighting around hair and shoulders, with soft atmospheric lens flare across the top corner. Captured on an 85mm f/1.4 cinema lens, shallow depth of field, sharp facial focus, creamy wild grass bokeh, and gentle highlight halation. Warm organic color grade with amber, honey, sage green, and natural skin tones, realistic hand anatomy, and natural body proportions. Ultra-photorealistic family lifestyle photography, genuine warmth, 8K detail, no facial distortion, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "592",
+    "title": "Sunday Flour & Cookie Baking",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/592.jpg",
+    "promptText": "Transform the provided family reference photos into a warm candid kitchen baking moment while precisely retaining the facial features, bone structure, eyes, nose, lips, and natural skin tone of each person. The family stands gathered around a rustic wooden kitchen island rolling out dough and cutting cookies, playfully dusting flour on each other's cheeks with joyful, spontaneous laughter. Dressed in relaxed weekend loungewear and textured cotton aprons. Soft morning sunlight streams through a kitchen window, catching airborne flour motes and illuminating faces with natural, flattering warmth. Shot on a 50mm f/1.8 prime lens, shallow depth of field, sharp eye focus, creamy kitchen background blur, and authentic hand anatomy. Warm domestic color grading with soft cream, natural wood grain, and realistic skin texture. Ultra-photorealistic candid family lifestyle photography, 8K detail, no identity change, no cartoon appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "593",
+    "title": "Grandparents' Golden Anniversary Toast",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/593.jpg",
+    "promptText": "Transform the provided family reference photos into a sophisticated milestone anniversary celebration photo while preserving 100% facial identity, natural aging details, and expressions of every individual. The family gathers around a banquet table in a warm conservatory to toast the grandparents, who sit center-frame smiling with deep gratitude and pride. Crystal glasses catch glowing candlelight, surrounded by floral centerpieces and champagne flutes. Dressed in refined festive attire with realistic textile weaves and jewelry. Warm, balanced ambient chandelier light sculpts facial features while maintaining realistic skin textures, authentic eye catchlights, and natural wrinkles. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp focus on the central couple with family members softly framed around them. Luxury celebration color grade with champagne gold, burgundy, and warm ivory. Ultra-photorealistic family celebration, 8K detail, no plastic skin, no distorted hands, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "594",
+    "title": "Ocean Shoreline Sunset Stroll",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/594.jpg",
+    "promptText": "Transform the provided family reference photos into a cinematic beach sunset family portrait while strictly preserving the exact facial identity, bone structure, and natural skin tones of each person. The family walks barefoot along the wet shoreline of a calm ocean beach at dusk, holding hands with gentle waves washing over their feet. Soft evening sky transitions from pastel peach to twilight blue, reflecting mirrored light across the wet sand. Dressed in light, relaxed resort-wear with neutral tones. Captured on an 85mm portrait lens, shallow depth of field, sharp eye focus, realistic sea spray mist, and creamy water bokeh. Warm golden-hour backlight creates soft halos around hair and clothing folds. Authentic skin texture, realistic footprints in sand, natural hand anatomy, and balanced emotional composition. Ultra-photorealistic family travel photography, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "595",
+    "title": "Cozy Living Room Storybook Time",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/595.jpg",
+    "promptText": "Transform the provided family reference photos into an intimate evening reading scene while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone of each family member intact. The family snuggles together on a deep, plush sofa under a knitted wool throw blanket, captivated as an open illustrated storybook is read aloud. A warm floor lamp nearby casts a gentle, cozy pool of golden light across their engaged, smiling faces. In the background, soft bookshelves and a warm fireplace flicker gently out of focus. Photographed on a 50mm f/1.4 lens, shallow depth of field, sharp eye focus, and tender emotional connection. Warm hygge color grading with amber, soft cream, and deep earth tones, authentic skin pores, and natural posture. Ultra-photorealistic family home moment, 8K detail, no facial distortion, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "596",
+    "title": "Backyard Summer BBQ Feast",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/596.jpg",
+    "promptText": "Transform the provided family reference photos into a vibrant outdoor summer barbecue gathering while strictly maintaining 100% facial identity, natural skin texture, and expressions of every individual. The family is seated around a long wooden trestle table in a lush backyard under hanging bistro string lights, passing shared ceramic bowls of fresh food, laughing and talking in lively communion. Gentle grill smoke catches warm late-afternoon sunbeams in the background. Dressed in colorful summer casual clothing. Captured on a 35mm documentary-style cinema lens, natural daylight fill, shallow depth of field, sharp facial details, and creamy garden foliage bokeh. Authentic skin textures, realistic hands, and relaxed body language. Joyful, energetic lifestyle color grade with garden greens, warm sunlight gold, and natural skin tones. Ultra-photorealistic family gathering, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "597",
+    "title": "Newborn Welcome Home Celebration",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/597.jpg",
+    "promptText": "Transform the provided family reference photos into a tender newborn homecoming portrait while precisely preserving each individual's facial features, natural skin tone, eyes, and bone contours. The parents sit together on a sunlit nursery daybed gently cradling a sleeping newborn swaddled in soft muslin, while older siblings or grandparents lean in with awestruck, tender smiles. Dressed in soft neutral loungewear with clean, breathable textures. Soft diffused natural light pours through sheer white linen curtains, wrapping the family in a gentle, ethereal glow. Captured on an 85mm f/1.4 portrait lens, razor-sharp focus on the emotional eye contact and baby's peaceful face, shallow depth of field, and creamy background blur. Soft pastel color grading with warm ivory, blush, and natural skin tones, realistic hand and finger anatomy. Ultra-photorealistic emotional family photography, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "598",
+    "title": "Grandfather Chess Match Heritage",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/598.jpg",
+    "promptText": "Transform the provided family reference photos into a thoughtful intergenerational portrait while preserving 100% facial identity, natural age lines, and authentic expressions of both the elder and younger family members. An elder grandfather and young grandchild lean over a hand-carved wooden chess board on an antique table, the grandfather smiling with quiet wisdom as the child contemplates their next move. Soft directional light from a nearby library window illuminates the board and sculpts their profiles with rich chiaroscuro contrast. Dressed in tasteful classic knitwear and collared shirts. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus on both subjects, and creamy antique bookshelf bokeh. Warm sepia-infused color grade with rich mahogany, brass accents, and authentic skin pores. Ultra-photorealistic generational storytelling, realistic hands and fingers, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "599",
+    "title": "Living Room Floor Board Game Laughter",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/599.jpg",
+    "promptText": "Transform the provided family reference photos into an exuberant candid family board game photo while strictly maintaining the exact facial identity, bone structure, and joyful expressions of every person. The family sits cross-legged in a circle on a plush living room rug around a colorful board game, captured mid-cheer with spontaneous, genuine laughter as dice are rolled. Dressed in comfortable weekend casual wear like graphic tees and sweatpants. Warm ambient living room light mixed with soft afternoon window daylight creates balanced, flattering illumination across all faces. Captured on a 35mm f/2.0 lens from a medium-low angle, shallow depth of field, sharp facial details on laughing faces, and authentic movement. Vibrant candid lifestyle color grading with warm tones and natural skin textures. Ultra-photorealistic family playtime, 8K detail, no distorted hands, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "600",
+    "title": "Autumn Leaf Toss in Park",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/600.jpg",
+    "promptText": "Transform the provided family reference photos into an exhilarating autumn family celebration photo while preserving 100% facial identity, natural skin texture, eyes, and bone structure of every member. The family stands in a picturesque park lane lined with towering maple trees, captured in mid-air freeze-frame tossing armfuls of vibrant golden and crimson leaves overhead with joyous, uninhibited smiles. Dressed in coordinated autumn outerwear like cable-knit sweaters, quilted vests, and woolen scarves. Crisp afternoon sunlight filters through the amber foliage canopy, illuminating falling leaves and smiling faces with golden highlights. Shot on an 85mm f/1.8 lens with a fast shutter speed, sharp facial focus, creamy background bokeh, and realistic leaf motion blur. Rich seasonal color grading with burnt orange, golden yellow, deep red, and natural skin tones. Ultra-photorealistic autumn family photography, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "601",
+    "title": "Veranda Morning Tea & Laughter",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/601.jpg",
+    "promptText": "Transform the provided family reference photos into a serene morning family conversation portrait while precisely retaining each individual's facial structure, natural skin tone, eyes, and authentic expressions. The family sits together on a shaded colonial-style veranda overlooking a lush green garden, sharing morning tea in porcelain cups and laughing over shared memories. Dressed in breathable cotton kurtas and relaxed morning loungewear. Soft morning sunlight filters through potted palms and ferns, creating gentle dappled light patterns across the tiled floor and warm highlights on the family's faces. Captured on a 50mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy garden background bokeh. Peaceful morning lifestyle grade with soft greens, warm terracotta, and realistic skin pores. Ultra-photorealistic family morning routine, 8K detail, no identity change, no plastic appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "602",
+    "title": "Vintage Station Wagon Road Trip",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/602.jpg",
+    "promptText": "Transform the provided family reference photos into an adventurous retro road-trip photograph while strictly preserving the person's exact facial features, bone structure, eyes, and natural skin tones. The family is gathered around the open tailgate of a classic vintage wood-paneled station wagon parked at a scenic coastal overlook, enjoying sandwiches and cold drinks while looking out at the panoramic ocean horizon. Dressed in timeless casual travel clothing like denim jackets and striped tees. Bright midday sun softened by coastal sea haze creates crisp, natural lighting across the scene. Shot on a 35mm wide-angle cinema lens, expansive environmental scale, shallow depth of field, sharp facial details, and authentic film grain. Nostalgic Kodak Portra color palette with soft cyan ocean, vintage car chrome, and warm skin tones. Ultra-photorealistic family adventure, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "603",
+    "title": "Traditional Silk Heritage Gathering",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/603.jpg",
+    "promptText": "Transform the provided family reference photos into an opulent cultural heritage family portrait while maintaining 100% facial identity, authentic bone structure, and expressions of each family member. The family poses together in an open ancestral courtyard flanked by carved wooden pillars, dressed in exquisite traditional silk attire with gold zari borders, intricate embroidery, and heirloom temple jewelry. Warm ceremonial lamps and hanging brass lanterns cast soft golden light across the rich textiles and proud, joyful faces. Captured on an 85mm full-frame portrait lens at f/2.0, razor-sharp focus on the family, creamy background rolloff, and authentic fabric sheen. Rich royal color grading with deep crimson, emerald green, antique gold, and natural skin tones, realistic hands and posture. Ultra-photorealistic Indian family heritage photography, 8K detail, no identity change, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "604",
+    "title": "First Birthday Cake Smash Cheers",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/604.jpg",
+    "promptText": "Transform the provided family reference photos into an exuberant first-birthday celebration photo while strictly preserving the exact facial identity, bone structure, and joyful expressions of every person. The parents and siblings cheer and clap behind a decorated low table as the one-year-old toddler delightfully smears vanilla frosting from a colorful smash cake. The background is adorned with pastel balloon arches, paper bunting, and fairy lights. Dressed in coordinated smart-casual party wear. Soft, bright daylight fill combined with warm decorative lights creates a joyful, vibrant mood with natural catchlights in every eye. Captured on a 50mm f/1.8 lens, fast shutter speed, sharp facial focus, creamy festive background bokeh, and realistic frosting texture on hands. Joyful celebration color grade with soft pastels, warm ivory, and natural skin tones. Ultra-photorealistic family birthday celebration, 8K detail, no distorted hands, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "605",
+    "title": "Pine Forest Camping Tent Lantern",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/605.jpg",
+    "promptText": "Transform the provided family reference photos into an atmospheric wilderness camping scene while keeping the exact facial identity, bone structure, and natural skin tones of each person intact. The family sits grouped outside a canvas expedition tent nestled among tall pine trees at blue hour dusk, gathered around a warm glowing kerosene lantern and roasting marshmallows over a safe fire pit. Wrapped in fleece blankets and outdoor down jackets. The warm lantern glow acts as organic key lighting casting deep amber highlights across smiling faces against the deep twilight forest background. Shot on a 50mm f/1.4 cinema lens, shallow depth of field, sharp eye focus, atmospheric smoke haze, and creamy night bokeh. Moody wilderness color grade with forest green, twilight indigo, glowing amber, and natural skin textures. Ultra-photorealistic family camping portrait, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "606",
+    "title": "Grandmother's Heirloom Jewelry Touch",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/606.jpg",
+    "promptText": "Transform the provided family reference photos into an intimate emotional heirloom moment while strictly preserving the facial identity, natural age lines, and authentic expressions of both the grandmother and granddaughter. The elderly grandmother gently clasps an antique gold necklace around her granddaughter's neck in a sunlit dressing room, both looking toward an ornate mirror with tender, emotional smiles. Dressed in richly textured traditional silk and velvet fabrics. Soft morning window light illuminates their faces, highlighting authentic skin textures, natural wrinkles, and polished gemstone reflections. Captured on an 85mm portrait prime lens, shallow depth of field, razor-sharp focus on their hands, jewelry, and faces, with creamy background bokeh. Warm heirloom color grading with antique gold, muted rose, and natural skin tones, anatomically correct hands and fingers. Ultra-photorealistic generational storytelling, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "607",
+    "title": "Rainy Day Window Puzzle & Cocoa",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/607.jpg",
+    "promptText": "Transform the provided family reference photos into a peaceful rainy afternoon indoor scene while maintaining 100% facial identity, natural skin texture, and authentic expressions of each family member. The family sits together around a low wooden coffee table assembling a large jigsaw puzzle near a large bay window with rain droplets streaking down the glass. Ceramic mugs of hot chocolate with marshmallows steam gently nearby. Dressed in soft knit sweaters and wool socks. Cool overcast daylight from the window mixes with warm indoor table lamp light, creating gentle, dimensional facial highlights. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and soft rain-droplet background blur. Moody yet cozy color grade with slate blue, warm caramel, and natural skin tones. Ultra-photorealistic indoor family lifestyle, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "608",
+    "title": "Graduation Day Proud Embrace",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/608.jpg",
+    "promptText": "Transform the provided family reference photos into a deeply proud graduation celebration portrait while strictly preserving the person's exact facial structure, bone contours, eyes, and natural skin tones. The graduate, wearing a black academic gown and cap with tassel, is held in a proud, emotional hug by their parents on a sunlit university campus lawn. Historic collegiate brick buildings and blurred fellow graduates fill the background. Faces beam with tears of joy and genuine relief. Dressed in sharp formal celebration clothing. Captured on an 85mm f/1.4 telephoto lens, shallow depth of field, razor-sharp eye focus on the family, creamy collegiate bokeh, and soft sun flare. High-impact celebratory color grading with rich brick red, campus green, and warm skin tones, realistic hands and posture. Ultra-photorealistic graduation milestone photography, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "609",
+    "title": "Sunlit Farmhouse Kitchen Breakfast",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/609.jpg",
+    "promptText": "Transform the provided family reference photos into an authentic farmhouse morning breakfast scene while precisely retaining each individual's facial features, natural skin tone, eyes, and bone structure. The family sits together around a sturdy reclaimed-wood dining table loaded with fresh fruit platters, warm pancakes, milk pitchers, and orange juice, engaged in lively conversation with genuine smiles. Morning sunlight pours through white-curtained casement windows, casting crisp diagonal light beams and warm highlights across faces and dishes. Dressed in simple, comfortable weekend clothing. Captured on a 35mm f/2.0 prime lens, wide environmental framing, shallow depth of field, and sharp facial focus across the table. Warm rustic color palette with golden honey, clean whites, terracotta, and authentic skin pores. Ultra-photorealistic family breakfast moment, 8K detail, no plastic appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "610",
+    "title": "Golden Hour Wheatfield Stroll",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/610.jpg",
+    "promptText": "Transform the provided family reference photos into an expansive countryside sunset photograph while preserving 100% facial identity, bone structure, and expressions of each person. The family walks hand-in-hand down a narrow pathway cut through a vast field of golden ripe wheat at sunset, with parents gently swinging a young child between them. Low-angled sunlight backlights the wheat stalks with brilliant golden halos and casts warm rim light across the family's hair and shoulders. Dressed in relaxed neutral-toned linen and denim. Captured on an 85mm f/1.4 portrait lens, shallow depth of field, sharp facial focus, creamy foreground wheat bokeh, and atmospheric sun flare. Rich cinematic sunset color grade with amber, golden wheat yellow, and natural skin tones, realistic hand anatomy. Ultra-photorealistic rural family photography, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "611",
+    "title": "Festive Dining Table Candlelit Toast",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/611.jpg",
+    "promptText": "Transform the provided family reference photos into an elegant holiday family dinner photo while strictly maintaining the person's exact facial identity, bone structure, eyes, and skin tones. The extended family sits around a beautifully decorated holiday dinner table set with tall tapered candles, crystal glassware, fresh pine garlands, and roasted feast dishes. The head of the table raises a glass with a proud, warm smile as everyone joins in the toast. Dressed in sophisticated festive evening wear with refined textures. Glowing candlelight acts as the primary key lighting, casting warm highlights and soft shadows across faces. Captured on a 50mm f/1.4 cine lens, shallow depth of field, sharp eye focus on the smiling faces, and creamy candle bokeh. Luxurious warm holiday color grading with deep burgundy, spruce green, and champagne gold. Ultra-photorealistic festive family gathering, 8K detail, no distorted hands, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "612",
+    "title": "Four Generations Matriarch Throne",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/612.jpg",
+    "promptText": "Transform the provided family reference photos into a historic four-generation legacy portrait while strictly preserving the facial identity, natural age lines, and authentic bone structures of all four generations. The great-grandmother sits proudly in an ornate carved high-back velvet armchair, surrounded gracefully by her daughter, granddaughter, and great-grandchild cradled in arms. Dressed in formal heritage silk attire with coordinated colors and heirloom accessories. Soft, balanced studio portrait lighting with a gentle rim light sculpts each individual's facial contours, showing authentic skin textures from smooth newborn cheeks to weathered, dignified elder hands. Captured on a 105mm medium-format lens at f/3.2, comprehensive depth of field, razor-sharp focus on every face, and subtle painterly background rolloff. Deep regal color grade with royal blue, ivory, and gold. Ultra-photorealistic legacy family portrait, 8K detail, no face mixing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "613",
+    "title": "Porch Swing Sunset Harmony",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/613.jpg",
+    "promptText": "Transform the provided family reference photos into a peaceful front-porch sunset moment while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The family sits together on a wide hanging wooden porch swing outside a country home, gently swaying while watching the sunset across the front lawn. Dressed in soft cotton tees, overalls, and relaxed cardigans. Golden evening light floods the wooden porch slats, highlighting smiling profiles with warm, gentle illumination. Potted hanging petunias and climbing ivy frame the scene softly. Shot on an 85mm f/1.8 prime lens, shallow depth of field, sharp eye focus, creamy garden bokeh, and gentle highlight rolloff. Warm Americana color palette with soft honey, worn wood brown, and natural skin textures. Ultra-photorealistic family lifestyle portrait, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "614",
+    "title": "Apple Orchard Harvest Picking",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/614.jpg",
+    "promptText": "Transform the provided family reference photos into an active autumn apple orchard picking photo while maintaining 100% facial identity, natural skin texture, and expressions of every individual. The family walks down an apple orchard lane heavy with ripe red apples, holding woven wooden baskets; a parent lifts a child up to pick an apple from a high branch while everyone laughs cheerfully. Dressed in cozy flannel shirts, denim jackets, and boots. Warm afternoon autumn sunlight filters through apple leaves, casting crisp highlights on smiling faces and glossy fruit. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, creamy orchard row bokeh, and realistic hand anatomy. Vibrant harvest color grading with ruby red, orchard green, denim blue, and natural skin tones. Ultra-photorealistic outdoor family adventure, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "615",
+    "title": "Traditional Puja Family Prayer",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/615.jpg",
+    "promptText": "Transform the provided family reference photos into a sacred, devotional family prayer moment while strictly preserving the person's exact facial features, bone structure, eyes, and natural skin tones. The extended family sits cross-legged together on the polished marble floor before an illuminated home shrine, joining palms in respectful prayer during evening aarti. A burning brass oil lamp and fragrant dhoop incense cast soft, flickering golden illumination across their serene, peaceful faces. Dressed in traditional festive silk attire with subtle gold borders. Shot on a 50mm f/1.4 cine lens, shallow depth of field, sharp focus on the devotional expressions, and creamy shrine background bokeh with subtle smoke haze. Sacred warm color grade with brass gold, vermilion red, saffron, and natural skin tones, realistic hand and finger anatomy. Ultra-photorealistic cultural family devotion, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "616",
+    "title": "Backyard Movie Night Blanket Fort",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/616.jpg",
+    "promptText": "Transform the provided family reference photos into an enchanting outdoor movie night scene while preserving 100% facial identity, natural skin texture, eyes, and bone structure of every member. The family lounges together inside an elaborate backyard blanket-and-pillow fort under hanging warm fairy lights, sharing a bowl of popcorn while looking toward an off-camera projector screen with amused, happy smiles. Dressed in cozy pajamas and hooded sweatshirts. Soft cool blue twilight ambient light contrasts with the warm golden fairy lights and projector light glow on their faces. Captured on a 35mm f/1.4 lens, shallow depth of field, sharp facial details, and creamy garden night bokeh. Dreamy modern lifestyle color grading with warm amber, deep navy, and natural skin tones. Ultra-photorealistic family night in, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "617",
+    "title": "Lakeside Dock Fishing Lessons",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/617.jpg",
+    "promptText": "Transform the provided family reference photos into a nostalgic outdoor parenting moment while precisely retaining each individual's facial structure, natural skin tone, eyes, and authentic expressions. A parent and child sit side-by-side on the edge of a rustic wooden dock extending into a mirror-calm mountain lake at early morning, holding a fishing rod together while the other family members watch from a wooden bench nearby. Morning mist hovers softly over the water, and pine-covered mountains reflect in the lake. Dressed in warm outdoor vests, flannel shirts, and beanies. Soft morning sunbeams pierce through trees, creating crisp rim light on shoulders and profiles. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy lake reflection bokeh. Calm outdoor adventure grade with lake blue, pine green, and natural skin tones. Ultra-photorealistic family bonding photography, 8K detail, no plastic appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "618",
+    "title": "Family Photo Album Nostalgia",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/618.jpg",
+    "promptText": "Transform the provided family reference photos into an emotionally rich nostalgic indoor portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The family gathers around a large leather-bound photo album opened on an antique wooden coffee table, pointing at old vintage photographs and sharing heartfelt smiles and laughter. Dressed in comfortable smart-casual sweaters. Warm afternoon daylight from a nearby window mixes with a soft incandescent floor lamp, casting flattering highlights across faces and textured album pages. Captured on a 50mm f/1.4 prime lens, shallow depth of field, sharp facial focus on the smiling eyes, and creamy living room background blur. Warm nostalgic color grade with amber, rich leather brown, and natural skin textures, anatomically correct hands and fingers. Ultra-photorealistic family storytelling, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "619",
+    "title": "Parents' 25th Anniversary Vow Renewal",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/619.jpg",
+    "promptText": "Transform the provided family reference photos into an elegant silver-anniversary celebration photo while maintaining 100% facial identity, natural age lines, and authentic expressions of each family member. The parents stand under a decorated floral arch in a manicured estate garden holding hands and smiling emotionally at each other, while their grown children watch proudly from the front row wiping away happy tears. Dressed in sophisticated formal silver-grey and navy celebration attire. Soft late-afternoon sunlight creates gentle rim highlights across the floral arch and clothing folds. Captured on an 85mm f/1.4 cinema lens, shallow depth of field, razor-sharp focus on the couple's expressive faces, and creamy floral bokeh behind them. Refined luxury color grade with champagne, silver, slate blue, and natural skin tones. Ultra-photorealistic family anniversary milestone, 8K detail, no distorted hands, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "620",
+    "title": "Coastal Cliff Kite Flying",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/620.jpg",
+    "promptText": "Transform the provided family reference photos into an exhilarating, windswept outdoor action photograph while strictly preserving the person's exact facial features, bone structure, eyes, and natural skin tones. The family runs together across a grassy coastal headland high above the sea, holding the string of a colorful diamond kite soaring high into a brilliant blue sky. Dressed in windbreakers, casual jeans, and sneakers with hair tousled naturally by sea breezes. Bright natural daylight with a soft sun flare illuminates their laughing, upturned faces. Captured on a 35mm wide-angle lens, fast shutter speed freezing motion, deep landscape perspective showing distant ocean waves crashing against cliffs, and sharp facial details. Vibrant outdoor lifestyle color grade with ocean cyan, grassy green, kite red, and natural skin tones. Ultra-photorealistic family adventure, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "621",
+    "title": "Festive Lights Balcony Hug",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/621.jpg",
+    "promptText": "Transform the provided family reference photos into an intimate festive evening portrait while strictly maintaining 100% facial identity, bone structure, and joyful expressions of every person. The family embraces warmly on an apartment balcony at dusk, surrounded by glowing golden fairy lights wrapped around the railing and small flickering candles on the ledge. The twinkling city skyline glows softly in the twilight background. Dressed in rich festive knitwear or traditional ethnic tunics. The warm fairy lights cast soft, luminous key lighting across their smiling, close-knit faces. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus with golden catchlights, and creamy circular city bokeh bubbles. Warm holiday color grading with deep amber, midnight blue, and natural skin textures. Ultra-photorealistic family festive warmth, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "622",
+    "title": "Grandfather Workshop Woodcrafting",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/622.jpg",
+    "promptText": "Transform the provided family reference photos into an authentic artisanal heritage scene while precisely retaining each individual's facial features, natural skin tone, eyes, and bone contours. An elderly grandfather in a dusty leather workshop apron guides a young grandchild's hands as they carefully sand a handcrafted wooden toy on a sturdy workbench. Wood shavings and antique hand tools litter the background. A shaft of morning sunlight cuts through a dusty window, illuminating floating sawdust and highlighting the focused, loving expressions on their faces. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy background workshop blur. Earthy heritage color grading with cedar wood brown, warm brass, and authentic skin pores with dignified age lines. Ultra-photorealistic generational craftsmanship storytelling, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "623",
+    "title": "Holiday Dinner Candlelit Warmth",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/623.jpg",
+    "promptText": "Transform the provided family reference photos into an atmospheric holiday dinner celebration while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The extended family sits along a banquet table in a warm dining room, passing freshly baked bread and sharing toasts amidst laughter. Warm glowing candelabras and fairy lights draped along the ceiling provide soft, organic key illumination, creating realistic catchlights and dimensional facial modeling. Dressed in elegant holiday attire with velvet and wool textures. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus on the smiling faces, and creamy candle bokeh in the background. Rich festive color grade with warm amber, cranberry red, forest green, and natural skin tones. Ultra-photorealistic family feast photography, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "624",
+    "title": "Mountain Meadow Wildflower Stroll",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/624.jpg",
+    "promptText": "Transform the provided family reference photos into an inspiring alpine valley landscape photo while maintaining 100% facial identity, natural skin texture, and expressions of every individual. The family walks along an alpine trail through a high mountain meadow dotted with purple lupines and yellow wildflowers, with snow-capped mountain peaks rising dramatically under a clear morning sky. Dressed in technical outdoor fleece jackets, hiking boots, and hats. Clean, crisp morning mountain sunlight illuminates their refreshed, smiling faces with clear, natural lighting. Captured on a 35mm f/2.8 lens, deep environmental scale, sharp facial details, realistic mountain atmospheric haze, and vibrant natural colors. Majestic outdoor adventure grade with sky blue, wildflower violet, alpine green, and natural skin tones. Ultra-photorealistic family nature hike, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "625",
+    "title": "Newborn Sibling Gentle Touch",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/625.jpg",
+    "promptText": "Transform the provided family reference photos into a heartwarming sibling bonding photograph while strictly preserving the person's exact facial features, bone structure, eyes, and natural skin tones. An older toddler or child leans over a woven bassinet to gently kiss or touch the forehead of their newborn sibling, while parents watch from behind with tender, loving smiles. Soft morning daylight streams through a large bedroom window, wrapping the scene in gentle, shadowless radiance. Dressed in soft pastel cotton loungewear. Captured on an 85mm f/1.4 macro-portrait lens, razor-sharp focus on the tender facial expressions and the newborn's tiny features, shallow depth of field, and creamy background blur. Soft pastel color grading with warm cream, pale lavender, and natural skin tones, realistic hand and finger anatomy. Ultra-photorealistic emotional family milestone, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "626",
+    "title": "Rooftop Stargazing Telescope Night",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/626.jpg",
+    "promptText": "Transform the provided family reference photos into a magical night-sky family photo while strictly maintaining 100% facial identity, bone structure, and expressions of each person. The family stands on an open rooftop terrace at midnight around a brass brass-trimmed astronomical telescope, looking up in awe at the glittering Milky Way galaxy and a soft crescent moon above. A warm red-tinted astronomy headlamp and terrace lanterns cast gentle, warm fill light across their upturned, wonder-filled faces. Wrapped in warm winter parkas and scarves. Shot on a 24mm f/1.4 night cinema lens, wide starry sky framing, sharp facial focus, and creamy city lights in the distant valley below. Deep indigo night sky palette with golden starlight, amber lanterns, and natural skin textures. Ultra-photorealistic family stargazing adventure, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "627",
+    "title": "Vintage Car Family Departure Wave",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/627.jpg",
+    "promptText": "Transform the provided family reference photos into an emotional retro travel farewell scene while precisely retaining each individual's facial structure, natural skin tone, eyes, and authentic expressions. The family waves out the open windows of a polished vintage sedan driving slowly down a sun-dappled tree-lined driveway, smiling warmly and waving back at loved ones. Dressed in classic travel clothing with leather accessories. Late-afternoon sun creates golden lens flares and specular highlights along the vintage car's polished paint and chrome window trim. Captured on a 50mm f/1.8 lens with a slight tracking motion blur in the background, sharp facial details, and creamy bokeh through the trees. Cinematic retro color grade with warm amber, teal car reflections, and natural skin tones. Ultra-photorealistic farewell storytelling, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "628",
+    "title": "Heritage Courtyard Sitar & Singing",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/628.jpg",
+    "promptText": "Transform the provided family reference photos into an artistic cultural family music session while strictly maintaining the person's exact facial identity, bone structure, eyes, and skin tones. The family sits gathered on handwoven rugs in an open stone palace courtyard, listening intently and singing along as a parent plays a classical Indian sitar. Warm evening lanterns and strings of yellow marigold garlands surround the veranda pillars. Dressed in rich linen and silk traditional kurtas and sarees. Warm sunset light mixed with glowing lanterns illuminates their engaged, musical expressions with flattering, golden warmth. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp facial focus, and creamy architectural courtyard bokeh. Rich cultural color grading with terracotta, saffron, brass gold, and natural skin tones, anatomically correct hands and fingers. Ultra-photorealistic family cultural heritage photography, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "629",
+    "title": "Intimate Studio Monochrome Family Portrait",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/629.jpg",
+    "promptText": "Transform the provided family reference photos into a museum-worthy fine-art black-and-white studio portrait while preserving 100% facial identity, bone contours, natural skin textures, and individual character of every family member. The family poses in an intimate, close-knit grouping against a seamless deep charcoal backdrop, embracing each other with quiet warmth, deep love, and dignified confidence. Dressed in simple, unadorned black and dark-gray clothing. A single large studio octabox key light sculpts their faces with smooth grayscale gradations, brilliant silver specular highlights on cheekbones, and soft shadow transitions. Photographed on a 105mm medium-format studio lens at f/3.2, razor-sharp focus on every eye, natural skin pores, realistic wrinkles, and fine hair strands. Masterful monochrome silver-gelatin tonal range with inky blacks and luminous highlights. Ultra-photorealistic fine-art family portrait, 8K detail, no face mixing, no cartoon appearance, 3:4 composition.",
+    "trending": true
   }
 ]
