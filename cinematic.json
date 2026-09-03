@@ -898,5 +898,23 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/475.jpeg",
     "promptText": "Transform the provided reference photo into an exquisite fine-art gallery portrait while precisely retaining the person's facial features, bone structure, eyes, nose, lips, and natural skin texture. Sculptural side-profile portrait of the subject against an immaculate dark charcoal background. A soft, large octabox key light sculpts the forehead, bridge of the nose, lips, and strong jawline with smooth, creamy grayscale gradation and silvery skin highlights. Dressed in a minimalist black crewneck. Photographed on a 105mm medium-format prime lens at f/2.8, razor-sharp focus on the eye and skin texture, pure shadow depth, and delicate Ilford HP5 400 grain structure. Masterwork black-and-white photography, 8K detail, no identity alteration, 3:4 composition.",
     "trending": true
+  },
+  {
+    "id": "586",
+    "title": "Neo-Noir Cyberpunk Hero Poster",
+    "category": "Cinematic",
+    "subcategory": "Movie Poster",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/586.jpeg",
+    "promptText": "Transform the provided reference photo into a gritty neo-noir sci-fi blockbuster movie poster while strictly maintaining 100% facial identity, natural skin texture, eye focus, and facial structure. Position the subject in the center wearing a detailed futuristic technical coat, backlit by vibrant neon holographic signs and towering rain-drenched megacity skyscrapers. Water droplets reflect sharp cyan and magenta light across the subject's face, complemented by hard rim shadows. Subtly incorporate a lower double-exposure layer of flying transit vehicles and wet asphalt alleys. Deep cinematic shadows, optical lens flares, fine IMAX grain, crisp photographic realism, blockbuster one-sheet composition. 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "587",
+    "title": "Cosmic Odyssey Cinema Poster",
+    "category": "Cinematic",
+    "subcategory": "Double Exposure",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/587.jpeg",
+    "promptText": "Transform the provided reference photo into a visionary sci-fi double-exposure cinema poster while completely maintaining the exact facial identity, bone structure, and gaze of the subject. A razor-sharp, contemplative portrait is bathed in soft starlight and deep blue key light. Blended within the silhouette and flowing outward is an awe-inspiring vista of deep-space nebulae, planetary rings, swirling solar dust, and an exploratory spacecraft traversing cosmic clouds. Balanced with minimal modern sci-fi typography guidelines, Hasselblad medium-format clarity, rich dynamic range, crisp optical depth, 8K detail, no facial distortion. 3:4 composition.",
+    "trending": true
   }
 ]
