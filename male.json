@@ -205,5 +205,455 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/3.jpeg",
     "promptText": "Transform the provided reference photo into a cinematic high-end outdoor male portrait while preserving the exact identity and appearance of the person in the reference image. Keep the person's recognizable facial structure, natural proportions, eyes, nose, lips, jawline, hairstyle, beard or facial hair, skin tone, and distinctive characteristics unchanged. The result must clearly look like the same person from the reference photo, not a newly generated face. Place the subject in a sophisticated outdoor environment during golden hour, with warm natural sunlight creating subtle directional highlights across the face and a soft atmospheric glow around the subject. Use realistic cinematic lighting with gentle warm key light, natural ambient fill, subtle edge lighting, and realistic soft shadows. Create authentic skin texture with visible pores, fine facial hair, natural imperfections, realistic eyes, detailed iris reflections, and physically accurate facial shading. Use a professional full-frame portrait camera with an 85mm lens, wide aperture around f/1.8, shallow depth of field, smooth natural background separation, realistic lens compression, and creamy cinematic bokeh. Premium cinematic photography, natural color science, high dynamic range, warm but balanced color grading, subtle Kodak-inspired film tones, realistic contrast, sophisticated masculine editorial aesthetic, emotionally engaging composition, extremely detailed, photorealistic, 8K quality, no artificial skin smoothing, no plastic appearance, no face reshaping, no identity alteration, no exaggerated features, no oversaturation.",
     "trending": false
+  },
+  {
+    "id": "670",
+    "title": "Savile Row Bespoke Tailoring Fitting",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/670.jpg",
+    "promptText": "Transform the provided reference photo into an ultra-sophisticated bespoke tailoring editorial while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. Do not replace, redesign, beautify, age, de-age, or alter the person's identity. Place the subject inside a historic Mayfair bespoke tailor atelier surrounded by rich mahogany wood paneling, bolts of wool and cashmere cloth, brass mirrors, and tailoring shears. The subject stands in front of a three-way gilded mirror wearing an impeccably cut charcoal chalk-stripe three-piece wool suit with peak lapels, crisp white French cuff shirt, silk tie, and polished oxfords. A tailor's hand in soft focus adjusts a cuff. Use warm directional natural window light combined with ambient chandelier glow. Captured on an 85mm f/1.8 prime lens, shallow depth of field, razor-sharp eye focus, natural skin pores, realistic textile weave, and soft background bokeh. Ultra-photorealistic luxury menswear editorial, 8K detail, no identity change, no plastic skin, no distorted anatomy, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "671",
+    "title": "Cyberpunk Neon Techwear Alley",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/671.jpg",
+    "promptText": "Transform the provided reference photo into a gritty futuristic streetwear photograph while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. Position the subject in a narrow Tokyo alleyway after rain under flickering neon signage. Dress the subject in an oversized tactical techwear shell jacket with taped seams, modular utility chest harness, dark cargo joggers, and high-top sneakers. Rain droplets glisten on the jacket and damp pavement. Hard cyan and magenta neon light sculpts the face with dramatic rim lighting and deep contrast shadows. Captured on a 50mm f/1.4 cine lens, fast shutter speed, shallow depth of field, sharp facial focus, and creamy wet reflection bokeh. Ultra-photorealistic cyberpunk street fashion, raw urban energy, authentic skin texture, realistic hands, 8K detail, no identity alteration, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "672",
+    "title": "Nordic Glacial Arctic Expedition",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/672.jpg",
+    "promptText": "Transform the provided reference photo into an epic polar exploration portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. Place the subject standing upon a blue glacial ice shelf in Svalbard overlooking sea ice and distant jagged peaks under crisp overcast polar skies. Dressed in a technical heavy-duty expedition parka with coyote-fur trim, mountaineering harness, and thermal gloves. Frost crystals cling naturally to the beard and eyebrows. Crisp natural polar daylight creates clean, flattering wrap-around illumination. Captured on an 85mm portrait lens, shallow depth of field, razor-sharp eye focus with icy catchlights, realistic cold-air skin flush, and creamy glacial bokeh. Ultra-photorealistic adventure travel photography, authentic mountain textures, 8K detail, no identity change, no plastic appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "673",
+    "title": "1950s Jazz Club Saxophonist Spotlight",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/673.jpg",
+    "promptText": "Transform the provided reference photo into a smoky 1950s jazz club portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits on a wooden stage stool holding a vintage brass tenor saxophone, looking introspectively toward the crowd. Dressed in a relaxed 1950s tailored tweed jacket, open-collar linen shirt, and pleated trousers. A single warm tungsten overhead spotlight cuts through hazy cigarette smoke, casting sculpted chiaroscuro highlights across the cheekbones, brow, and polished brass instrument. Captured on a 50mm vintage prime lens, authentic Kodak Tri-X 400 monochrome grain, deep inky blacks, silver skin tones, and rich midtone separation. Ultra-photorealistic retro jazz cinematography, 8K detail, no facial distortion, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "674",
+    "title": "Midnight Helipad Executive Skyline",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/674.jpg",
+    "promptText": "Transform the provided reference photo into a commanding high-altitude executive portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on a skyscraper rooftop helipad at midnight beside an executive helicopter with idling rotor blades. In the background, a glittering metropolitan skyline stretches across the horizon. Dressed in a tailored dark navy overcoat over a bespoke charcoal suit and silk tie, with one hand in the pocket and an understated luxury watch visible. Cool blue city ambient light contrasts with warm runway marker lights. Shot on an 85mm T1.5 cinema lens, shallow depth of field, sharp eye focus, creamy skyscraper bokeh, and realistic wind in hair. Ultra-photorealistic modern billionaire editorial, 8K detail, no identity change, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "675",
+    "title": "Boxing Gym Heavy Bag Determination",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/675.jpg",
+    "promptText": "Transform the provided reference photo into a raw, visceral boxing training portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject rests between rounds against a worn leather heavy bag in an authentic brick-walled boxing gym, hands wrapped in textured white cotton wraps. Realistic sweat glistens on the brow and collarbone. Dressed in an athletic tank top and training shorts. Hard directional side lighting from an industrial window sculpts athletic muscular definition and facial contours with gritty realism. Captured on a 50mm f/1.8 lens, fast shutter speed, sharp facial details, authentic skin pores, and creamy gym background blur. Gritty sports editorial color grading, 8K detail, no exaggerated muscles, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "676",
+    "title": "Tuscan Vineyard Wine Cellar Tasting",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/676.jpg",
+    "promptText": "Transform the provided reference photo into an elegant travel lifestyle portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands inside an ancient vaulted stone wine cellar in Tuscany surrounded by large oak aging barrels, gently swirling a glass of deep ruby Chianti. Dressed in a tailored olive linen blazer, cream knit polo, and tan trousers. Soft warm candlelight and recessed architectural spotlights illuminate the textured stone walls, casting warm golden highlights across the subject's face. Captured on an 85mm portrait prime lens, shallow depth of field, sharp facial focus, realistic glass refractions, and creamy barrel bokeh. Warm European lifestyle color grading, natural skin texture, 8K detail, no identity change, no artificial smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "677",
+    "title": "Neo-Noir Detective Shadowed Office",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/677.jpg",
+    "promptText": "Transform the provided reference photo into a tense neo-noir thriller frame while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits behind a cluttered wooden detective desk in a darkened office at 2 AM. Light from a streetlamp outside cuts through slatted window blinds, casting sharp horizontal shadow stripes across the face and unbuttoned dress shirt with loosened tie. Case files, a vintage desk fan, and an amber glass of whiskey rest nearby. Captured on an 85mm cinema lens, high-contrast chiaroscuro lighting, razor-sharp eye focus with intense catchlights, and deep shadow rolloff. Moody cinematic color grading with amber, shadow charcoal, and natural skin pores, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "678",
+    "title": "Metropolis Double-Exposure Silhouette",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/678.jpg",
+    "promptText": "Transform the provided reference photo into an editorial fine-art double exposure while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable. The primary layer is a razor-sharp high-fashion studio profile of the subject under precise rim lighting. Blended organically within the silhouette is an intricate second exposure of a glowing night metropolis, illuminated skyscraper glass towers, and long-exposure traffic light trails. Crisp silver-gelatin monochrome grade with deep inky blacks and radiant highlights. Captured with the visual characteristics of a medium-format studio camera, clean architectural alignments, authentic film grain, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "679",
+    "title": "Heritage Barbershop Straight-Razor Grooming",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/679.jpg",
+    "promptText": "Transform the provided reference photo into an authentic heritage barbershop scene while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject reclines in an antique green-leather hydraulic barber chair with a warm white hot towel draped around the neck and rich lather applied to the cheek. Mirrors reflect subway-tiled walls, vintage tonic bottles, and warm globe lamps. The subject looks into the mirror with a relaxed, confident half-smile. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus through mirror reflection, and creamy background bokeh. Warm vintage barbershop color grading with rich leather, warm brass, and natural skin pores, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "680",
+    "title": "Alpine Ski Chalet Balcony Espresso",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/680.jpg",
+    "promptText": "Transform the provided reference photo into a luxury winter getaway lifestyle portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject leans against the carved timber railing of a Swiss alpine chalet balcony at morning, holding a steaming ceramic espresso cup. Beyond the balcony, sunlit snow-capped peaks and frosted pine forests stretch out under a brilliant winter blue sky. Dressed in an ivory cable-knit fisherman sweater and tailored wool trousers. Crisp natural sunlight reflects off the snow, creating clean, radiant fill light on the face. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy mountain bokeh. Pristine luxury travel aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "681",
+    "title": "Underground Tuner Garage Mechanic Stance",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/681.jpg",
+    "promptText": "Transform the provided reference photo into an authentic automotive culture portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in a dimly lit custom tuning garage wiping hands on a shop rag beside an opened hood of a high-performance JDM car. Neon garage tube lights and overhead work-lamps illuminate tool racks, chrome exhaust pipes, and oil drums. Dressed in rugged dark workwear overalls and a distressed tee. The subject holds a grounded, authentic, confident gaze. Captured on a 35mm wide lens, shallow depth of field, sharp facial focus, and realistic metallic reflections. Gritty automotive color grading with steel blue, warm tungsten, and natural skin textures, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "682",
+    "title": "Minimalist Concrete Architectural Sidelight",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/682.jpg",
+    "promptText": "Transform the provided reference photo into an editorial architectural portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands beside a massive floor-to-ceiling slit window inside a raw brutalist concrete gallery. Stark geometric sunlight strikes the face from the side, creating clean architectural shadows and luminous skin highlights. Dressed in a high-neck black merino wool sweater and minimalist tailored trousers. Photographed on an 85mm lens at f/2.8, razor-sharp focus on the iris and bone structure, smooth concrete background textures, and precise tonal rolloff. High-fashion minimalist color grading with monochrome stone gray, deep black, and natural warm skin tones, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "683",
+    "title": "Sahara Dune Expedition Land Cruiser",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/683.jpg",
+    "promptText": "Transform the provided reference photo into an epic desert expedition portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits on the front fender of a dust-covered vintage overland 4x4 parked atop a towering sand dune in the Sahara during golden hour. A desert linen scarf rests loosely around the neck, worn over a safari utility shirt and cargo pants. The low-angle desert sun casts deep golden rim light across windblown hair and sculpted cheekbones. In the background, endless rolling sand ridges fade into amber atmospheric haze. Captured on an 85mm cinema lens, shallow depth of field, sharp eye focus, and creamy desert bokeh. Warm terracotta and sand gold color grading, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "684",
+    "title": "Steampunk Master Horologist Workshop",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/684.jpg",
+    "promptText": "Transform the provided reference photo into a detailed horology artisan portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject leans over a jeweler's bench using precision tweezers on the escapement of a complex tourbillon watch movement. An articulated magnifying loupe rests on one eye. The workshop is lined with antique clockwork gears, brass pendulums, and miniature drawers. An adjustable green banker's lamp provides focused key light on the hands and face. Dressed in a waistcoat and rolled-sleeve linen shirt. Shot on a 50mm macro-portrait lens, razor-sharp focus on the eyes and tools, authentic brass reflections, and warm vintage shadows. Rich amber and antique brass color grade, 8K detail, no distorted fingers, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "685",
+    "title": "Rainy Harbor Dock Fisherman Knit",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/685.jpg",
+    "promptText": "Transform the provided reference photo into a moody maritime cinema still while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands at the edge of a wet wooden harbor pier in a coastal fishing village during a steady drizzle. Trawlers and lobster traps fade into soft sea fog in the background. Dressed in a heavy navy-blue ribbed wool turtleneck sweater and dark weather-resistant trousers. Sea spray and rain droplets bead realistically on the sweater wool and hair. The subject gazes toward the rough ocean with quiet resilience. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy water reflection bokeh. Atmospheric slate gray, deep navy, and natural skin tones, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "686",
+    "title": "1970s Vinyl DJ Turntable Groove",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/686.jpg",
+    "promptText": "Transform the provided reference photo into an authentic 1970s analog music portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands behind twin vintage turntables in a wood-paneled lounge, wearing over-ear retro coiled-cable headphones with one ear cupped, smiling as a vinyl record drops into the groove. Dressed in a wide-collar silk retro shirt and tailored flare trousers. A warm amber lamp and subtle spinning mirror-ball reflection create sparkling light flecks across the scene. Photographed on a vintage 50mm f/1.4 lens, authentic Kodak Ektachrome film grain, warm analog color saturation, and soft highlight halation. Nostalgic 70s music editorial aesthetic, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "687",
+    "title": "MMA Fighter Pre-Bout Locker Room Focus",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/687.jpg",
+    "promptText": "Transform the provided reference photo into an intense combat sports portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits on a bench in a dimly lit concrete locker room under an open overhead locker, taping hands with athletic tape before entering the arena. Wearing fight shorts and an open hoodie. Overhead fluorescent light creates sharp muscular definition along the shoulders and back, with deep, resolute shadows over the focused eyes. Realistic sweat sheen and skin pores. Captured on an 85mm T1.5 cinema lens, shallow depth of field, razor-sharp eye focus, and dramatic contrast. Raw athletic documentary grading, 8K detail, no exaggerated anatomy, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "688",
+    "title": "Luxury Yacht Helm Captain Navigation",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/688.jpg",
+    "promptText": "Transform the provided reference photo into an aspirational nautical luxury portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands at the polished teak and chrome steering helm of a modern superyacht cruising open turquoise Mediterranean waters. Dressed in a crisp white linen shirt with rolled sleeves, tailored navy shorts, deck shoes, and polarized sunglasses resting in hand. Warm golden-hour sun glints off the chrome throttles and calm sea swells. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, realistic ocean reflections, and creamy water bokeh. High-end Riviera lifestyle aesthetic with azure blue, polished teak, and sun-warmed skin tones, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "689",
+    "title": "Rooftop Stargazer Telescope Night",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/689.jpg",
+    "promptText": "Transform the provided reference photo into a peaceful night-sky lifestyle portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands beside an optical brass telescope on an open apartment terrace at midnight, looking up in wonder at a clear, star-studded sky. Wrapped in a heavy wool cardigan and scarf, holding a steaming metal tumbler. A small red astronomy lamp illuminates notes on a small wooden table, casting subtle warm rim light on the subject's profile. Captured on a 35mm f/1.4 lens, low-light cinema exposure, sharp facial details, realistic starlight, and creamy distant city lights bokeh. Deep indigo night grading, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "690",
+    "title": "Retro Film Contact Sheet Grid",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/690.jpg",
+    "promptText": "Transform the provided reference photo into an authentic 3x3 cinematic film contact sheet while preserving the exact identity and recognizable facial characteristics of the person in every single frame. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, and distinctive personal features consistently across all 9 panels. Arranged as a 3-by-3 grid showing the subject in sequential expressions: smiling, contemplative, intense gaze, laughter, adjusting collar, looking down, and direct eye contact. Authentic 35mm black borders with frame numbers (e.g., 21A, 22A) and yellow Kodak Tri-X lettering. Dressed in a classic turtleneck and overcoat. High-contrast black-and-white studio lighting, fine silver grain, and razor-sharp facial details in each frame. Ultra-photorealistic director's proof sheet, 8K detail, no inconsistent faces, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "691",
+    "title": "Wall Street Executive Boardroom Sunset",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/691.jpg",
+    "promptText": "Transform the provided reference photo into a commanding corporate leadership portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands at the head of a massive polished marble boardroom table on the 60th floor of a Manhattan skyscraper. Floor-to-ceiling glass windows behind showcase a fiery golden-hour sunset over the urban grid. Dressed in a bespoke midnight-navy suit, crisp white spread-collar shirt, and silver silk tie. The warm sunset backlights the silhouette with glowing rim light while soft interior ambient light sculpts the face. Shot on an 85mm f/2.0 lens, shallow depth of field, sharp facial focus, and creamy city bokeh. Forbes-level executive editorial, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "692",
+    "title": "1940s Bomber Pilot Aviator Jacket",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/692.jpg",
+    "promptText": "Transform the provided reference photo into an authentic WWII aviator portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on an airfield tarmac beside a vintage polished-aluminum twin-engine aircraft under hazy afternoon sun. Dressed in a weathered shearling-lined brown leather B-3 bomber jacket, khaki trousers, and aviator sunglasses held in hand. Natural wind ruffles hair. Directional sunlight highlights the authentic distressed leather patina and the subject's confident, grounded expression. Captured on a 50mm vintage lens, authentic 1940s Kodachrome warm color balance, natural grain, and realistic skin texture. Classic historical aviation portrait, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "693",
+    "title": "Pacific Northwest Redwood Trail Hiker",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/693.jpg",
+    "promptText": "Transform the provided reference photo into an atmospheric wilderness hiking portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject hikes through an ancient redwood forest in Oregon as early-morning sun rays filter through towering mossy canopy trees. Dressed in an olive technical fleece, durable trail pants, and carrying an ergonomic backpack with trekking poles. The subject pauses on the dirt trail, taking a deep breath with a refreshed smile. Volumetric shafts of morning light illuminate airborne forest dust and moss textures. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and lush forest bokeh. Earthy nature grade with deep evergreen, moss, and warm skin tones, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "694",
+    "title": "Midnight Metro Commuter Headphone Solitude",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/694.jpg",
+    "promptText": "Transform the provided reference photo into a moody urban cinema frame while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject leans back against the window of an almost-empty subway train car speeding through a dark tunnel at midnight. Wearing over-ear studio headphones, gazing with calm contemplation while listening to music. Dressed in a dark wool overcoat and scarf. Overhead flickering subway lights cast realistic specular highlights and soft shadow transitions across the face, while dark tunnel walls streak past the glass. Captured on an 85mm cinema lens, shallow depth of field, sharp eye focus, and realistic motion blur outside. Wong Kar-wai inspired color palette with cyan, deep amber, and natural skin tones, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "695",
+    "title": "Historical Samurai Armor Katana Stance",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/695.jpg",
+    "promptText": "Transform the provided reference photo into a majestic historical samurai warrior portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in the courtyard of a feudal wooden temple amidst drifting cherry blossom petals, hand resting firmly on the hilt of a sheathed katana at the sash. Dressed in authentic blackened lacquered plate armor with crimson silk lacing and detailed iron shoulder pauldrons. The subject's expression is resolute, honorable, and intensely focused. Soft overcast daylight creates subtle metallic sheen along the armor plates. Shot on an 85mm cinema lens, shallow depth of field, sharp eye focus, and soft falling petal bokeh. Historical epic cinema grade with deep black, crimson, and natural skin tones, 8K detail, no plastic appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "696",
+    "title": "Roland Garros Clay Tennis Rest Bench",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/696.jpg",
+    "promptText": "Transform the provided reference photo into an authentic professional tennis athlete portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits on a wooden courtside bench during changeover at a red clay tennis court, resting a pro racket across the knees. Fine red clay dust clings realistically to court shoes and socks. Dressed in crisp white athletic polo and shorts. The subject wipes sweat from the forehead with a white towel, looking directly into the camera with intense athletic focus. Bright afternoon sun creates sharp, athletic shadows. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy clay court bokeh. Saturated sports editorial color grading, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "697",
+    "title": "Paris Seine Riverbank Autumn Trench",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/697.jpg",
+    "promptText": "Transform the provided reference photo into a timeless Parisian travel editorial while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands along the stone balustrade of the Seine River in Paris near an open green bouquiniste bookstall. Golden autumn leaves drift from riverside plane trees, with the Pont Alexandre III bridge softly blurred in the background. Dressed in a tailored camel trench coat, black turtleneck sweater, and dark trousers. The subject smiles warmly with effortless European charm. Soft diffused overcast afternoon light provides even, flattering illumination across the face. Shot on an 85mm f/2.0 portrait lens, shallow depth of field, razor-sharp eye focus, and creamy Parisian background bokeh. Sophisticated autumn color grade with camel, sage, charcoal, and natural skin pores, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "698",
+    "title": "Velvet Dinner Jacket Grand Opera Gala",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/698.jpg",
+    "promptText": "Transform the provided reference photo into a magnificent black-tie gala portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on the sweeping marble staircase of an opulent grand opera house before evening curtain. In the background, tiered balconies with red velvet and massive crystal chandeliers glow with golden warmth. Dressed in a luxurious deep-emerald or burgundy velvet dinner jacket with black satin shawl lapels, white tuxedo shirt, black bow tie, and patent leather shoes. The subject pauses with a glass of champagne, exuding relaxed aristocratic confidence. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy chandelier bokeh. Rich regal color grading with emerald, gold, deep black, and natural skin tones, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "699",
+    "title": "1980s Neon Synthwave Arcade Duel",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/699.jpg",
+    "promptText": "Transform the provided reference photo into an electric 1980s retro arcade scene while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands gripping the joystick of a glowing vintage arcade cabinet, face lit by the electric cyan and hot-magenta CRT screen glow. Dressed in an authentic 1980s color-blocked nylon windbreaker, washed denim, and digital watch. The background is filled with rows of buzzing neon pinball machines and colorful CRT screens in soft bokeh. Captured on a 50mm f/1.4 lens, shallow depth of field, sharp eye focus reflecting neon game sprites, and authentic 1980s analog film grain. Vibrant retro synthwave color palette, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "700",
+    "title": "Subterranean Spelunking Headlamp Discovery",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/700.jpg",
+    "promptText": "Transform the provided reference photo into a thrilling subterranean exploration portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in a cathedral-sized limestone cave surrounded by ancient stalactites and an underground turquoise river. The beam of an LED headlamp cuts through cool cave mist, creating powerful volumetric light rays. Dressed in caving overalls, harness with climbing gear, and mud-dusted technical gloves. The subject looks around in awe, with water droplets glistening on the rock walls. Shot on a 35mm wide-angle cinema lens, sharp eye focus, atmospheric subterranean depth, and deep shadow contrast. Cool limestone slate and turquoise water color grade, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "701",
+    "title": "Sculptural Silver-Gelatin Studio Profile",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/701.jpg",
+    "promptText": "Transform the provided reference photo into a museum-grade fine-art monochrome studio portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, and distinctive personal features. The subject is posed in a sharp three-quarter profile against a pure black background. A single large strip softbox provides precise side key lighting, sculpting the brow, nose bridge, lips, and strong jawline with silvery grayscale gradation and pure shadow depth. Dressed in a minimalist black crewneck sweater. Shot on a 105mm medium-format lens at f/2.8, razor-sharp focus on the illuminated eye with clear catchlight, authentic Ilford Pan F fine grain, and natural skin pores. Iconic black-and-white editorial portrait, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "702",
+    "title": "Urban Concrete Skatepark Bowl Drop",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/702.jpg",
+    "promptText": "Transform the provided reference photo into a dynamic skate culture photograph while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject is captured standing on the coping of a weathered concrete skate bowl with board underfoot, gazing with relaxed, authentic street swagger toward the camera. Dressed in an oversized washed-black graphic tee, baggy cargo pants, and skate sneakers. Sun-baked concrete, colorful graffiti murals, and city palm trees form the background. Bright natural afternoon sunlight creates crisp contrast and authentic shadows. Shot on a 28mm wide lens, low-angle dynamic perspective, sharp facial detail, and realistic concrete textures. Thrasher-inspired skate editorial aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "703",
+    "title": "Old World Library Wingback Chair",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/703.jpg",
+    "promptText": "Transform the provided reference photo into an intimate dark academia portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits in an oxblood leather wingback armchair inside an immense Victorian library surrounded by floor-to-ceiling bookshelves, rolling ladders, and brass chandeliers. Holding an open leather-bound volume with glasses pushed onto the forehead, looking up thoughtfully. Warm desk lamp light and dust motes suspended in the air create rich depth. Dressed in an olive tweed three-piece vest, rolled-sleeve linen shirt, and wool trousers. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy book-spine bokeh. Rich dark academia color palette, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "704",
+    "title": "Post-Apocalyptic Wasteland Scout",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/704.jpg",
+    "promptText": "Transform the provided reference photo into a Mad Max-inspired wasteland survivor portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on a rusted steel gantry overlooking a sun-bleached desert basin filled with industrial ruins. Dressed in layered distressed leather, canvas wraps, goggles resting around the neck, and an improvised water canteen strap. Face and clothes are lightly weathered with desert dust. The subject holds an alert, hardened, resilient expression looking toward the horizon. Harsh desert sunlight creates sharp high-contrast highlights and deep shadows. Shot on a 50mm cinema prime, shallow depth of field, sharp eye focus, and heat shimmer bokeh. Desaturated apocalyptic cinematic grading with rust, dust ochre, and natural skin tones, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "705",
+    "title": "Coastal Lighthouse Storm Waves Crash",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/705.jpg",
+    "promptText": "Transform the provided reference photo into a dramatic coastal storm photograph while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on the stone walkway of an Atlantic lighthouse as massive dark storm waves crash violently against sea stacks below, sending white water spray high into the air. Dressed in a traditional heavy-duty yellow fisherman's rain slicker and waterproof boots. Cold wind whips hair across the brow. The rotating lighthouse beam sweeps past overhead, casting dramatic intermittent silver rim light across the subject's face. Captured on an 85mm f/1.8 lens, fast shutter freezing water droplets, shallow depth of field, and sharp eye focus. Moody ocean storm grade with dark slate, seafoam white, and natural skin tones, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "706",
+    "title": "Equestrian Polo Match Field Uniform",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/706.jpg",
+    "promptText": "Transform the provided reference photo into a prestigious equestrian sports portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on a manicured polo field beside a magnificent thoroughbred polo pony after a match. Dressed in white polo breeches, team polo jersey with team number, tall polished brown leather riding boots, and a polo helmet held casually under one arm with mallet resting against the boot. Afternoon golden sunlight illuminates the lush grass and throws long shadows. The subject smiles with quiet athletic triumph. Captured on an 85mm f/2.0 portrait lens, shallow depth of field, sharp facial focus, and creamy green field bokeh. Luxury sports editorial color grading, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "707",
+    "title": "1960s British Mod Scooter Carnaby Street",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/707.jpg",
+    "promptText": "Transform the provided reference photo into a stylish 1960s British Mod culture portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits casually atop a chrome-mirrored vintage Lambretta scooter on London's Carnaby Street. Dressed in a classic olive fishtail parka over a sharply tailored three-button mohair suit, Chelsea boots, and narrow tie. In the background, swinging-sixties storefronts and red double-decker buses blur naturally. The subject offers a confident, effortless smirk. Captured on a 50mm vintage lens, soft British daylight, authentic 1960s Eastmancolor palette, subtle grain, and natural skin pores. Classic British Mod editorial, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "708",
+    "title": "High-Altitude Mountaineering Ice Axe Summit",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/708.jpg",
+    "promptText": "Transform the provided reference photo into an awe-inspiring alpine summit portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on a knife-edge snow ridge at the summit of a 14,000-foot Himalayan peak at sunrise, holding an ice axe firmly in the snowpack. A sea of clouds stretches endlessly below, pierced only by neighboring golden mountain horns. Dressed in a bright technical mountaineering suit with crampons and goggles pushed up onto the helmet. The subject's face is radiant with sheer triumph and awe. High-contrast alpine sunrise sunlight creates sharp golden highlights and deep blue snow shadows. Shot on a 35mm lens, crisp environmental depth, sharp eye focus, and realistic frost on eyelashes. Epic mountaineering photography, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "709",
+    "title": "Speakeasy Bartender Old Fashioned Craft",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/709.jpg",
+    "promptText": "Transform the provided reference photo into a refined mixology craftsmanship portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands behind a dark polished walnut bar inside an exclusive hidden speakeasy, expressing an orange peel over a crystal rock glass with an oversized clear ice block and smoking cinnamon stick. Backlit shelves of rare bourbon and vintage glassware glow in soft amber. Dressed in a tailored pinstripe vest, rolled-sleeve white shirt, and leather bar apron. Warm directional counter spotlighting illuminates the hands, cocktail, and subject's focused, welcoming face. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and sparkling glass reflections. Luxury hospitality editorial grading, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "710",
+    "title": "Tokyo Akihabara Night Streetwear Flash",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/710.jpg",
+    "promptText": "Transform the provided reference photo into a high-energy urban streetwear portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in the vibrant center of Akihabara at night surrounded by multi-story illuminated billboard towers and bustling crowds. Dressed in an oversized Japanese designer padded bomber jacket, distressed denim, and futuristic sneakers. Direct camera flash freezes the subject with sharp drop-shadows and vibrant color contrast, while the background neon glows in soft circular bokeh. The subject offers a confident, relaxed gaze into the lens. Captured on a 28mm wide lens, direct flash aesthetic, authentic skin texture, and raw street energy. Ultra-photorealistic modern fashion photography, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "711",
+    "title": "Abstract Geometric Shadow Fine-Art Studio",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/711.jpg",
+    "promptText": "Transform the provided reference photo into a conceptual high-fashion studio portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands before a minimalist off-white architectural wall as a powerful projector casts sharp, abstract geometric lines and color-blocked diagonal bands across the face and torso. Dressed in an asymmetric tailored black suit. The interplay between hard shadow shapes and illuminated skin planes creates an optical fine-art masterpiece while keeping facial identity completely recognizable. Captured on an 85mm prime lens at f/2.8, razor-sharp focus on the illuminated eye, smooth wall textures, and precise color boundary rendering. High-fashion gallery editorial grade, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "712",
+    "title": "Venice Gondola Grand Canal Twilight",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/712.jpg",
+    "promptText": "Transform the provided reference photo into a romantic Venetian travel portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits in the plush velvet seat of a traditional carved black gondola navigating the Grand Canal in Venice at blue hour twilight. Historic palazzos with glowing arched windows line the water, casting rippling golden reflections across the canal. Dressed in a tailored navy blazer, white linen shirt, and silk pocket square. The subject smiles gently with relaxed Italian charm. Soft twilight sky light mixes with warm palace lantern reflections on the face. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy canal reflection bokeh. Timeless European luxury travel aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "713",
+    "title": "Classic Noir Fedora Rain Trench Silhouette",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/713.jpg",
+    "promptText": "Transform the provided reference photo into a cinematic Humphrey Bogart style noir portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands on a dark cobblestone corner in heavy rain beneath an iron streetlamp, wearing a belted trench coat with an upturned collar and a classic felt fedora tilted slightly forward. The fedora brim casts a sharp shadow across the upper forehead, while the streetlamp illuminates the determined jawline, intense eyes, and wet rain-streaked cheekbones. Rain streaks shimmer through the light beam. Captured on an 85mm lens, high-contrast monochrome cinema grade, deep velvety blacks, silver highlights, and authentic 35mm grain. Iconic noir thriller atmosphere, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "714",
+    "title": "Formula Racing Pit Lane Helmet Under-Arm",
+    "category": "Male",
+    "subcategory": "Street & Sports",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/714.jpg",
+    "promptText": "Transform the provided reference photo into a high-octane motorsport driver portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in an active Formula race pit lane just before qualifying. In the background, mechanics work in soft blur around an aerodynamic single-seater race car on tire warmers. Dressed in a tailored fireproof racing suit with sponsor badges, holding a custom aerodynamic carbon-fiber racing helmet under one arm. Pit-lane garage overhead lights cast clean, modern highlights across the face, showing calm, steely pre-race concentration. Shot on an 85mm f/1.8 cine lens, shallow depth of field, sharp eye focus, and creamy pit lane bokeh. Modern motorsport editorial grading, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "715",
+    "title": "1920s Peaky Newsboy Cap Cobblestone Alley",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/715.jpg",
+    "promptText": "Transform the provided reference photo into a gritty 1920s historical gangster portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in a damp, narrow industrial brick alleyway in 1920s Birmingham. Wearing a tailored heavy tweed three-piece suit, wool overcoat, pocket-watch chain hooked across the waistcoat, and an authentic wool newsboy flat cap tilted forward. Industrial factory smoke drifts from background chimneys. The subject maintains a hard, unflinching, calculated stare into the lens. Soft overcast English daylight creates gritty, detailed shadows and reveals authentic skin pores and facial hair. Captured on a 50mm vintage lens, desaturated muted color grading with dark charcoal, rust, and natural skin tones. Iconic period drama aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "716",
+    "title": "Modern Architect Drafting Table Blueprints",
+    "category": "Male",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/716.jpg",
+    "promptText": "Transform the provided reference photo into an intellectual modern professional portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject leans over an expansive glass-topped drafting table in a high-ceiling architectural studio, examining architectural floor plans and 3D miniature building models. Dressed in a minimalist black turtleneck, tailored gray wool trousers, and thin-framed designer spectacles held in hand. Floor-to-ceiling windows behind look out over city skylines in late afternoon sunlight. Directional natural daylight sculpts the facial features with clean, professional elegance. Captured on an 85mm f/2.0 prime lens, shallow depth of field, sharp eye focus, and creamy studio bokeh. Architectural Digest style editorial portrait, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "717",
+    "title": "Wilderness Campfire Acoustic Guitar Song",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/717.jpg",
+    "promptText": "Transform the provided reference photo into an intimate campfire lifestyle portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits on a fallen log beside a crackling wilderness campfire on a starry mountain night, playing a worn acoustic guitar with a warm, genuine smile. A canvas tent and dense pine forest stand softly blurred in the background. The dancing orange flame of the fire acts as organic key lighting, casting warm amber highlights and soft shadows across the face, hands, and guitar wood. Wrapped in a rugged flannel shirt and down vest. Captured on a 50mm f/1.4 lens, shallow depth of field, razor-sharp eye focus reflecting firelight, and floating ember bokeh. Warm campfire nostalgia grading, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "718",
+    "title": "Cybernetic Neural Operator Hologram Visor",
+    "category": "Male",
+    "subcategory": "Creative & Concept",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/718.jpg",
+    "promptText": "Transform the provided reference photo into a futuristic cyberpunk sci-fi portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject sits in an advanced command hub wearing a sleek glowing neural visor across the forehead. Holographic data rings and floating translucent 3D telemetry charts cast pulsing cyan and amber light across the face. Subtle cybernetic dermal seams trace naturally along the temple and jawline. Dressed in a dark modular flight suit with fiber-optic wiring accents. The subject's expression is intensely focused and calculating. Shot on an 85mm cinema lens, razor-sharp focus on the eyes through holographic overlays, shallow depth of field, and creamy dark server room bokeh. High-end sci-fi cinema grade, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "719",
+    "title": "Golden Hour Sand Dune Arabian Falconry",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/719.jpg",
+    "promptText": "Transform the provided reference photo into a majestic heritage desert falconry portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands atop a sweeping golden sand dune in the Arabian desert at sunset, holding a majestic hooded hunting falcon perched on a heavy leather arm gauntlet. Dressed in an elegant flowing modern linen thobe or safari expedition attire with windblown keffiyeh scarf rested loosely over shoulders. Low-angle desert sunset casts radiant amber rim light along the shoulders, profile, and falcon feathers. Endless wind-sculpted sand dunes ripple into the glowing horizon. Captured on an 85mm f/1.4 lens, shallow depth of field, razor-sharp eye focus, and creamy golden sand bokeh. Regal desert lifestyle aesthetic, 8K detail, no identity change, no plastic skin, 3:4 composition.",
+    "trending": true
   }
 ]
