@@ -205,5 +205,455 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/26.jpg",
     "promptText": "Use the uploaded reference photo as the ONLY source for the person's identity and face. The uploaded photo must determine the person's exact facial identity, facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, hairstyle, age, and all distinctive facial characteristics. Preserve the person's real face faithfully and recognizably. Do not generate a new face, substitute another face, blend faces, beautify or redesign facial features, change ethnicity, change skin tone, change age, de-age, age, or otherwise reinterpret the person's identity. Do not use any imagined face from the prompt. The prompt controls only the styling, clothing, pose, environment, lighting, composition, and photographic treatment. Keep the person's identity consistent with the uploaded reference throughout the entire image. Dress the person in a sophisticated golden-hour luxury look: a flowing champagne silk blouse with an elegant open neckline, high-waisted cream tailored trousers, a lightweight camel blazer naturally draped over the shoulders, delicate gold jewelry, and refined tan leather heels. The fabrics should move naturally in the outdoor breeze and catch the warm sunlight realistically. Transform the provided reference photo into a cinematic high-end outdoor female portrait while preserving the exact identity and appearance of the person in the reference image. Place the subject in a sophisticated outdoor environment during golden hour, with warm natural sunlight creating subtle directional highlights across the face and a soft atmospheric glow around the subject. Use realistic cinematic lighting with gentle warm key light, natural ambient fill, subtle edge lighting, and realistic soft shadows. Create authentic skin texture with visible pores, fine fine facial hair, natural imperfections, realistic eyes, detailed iris reflections, and physically accurate facial shading. Use a professional full-frame portrait camera with an 85mm lens, wide aperture around f/1.8, shallow depth of field, smooth natural background separation, realistic lens compression, and creamy cinematic bokeh. Premium cinematic photography, natural color science, high dynamic range, warm but balanced color grading, subtle Kodak-inspired film tones, realistic contrast, sophisticated feminine editorial aesthetic, emotionally engaging composition, extremely detailed, photorealistic, 8K quality, no artificial skin smoothing, no plastic appearance, no face reshaping, no identity alteration, no exaggerated features, no oversaturation, Indian female facial identity, authentic South Asian appearance, natural Indian facial features, realistic Indian skin undertones, non-stereotyped photorealistic Indian woman. Create the final image in a cinematic 3:4 landscape composition. Use a true wide horizontal frame with balanced headroom and intentional negative space. Do not crop the final composition into square, portrait, 4:5, or 9:16 format. Photorealistic high-end fashion photography, realistic anatomy, natural hands and fingers, realistic fabric texture, physically believable lighting, accurate skin texture, natural facial detail from the uploaded reference, realistic depth of field, premium editorial color grading, no artificial plastic skin, no face replacement, no extra person, no duplicate person, no distorted anatomy, no warped clothing, no text, no watermark.",
     "trending": false
+  },
+  {
+    "id": "720",
+    "title": "Royal Velvet Anarkali Palace Corridor",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/720.jpeg",
+    "promptText": "Transform the provided reference photo into a majestic royal Indian couture portrait while strictly preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Use the uploaded reference photo as the ONLY source for identity and face. Preserve her exact facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive personal features. Do not replace, redesign, beautify, age, de-age, or alter her identity. Dress her in an exquisitely tailored floor-length royal emerald-green velvet Anarkali suit adorned with intricate antique gold zardozi embroidery, delicate pearl trims, a sheer organza dupatta with scalloped borders, and heirloom polki jewelry. Place her in the grand carved sandstone corridor of a historic Rajasthan palace during late golden hour. Warm low-angle sunlight streams through ornate jharokha arches, casting delicate lattice shadows and brilliant golden rim light across the rich velvet textile and her profile. Capture with an 85mm portrait prime lens at f/2.0, shallow depth of field, sharp eye focus, natural skin pores, realistic textile fibers, and soft architectural bokeh. Rich royal color grading with emerald green, antique gold, warm sandstone, and natural skin tones. Ultra-photorealistic royal Indian fashion editorial, 8K detail, no identity change, no plastic skin, no distorted anatomy, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "721",
+    "title": "Vintage Italian Riviera Riva Boat",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/721.jpeg",
+    "promptText": "Transform the provided reference photo into an iconic Mediterranean summer lifestyle portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age characteristics, and distinctive personal features. The woman must remain clearly recognizable as the same individual. The subject relaxes on the cream leather sunbed of a polished vintage mahogany Riva speedboat cruising the turquoise waters of the Amalfi Coast near Positano. Dressed in an effortless white linen halter dress, vintage tortoiseshell sunglasses pushed back onto windblown hair, and delicate gold jewelry. Warm Mediterranean afternoon sunlight glints off chrome boat fittings and crystalline ocean waves. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp facial detail, creamy pastel coastal cliff bokeh, and subtle sea spray mist. Rich European summer color palette with azure blue, polished mahogany, warm cream, and sun-kissed natural skin tones. Ultra-photorealistic luxury travel editorial, 8K detail, no facial distortion, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "722",
+    "title": "Cyberpunk Glass Penthouse Skyline",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/722.jpeg",
+    "promptText": "Transform the provided reference photo into a sleek futuristic cyber-noir portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain the original facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features without alteration. The subject stands before a floor-to-ceiling glass wall inside an ultra-modern high-rise penthouse overlooking a rain-slicked cyberpunk metropolis at midnight. Massive holographic advertisements and illuminated sky-bridges pulse with cyan and violet light in the rainy background. Dressed in a minimalist tailored matte-black technical blazer with iridescent trim and a high-neck bodysuit. Cyan and magenta city reflections play across the glass and her jawline with crisp rim lighting. Captured on an 85mm T1.5 cinema lens, shallow depth of field, razor-sharp focus on the eyes, subtle glass reflections, and creamy neon city bokeh. Moody sci-fi color grading with neon teal, deep indigo, and natural skin textures, 8K detail, no identity change, no cartoon appearance, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "723",
+    "title": "Sunset Lavender Field Straw Hat",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/723.jpeg",
+    "promptText": "Transform the provided reference photo into a serene French Provence nature portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Use the uploaded reference as the ONLY source for identity. Preserve her exact facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. Place the subject walking through endless blooming rows of purple lavender at sunset, holding a wide-brimmed woven straw hat gently against the evening breeze. Dressed in a breezy ivory tiered cotton sundress with soft gathers. Golden sunset rays backlight the lavender blossoms with glowing halos and cast warm, flattering illumination across her peaceful, smiling face. Captured on an 85mm f/1.8 portrait lens, shallow depth of field, razor-sharp facial focus, creamy purple foreground bokeh, and atmospheric haze over distant rolling hills. Warm pastel color grading with lavender violet, honey gold, cream, and natural skin tones. Ultra-photorealistic botanical lifestyle photography, 8K detail, no plastic skin, no distorted hands, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "724",
+    "title": "Gala Gold Filigree Haute Couture",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/724.jpeg",
+    "promptText": "Transform the provided reference photo into a breathtaking haute couture red-carpet gala portrait while preserving 100% facial identity, exact bone structure, eyes, nose, lips, and natural skin texture. The subject stands on an architectural marble staircase inside a grand museum gala hall, wearing a sculptural custom evening gown featuring a sculpted gold metallic filigree bodice, flowing black silk velvet skirt, and matching architectural ear cuffs. The subject gazes with regal, calm confidence into the camera. Sophisticated theatrical key lighting sculpts her facial contours, casting crystalline specular highlights across the polished gold metalwork while soft ambient museum lights create smooth background depth. Photographed on a medium-format 85mm f/2.0 lens, shallow depth of field, sharp eye focus with luminous catchlights, and authentic velvet and skin textures. High-fashion magazine editorial grade, 8K detail, no identity alteration, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "725",
+    "title": "1970s Studio 54 Disco Mirrorball",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/725.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic 1970s disco-glamour photograph while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive personal features. The subject laughs candidly on a crowded Studio 54 dancefloor beneath a massive spinning mirrorball that casts hundreds of dancing golden light speckles across the scene. Dressed in a shimmering metallic-gold halter jumpsuit with wide flared legs and platform heels. Captured with an 85mm vintage prime lens, starburst optical filters on specular reflections, authentic Kodak Kodachrome warm color balance, subtle film halation around nightclub lights, and realistic 35mm grain. Joyful nostalgic vintage fashion aesthetic, authentic skin texture, realistic hands, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "726",
+    "title": "Fine-Art Chiaroscuro Silk Drape",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/726.jpeg",
+    "promptText": "Transform the provided reference photo into a museum-grade chiaroscuro studio portrait while strictly maintaining 100% facial identity, bone contours, natural skin tones, and authentic expressions. The subject poses in sculptural three-quarter profile against an inky charcoal-gray background, wrapped elegantly in heavy liquid-silk champagne fabric that drapes across one shoulder with rich organic folds. A single large studio softbox positioned high to one side provides directional Rembrandt lighting, sculpting cheekbones, jawline, and collarbone with smooth tonal transitions and deep, velvety shadows. Captured on an 85mm f/1.8 medium-format lens, razor-sharp focus on the iris and natural skin pores, creamy silk sheen, and subtle film grain. Masterwork fine-art editorial photography with champagne gold, deep charcoal, and natural glowing skin tones. 8K detail, no plastic skin, no facial distortion, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "727",
+    "title": "Rainy Seoul Street Food Stall Glow",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/727.jpeg",
+    "promptText": "Transform the provided reference photo into an atmospheric cinematic street portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain the original facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject sits under the clear vinyl tarp of an authentic street-food pojangmacha stall in Seoul on a rainy evening, holding a warm ceramic cup with gentle steam rising. Droplets of rain streak down the transparent canopy, distorting vibrant red and amber market neon outside. Dressed in an oversized charcoal wool coat and knitted cream scarf. Warm tungsten pendant lights inside the stall illuminate her face with soft, flattering amber glow. Captured on a 50mm f/1.4 cine lens, shallow depth of field, razor-sharp eye focus, and creamy neon reflection bokeh on wet asphalt. Cinematic K-drama grade, authentic skin pores, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "728",
+    "title": "Artisan Ceramic Pottery Studio",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/728.jpeg",
+    "promptText": "Transform the provided reference photo into a serene artisan craftsman lifestyle portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject sits at a spinning potter's wheel in a sunlit rustic clay studio, shaping an organic terracotta vase with clay-dusted hands, smiling in deep artistic absorption. Dressed in an earthy linen apron over a relaxed cream shirt with rolled sleeves. Morning sunbeams pour through large paned factory windows, illuminating floating clay dust motes and highlighting the focused, serene expression on her face. Captured on an 85mm f/2.0 lens, shallow depth of field, sharp eye focus, and creamy background shelves of unglazed ceramics. Earthy organic color palette with terracotta, warm beige, soft olive, and natural skin textures. Ultra-photorealistic craftsman portrait, realistic hands, 8K detail, no plastic appearance, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "729",
+    "title": "Autumn Cashmere Central Park Stroll",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/729.jpeg",
+    "promptText": "Transform the provided reference photo into an elegant New York autumn lifestyle photograph while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive personal features. The subject walks along a stone pathway in Central Park during peak autumn foliage, holding a takeaway paper coffee cup with a genuine, relaxed smile. Dressed in an impeccably tailored camel cashmere coat over an ivory turtleneck, dark trousers, and leather boots. Golden and crimson maple leaves flutter through the crisp afternoon air, backlit by low golden-hour sunbeams. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy amber leaf bokeh. Classic New Yorker editorial aesthetic, rich autumn tones, authentic skin pores, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "730",
+    "title": "Floating Silk Water Pool Reflection",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/730.jpeg",
+    "promptText": "Transform the provided reference photo into an ethereal fine-art aquatic portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject rests peacefully on her back in calm, crystal-clear water with floating crimson rose petals, her face just breaking the surface with eyes open and tranquil. Long hair and flowing crimson silk fabric fan outward underwater like watercolor ribbons. Soft, diffused daylight reflects gentle undulating water caustics across her cheekbones and collarbone. Captured on an 85mm underwater-equipped lens, razor-sharp focus on the eyes and eyelashes, realistic surface ripples, and dreamy water bokeh. Fine-art gallery color grading with aquatic teal, deep crimson, and luminous natural skin tones. Ultra-photorealistic creative portrait, 8K detail, no identity change, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "731",
+    "title": "Banarasi Silk Saree Temple Stairs",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/731.jpeg",
+    "promptText": "Transform the provided reference photo into a stunning traditional Indian couture portrait while maintaining 100% facial identity, exact bone structure, eyes, nose, lips, and natural skin tone. The subject stands gracefully upon the ancient carved stone steps of a riverside temple ghat during early morning aarti. Dressed in a magnificent scarlet Banarasi silk saree woven with real gold zari floral motifs, paired with a matching embroidered blouse, antique temple kundan choker, jhumkas, and fresh jasmine (gajra) in her hair. Morning sunrise mist rises off the sacred river behind her, catching golden light rays that create a radiant rim around her silhouette. The subject smiles with serene, graceful poise. Captured on an 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp facial details, and soft temple bokeh. Rich Indian heritage color grading with scarlet red, antique gold, and natural warm skin tones. Ultra-photorealistic Indian cultural photography, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "732",
+    "title": "Film Noir Foggy Cobblestone Bridge",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/732.jpeg",
+    "promptText": "Transform the provided reference photo into a suspenseful cinematic noir scene while strictly preserving the person's exact facial features, bone structure, eyes, nose, lips, and natural skin texture. The subject stands beside the wet stone parapet of an old European bridge enveloped in thick midnight river fog. Dressed in a tailored belted black trench coat with collar popped and leather gloves, holding a smoking cigarette or umbrella with an intense, mysterious look back over her shoulder. An antique streetlamp overhead cuts through the dense mist, casting dramatic volumetric light and silvery highlights across her cheekbones and wet pavement. Captured on an 85mm cinema prime, high-contrast monochrome silver-gelatin grade, rich inky blacks, authentic 35mm grain, and creamy bokeh. Moody thriller cinema aesthetic, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "733",
+    "title": "1960s Vespa Roman Holiday Piazza",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/733.jpeg",
+    "promptText": "Transform the provided reference photo into a charming 1960s Italian cinema still inspired by Roman Holiday while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject sits casually on a vintage pastel-mint Vespa scooter parked in a sunlit cobblestone piazza before an ancient Roman baroque fountain. Dressed in a classic 1960s pleated white midi skirt, fitted navy boatneck top, silk neck scarf, and oversized cat-eye sunglasses pushed up onto styled hair. The subject beams with joyful, effortless European charm. Soft golden Mediterranean morning sun illuminates the scene with natural warmth. Shot on a 50mm vintage lens, authentic 1960s Technicolor film tones, soft grain, and natural skin pores. Classic Italian retro editorial, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "734",
+    "title": "Minimalist Linen Desert Villa",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/734.jpeg",
+    "promptText": "Transform the provided reference photo into an architectural quiet-luxury portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject stands on the terrace of a minimalist brutalist desert villa in Palm Springs or Joshua Tree, surrounded by weathered concrete walls, architectural cacti, and a calm plunge pool reflecting the desert sky. Dressed in a monochromatic relaxed sand-colored linen suit with a matching bralette and leather slides. Clean late-afternoon desert sunlight creates sharp geometric architectural shadows and golden edge lighting across her composed, confident face. Captured on an 85mm f/2.0 lens, shallow depth of field, sharp facial focus, and creamy desert mountain bokeh. Minimalist aesthetic with sandstone beige, warm linen, olive, and natural sun-warmed skin tones. Ultra-photorealistic modern fashion lifestyle, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "735",
+    "title": "Golden Hour Countryside Equestrian",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/735.jpeg",
+    "promptText": "Transform the provided reference photo into an elegant heritage equestrian portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive personal features. The subject stands beside a majestic thoroughbred horse in a sun-drenched grassy paddock lined with white post-and-rail fences, gently resting a hand on the horse's neck with an affectionate smile. Dressed in tailored olive riding breeches, a fitted tweed equestrian hacking jacket, white collared shirt, and polished knee-high brown leather riding boots. Low golden-hour sunlight wraps the scene in warm amber backlight, highlighting horse mane and subject's hair. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy field bokeh. Classic Ralph Lauren aesthetic, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "736",
+    "title": "Haute Couture Feather Evening Cape",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/736.jpeg",
+    "promptText": "Transform the provided reference photo into an opulent avant-garde studio fashion editorial while preserving 100% facial identity, exact bone structure, eyes, nose, lips, and natural skin texture. The subject poses in an immaculate minimalist studio against a deep slate background, wearing a dramatic, voluminous midnight-blue ostrich feather evening cape over a corseted silk column gown. Striking diamond chandelier earrings sparkle near the jawline. The subject's expression is commanding, regal, and high-fashion. A large overhead parabolic softbox creates soft, sculpted key lighting across her cheekbones while delicate rim lighting illuminates individual feather fibers with silvery sheen. Photographed on a 105mm medium-format studio lens at f/2.8, razor-sharp focus on the iris, natural skin pores, and creamy textile textures. Vogue-level luxury editorial grade, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "737",
+    "title": "1950s Cinema Drive-In Convertible",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/737.jpeg",
+    "promptText": "Transform the provided reference photo into a nostalgic 1950s Americana movie still while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject sits in the driver's seat of a cherry-red 1957 convertible at an outdoor drive-in movie theater on a warm summer dusk. In the background, a massive outdoor cinema screen glows in the evening air, flanked by vintage neon concession signs. Dressed in a polka-dot retro halter dress, red lips, cat-eye sunglasses in hand, and a silk headscarf tied loosely under the chin. The glow from the cinema screen and warm dashboard lights illuminate her face with soft cinematic highlights. Captured on a 50mm vintage lens, authentic 1950s Kodachrome warm color science, gentle film halation, and natural skin texture. Nostalgic 50s cinema portrait, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "738",
+    "title": "Kyoto Bamboo Grove Silk Kimono",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/738.jpeg",
+    "promptText": "Transform the provided reference photo into an elegant cultural portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject walks slowly along a quiet wooden path through the towering Arashiyama bamboo forest in Kyoto at early morning. Dressed in an authentic handcrafted silk kimono featuring painted crane and cherry blossom motifs with an elaborate obi sash, holding a traditional oiled-paper wagasa umbrella gracefully over one shoulder. Dappled natural morning sunlight filters through towering green bamboo stalks, creating soft vertical light bands and serene highlights across her calm, graceful face. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, realistic silk weave, and creamy bamboo grove bokeh. Peaceful Asian heritage color grade with bamboo green, silk gold, and natural skin tones, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "739",
+    "title": "Cyberpunk Neon Subway Car Hologram",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/739.jpeg",
+    "promptText": "Transform the provided reference photo into an electrifying futuristic sci-fi still while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject sits on a metallic bench inside an automated maglev subway car speeding through an underground cyber-city. Floating translucent neon holographic transit maps and kanji ads project glowing cyan and violet light across her face and dark technical trench coat. Subtle glowing fiber-optic hair ribbons accent her hairstyle. Through the subway window, high-speed tunnel light trails blur past dynamically. The subject's expression is sharp, calculating, and stylish. Shot on an 85mm cinema prime, shallow depth of field, razor-sharp eye focus reflecting holograms, and realistic motion blur outside. Cyberpunk cinema grading with electric blue, magenta, and natural skin tones, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "740",
+    "title": "Candlelit Wine Cellar Evening Toast",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/740.jpeg",
+    "promptText": "Transform the provided reference photo into an intimate luxury evening portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject is seated at a private tasting table inside an ancient French chateau wine cellar surrounded by arched stone alcoves and dusty vintage bottles. She holds an elegant crystal glass of Burgundy wine, smiling with warm sophisticated charm into the lens. Dressed in a tailored black silk velvet blazer with satin lapels and delicate diamond stud earrings. Multiple glowing tapered candles illuminate the table, casting warm amber key light across her face and creating glistening crystal reflections. Captured on an 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp eye focus, and creamy candle bokeh. Luxurious warm color grade with amber, deep burgundy, and natural skin pores, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "741",
+    "title": "Wildflower Meadow Sunset Acoustic",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/741.jpeg",
+    "promptText": "Transform the provided reference photo into an indie-folk lifestyle portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject sits cross-legged on a woven vintage blanket in an open wildflower meadow at golden hour, gently strumming an acoustic wooden guitar with a joyful, authentic smile. Dressed in a bohemian embroidered peasant blouse, flared denim, and layered silver rings. The low-angled setting sun illuminates floating dandelion seeds and backlights her hair with glowing golden rim light. Captured on a 50mm f/1.4 lens, shallow depth of field, sharp eye focus, creamy wildflower bokeh, and warm optical sun flare. Folk-album nostalgia color grade with honey gold, floral pastels, and natural skin textures. Ultra-photorealistic lifestyle photography, realistic hands on guitar, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "742",
+    "title": "Double-Exposure Floral Silhouette Fine Art",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/742.jpeg",
+    "promptText": "Transform the provided reference photo into an exquisite fine-art gallery double exposure while strictly preserving the woman's exact facial structure, profile contours, nose, lips, and recognizable features. The base layer is an immaculate, high-contrast studio profile portrait of the woman against a clean white canvas. Artfully blended within her silhouette is a second exposure featuring blooming Japanese peony flowers, delicate morning dew droplets, and lush botanical branches in soft pastel tones. Subtle translucent petal textures overlap her cheekbone and hair while keeping her eye and facial likeness perfectly recognizable. Captured with the visual characteristics of a medium-format art camera, clean geometric lines, soft highlight transitions, and fine film grain. High-concept fine-art editorial, 8K detail, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "743",
+    "title": "Kashmiri Shikara Dal Lake Lotus",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/743.jpeg",
+    "promptText": "Transform the provided reference photo into a breathtaking Kashmiri cultural portrait while strictly maintaining 100% facial identity, natural skin tone, eyes, and bone structure. The subject reclines comfortably in a traditional carved wooden shikara boat gliding through the tranquil, misty waters of Dal Lake in Srinagar at sunrise, surrounded by floating pink lotus blossoms. Dressed in an authentic pastel-peach Kashmiri Tilla-embroidered pheran with intricate paisley threadwork along the neckline, delicate silver jhumkas, and a silk pashmina shawl draped over her shoulders. The snow-capped Pir Panjal mountain range reflects softly in the calm lake behind her. Gentle morning sunrise creates soft golden highlights across her peaceful, serene face. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy lotus bokeh. Authentic Indian heritage travel editorial, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "744",
+    "title": "1980s Roller Skating Boardwalk Sunset",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/744.jpeg",
+    "promptText": "Transform the provided reference photo into a vibrant 1980s retro boardwalk action portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject glides playfully along the Venice Beach boardwalk on classic four-wheel quad roller skates with pink wheels during a vivid California sunset. Dressed in authentic 1980s high-waisted denim shorts, pastel striped ringer tee, over-ear yellow foam headphones, and tube socks. Warm Pacific sunset sunbeams bathe the scene in glowing amber, reflecting off palm trees and pastel beachfront murals in the background. Captured on a 35mm vintage prime lens, slight motion blur in the background, sharp facial focus, and authentic 1980s analog film grain. Vibrant retro summer aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "745",
+    "title": "Modern Minimalist Power Suit Boardroom",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/745.jpeg",
+    "promptText": "Transform the provided reference photo into a commanding modern executive portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject stands at the head of an expansive frosted-glass conference table in a high-floor corner boardroom overlooking a metropolitan skyline. Dressed in an impeccably tailored monochrome ivory power suit with sharp architectural shoulders, silk camisole, minimal geometric gold jewelry, and a sleek luxury watch. Her posture is poised and authoritative, with an approachable, intelligent smile. Natural daylight from floor-to-ceiling windows provides clean, flattering wrap-around illumination with soft contrast. Captured on an 85mm f/2.0 lens, shallow depth of field, razor-sharp eye focus, and creamy skyscraper bokeh. Forbes-level female founder editorial, authentic skin texture, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "746",
+    "title": "Vintage Vinyl Record Store Digging",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/746.jpeg",
+    "promptText": "Transform the provided reference photo into an indie-cool vinyl store portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject flips through wooden crates of vintage LP records in a cozy, sunlit independent record shop, wearing retro brown-leather studio headphones around her neck. She pulls out an album and looks up with a spontaneous, delighted smile. Dressed in a vintage ribbed turtleneck, corduroy trousers, and canvas sneakers. Warm late-afternoon sunbeams stream through dusty storefront windows, illuminating floating dust motes and creating warm amber highlights across her face. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy vinyl record-sleeve bokeh. Warm analog music-culture color palette, authentic skin pores, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "747",
+    "title": "Misty Scottish Highland Heather Moor",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/747.jpeg",
+    "promptText": "Transform the provided reference photo into a moody Scottish countryside portrait while strictly preserving the woman's exact facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, and natural skin texture. The subject stands amidst wild purple heather on an open windswept moor in Glencoe, with the stone ruins of an ancient castle and brooding mountain peaks rising into soft fog behind her. Dressed in an authentic heavy-knit Fair Isle wool sweater, waxed cotton jacket, and tartan wool scarf fluttering in the damp highland wind. Cold, fresh mist creates delicate moisture beads on her hair and wool fibers. The subject holds a grounded, contemplative gaze toward the landscape. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp facial focus, and soft mountain mist bokeh. Celtic cinematic color grading with heather purple, peat brown, moss green, and natural skin tones, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "748",
+    "title": "Royal Rajasthani Rajputana Jharokha",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/748.jpeg",
+    "promptText": "Transform the provided reference photo into an opulent Rajputana royal portrait while preserving 100% facial identity, natural skin tone, eyes, and bone structure. The subject sits gracefully in an ornate carved marble jharokha window balcony of a heritage palace in Udaipur, overlooking Lake Pichola at sunset. Dressed in a traditional royal crimson and saffron lehenga with heavy gota patti and zardozi threadwork, an authentic borla maang tikka on her forehead, matching nath nose ring, and heirloom kundan necklaces. The setting sun casts glowing amber and rose light across the marble lattice carving and her serene, dignified face. Captured on an 85mm f/1.4 lens, shallow depth of field, razor-sharp focus on the jewelry and eyes, and creamy golden lake reflections in the background. Ultra-photorealistic royal Indian fashion photography, authentic textile detail, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "749",
+    "title": "High-Fashion Leather Trench Wet Runway",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/749.jpeg",
+    "promptText": "Transform the provided reference photo into a high-octane Paris Fashion Week runway portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject walks mid-stride along an illuminated black-lacquer runway with a water-mirror surface, reflecting dramatic overhead runway spotlights. Dressed in an architectural glossy black patent-leather trench coat cinched at the waist with a sculptural belt, pointed-toe heels, and minimalist geometric sunglasses rested low on the nose bridge. Her expression is fierce, confident, and unapologetically high-fashion. High-contrast directional spotlights create brilliant specular highlights along the leather seams and her cheekbones while the darkened audience blurs smoothly into the background. Captured on an 85mm T1.3 cine lens, fast shutter speed, sharp facial detail, and authentic runway motion. Elite fashion editorial grading, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "750",
+    "title": "Sunlit Art Studio Oil Painting Palette",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/750.jpeg",
+    "promptText": "Transform the provided reference photo into an intimate fine-art painter lifestyle portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands before a large colorful canvas in an airy, sun-filled loft studio, holding a wooden oil-painting palette laden with vibrant paints and a fine-tipped brush, looking thoughtfully back over her shoulder with an inspired smile. Dressed in an oversized paint-splattered linen smock over simple denim. Morning sunbeams stream through soaring industrial windows, catching floating dust motes and illuminating her face with warm, flattering daylight. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy background blur of stretched canvases and easel stands. Romantic bohemian artistic aesthetic, authentic skin pores, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "751",
+    "title": "1920s Art Deco Flapper Pearl Chandelier",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/751.jpeg",
+    "promptText": "Transform the provided reference photo into a lavish 1920s Great Gatsby jazz-age portrait while strictly preserving the woman's exact facial structure, facial features, natural skin tone, eyes, nose, lips, and jawline. The subject stands inside a gilded Art Deco ballroom beneath cascading crystal chandeliers, holding a champagne coupe with effortless vintage sophistication. Dressed in a champagne-silk flapper dress covered in hand-beaded metallic fringe, layered strands of natural pearls, and an intricate beaded feather headband over finger-wave styled hair. Warm ambient chandelier glow reflects off glass and gold filigree, illuminating her smiling face with luxurious vintage charm. Captured on an 85mm portrait lens, shallow depth of field, sharp eye focus, and creamy circular chandelier bokeh. Golden-era 1920s cinema color grading with sepia gold, pearl white, and natural skin tones, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "752",
+    "title": "Alpine Ski Resort Fur Hood Balcony",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/752.jpeg",
+    "promptText": "Transform the provided reference photo into an upscale St. Moritz winter vacation photo while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject leans against the rustic wooden railing of a luxury ski chalet balcony at blue hour, holding a steaming mug of cocoa with tiny marshmallows. In the background, sun-drenched snow peaks and ski slopes glow in evening twilight, with warm chalet lamps twinkling. Dressed in a chic cream-colored quilted puffer jacket with an oversized faux-fur hood and cashmere beanie. Soft natural snow reflections provide clean, radiant fill light on her face, showing realistic cold-air rosy cheeks and sparkling eyes. Shot on an 85mm f/1.8 lens, shallow depth of field, razor-sharp facial focus, and creamy snow bokeh. Luxury winter travel aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "753",
+    "title": "Surreal Celestial Cloud Bed Dreamscape",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/753.jpeg",
+    "promptText": "Transform the provided reference photo into an imaginative surrealist dreamscape portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject reclines gracefully upon a celestial bed made of fluffy, luminescent cumulus clouds floating in a twilight sky illuminated by a giant glowing crescent moon and swirling pastel-pink nebula dust. Dressed in flowing iridescent gossamer silks that drift weightlessly into the clouds. The gentle moonlight and stellar nebulae cast soft lavender and silver rim highlights across her peaceful, serene face. Captured on an 85mm cinema lens, shallow depth of field, sharp facial detail with starry catchlights in the eyes, and creamy cloud bokeh. Dreamlike surreal fine-art color grading with rose gold, lavender, pearl, and natural skin tones. 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "754",
+    "title": "Emerald Silk Slip Penthouse Balcony",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/754.jpeg",
+    "promptText": "Transform the provided reference photo into a sultry, sophisticated evening fashion editorial while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands on the private open-air glass balcony of a penthouse suite at twilight, holding a chilled martini glass while looking thoughtfully toward the glittering metropolitan skyline below. Dressed in a bias-cut emerald-green silk satin slip dress that catches the evening breeze, paired with delicate diamond drop earrings. Cool blue twilight sky ambient light blends with warm interior penthouse glow, sculpting her face with elegant dual-tone cinematic illumination. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy skyscraper city-light bokeh. High-end luxury fashion aesthetic, authentic skin texture, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "755",
+    "title": "Tuscan Sunflower Highway Convertible",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/755.jpeg",
+    "promptText": "Transform the provided reference photo into a radiant Italian summer road trip photo while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands in the passenger seat of a classic vintage convertible car paused along a country road in Tuscany, surrounded by vast rolling fields of blooming yellow sunflowers. Dressed in a breezy yellow floral sundress, delicate gold chain, and sunglasses resting on the forehead. The warm golden-hour sun backlights her windblown hair and illuminates her face with joyous, spontaneous laughter. Distant cypress trees and stone farmhouses dot the rolling hills. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, creamy sunflower bokeh, and natural lens flare. Warm Mediterranean travel color grading with sunflower yellow, sky blue, and natural skin tones, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "756",
+    "title": "Traditional Bengali Red-Border Garad Saree",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/756.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic cultural Bengali festive portrait while preserving 100% facial identity, natural skin tone, eyes, and bone structure. The subject is captured during Durga Puja Sindoor Khela celebrations inside a traditional ancestral courtyard. Dressed in a classic ivory and red-bordered Garad silk saree with a traditional pleated pallu, paired with red and white coral (shakha pola) bangles, delicate gold jhumkas, and a tasteful red bindi. Traces of bright red sindoor powder gently accent her smiling cheeks, adding festive authenticity without obscuring her facial identity. Warm morning sunlight filters through courtyard arches, highlighting the rich silk weave and her joyful expression. Captured on an 85mm f/1.8 portrait lens, shallow depth of field, sharp facial detail, and creamy festive bokeh. Authentic cultural color grading with vermilion red, ivory, and warm skin tones, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "757",
+    "title": "Monochromatic Studio Shadow Play",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/757.jpeg",
+    "promptText": "Transform the provided reference photo into a high-fashion black-and-white studio portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject is posed in an editorial three-quarter angle in front of an off-white seamless backdrop as a focused optical spotlight casts sharp geometric palm-leaf shadows across her cheekbone and shoulder. Dressed in a sculptural strapless black crepe top with architectural lines. The interplay of crisp shadow patterns and luminous silver skin highlights sculpts her facial structure with striking graphic beauty. Captured on an 85mm lens at f/2.8, razor-sharp focus on the illuminated eye with clear catchlight, smooth tonal gradations, and authentic fine film grain. Harper's Bazaar style monochrome editorial, 8K detail, no identity alteration, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "758",
+    "title": "Neon Shinjuku Alleyway Ramen Counter",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/758.jpeg",
+    "promptText": "Transform the provided reference photo into a vibrant Tokyo nightlife street portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject sits on a wooden stool at an open-air ramen counter in a narrow Shinjuku alleyway at midnight, smiling warmly as steam rises from a bowl of noodles. Traditional paper lanterns overhead emit warm red and amber light, mixing with neon blue signage reflecting off damp pavement. Dressed in a stylish oversized denim jacket over a graphic tee with a knitted beanie. Captured on a 50mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy neon bokeh in the bustling alley behind. Cinematic urban travel color grade with warm lantern red, cool neon blue, and authentic skin textures, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "759",
+    "title": "1970s Bohemian Music Festival Sunset",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/759.jpeg",
+    "promptText": "Transform the provided reference photo into a sun-drenched 1970s Woodstock-inspired music festival portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands in an open grassy field at sunset during an outdoor music festival, with stage scaffolding and colorful tapestries blurred in the distance. Dressed in a vintage crochet halter top, bell-bottom jeans, layered beaded necklaces, and feather hair accessories in windblown waves. Low golden-hour sunlight washes across the scene, creating warm lens flares and honey-amber highlights on her joyful, carefree face. Captured on an authentic 50mm vintage lens, 1970s color palette with warm ochre, muted denim blue, soft grain, and gentle highlight halation. Nostalgic retro festival aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "760",
+    "title": "Modern Minimalist Sculpture Gallery",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/760.jpeg",
+    "promptText": "Transform the provided reference photo into an intellectual high-fashion gallery portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject stands in a tranquil, white-walled contemporary art gallery beside a large curving bronze sculpture, turning with a subtle, confident expression. Dressed in a minimalist charcoal-gray wool trench dress with clean lines, sculptural gold hoop earrings, and sleek black leather boots. Diffused, shadowless natural light from a monumental overhead museum skylight illuminates her face with smooth, flattering clarity. Captured on an 85mm f/2.0 lens, shallow depth of field, razor-sharp facial focus, and soft architectural background blur. Minimalist high-fashion editorial grade with muted neutral tones, bronze accents, and realistic skin pores, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "761",
+    "title": "Coastal Cliffside White Linen Sunset",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/761.jpeg",
+    "promptText": "Transform the provided reference photo into an expansive seaside lifestyle portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject stands on a dramatic limestone cliff overlooking a deep-blue Mediterranean ocean during sunset, with the gentle sea breeze catching her flowing white linen maxi dress. Dressed in understated luxury with barefoot elegance, a straw bag rested on the rocks, and simple gold hoops. Low-angle golden-hour sunlight casts a radiant warm glow across her face and illuminates sea spray from waves crashing on rocks far below. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp facial detail, and creamy coastal horizon bokeh. High-end resort editorial grading with ocean blue, golden sun, and natural sun-warmed skin tones, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "762",
+    "title": "Traditional South Indian Kanjeevaram Silk",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/762.jpeg",
+    "promptText": "Transform the provided reference photo into an exquisite South Indian traditional bridal portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands in a pillared heritage temple mandapam adorned with brass hanging lamps and fresh yellow marigold garlands. Dressed in an authentic deep-mustard and magenta pure Kanjeevaram silk saree with heavy temple borders, elaborate gold coin necklace (kasu mala), traditional temple jhumkas, and a woven braid decorated with jasmine flowers (gajra). Glowing brass oil lamps provide warm directional key lighting, casting radiant golden highlights across the metallic zari weave and her graceful, smiling face. Captured on an 85mm f/1.4 lens, shallow depth of field, razor-sharp eye focus, and creamy temple bokeh. Rich South Indian cultural color palette, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "763",
+    "title": "Cyberpunk Wet Asphalt Motorcycle Stance",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/763.jpeg",
+    "promptText": "Transform the provided reference photo into a dynamic neo-tokyo action portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject leans casually against a futuristic matte-black sports motorcycle on a rain-drenched metropolitan street at night. Dressed in an armored technical leather riding jacket with luminous cyan reflective piping, high-waisted utility trousers, and combat boots. Neon billboard lights in electric blue and magenta reflect off the motorcycle's carbon-fiber chassis and the wet asphalt. The subject looks directly into the lens with fierce, unflinching confidence. Captured on an 85mm T1.5 cinema lens, shallow depth of field, sharp eye focus, and creamy colored puddle reflections. High-octane cyberpunk cinema grade, authentic skin pores, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "764",
+    "title": "Cozy Cabin Fireplace Knitted Blanket",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/764.jpeg",
+    "promptText": "Transform the provided reference photo into an intimate winter fireside portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject sits on a plush wool rug in front of a rustic stone fireplace in a mountain cabin, wrapped in a thick cream-colored chunky knit blanket, holding a steaming ceramic mug with both hands. The crackling orange firelight serves as organic key lighting, casting warm, dancing amber highlights and soft shadows across her relaxed, contented face. Outside the large cabin window, snow falls softly onto dark pine trees. Captured on a 50mm f/1.4 lens, shallow depth of field, razor-sharp eye focus reflecting firelight, and creamy room background bokeh. Warm hygge winter lifestyle aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "765",
+    "title": "1990s Grunge Leather Jacket Camcorder",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/765.jpeg",
+    "promptText": "Transform the provided reference photo into a raw 1990s indie-grunge portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject leans against a graffiti-tagged brick wall in an urban alley under harsh built-in camera flash, holding a vintage compact VHS camcorder with an effortless, rebellious half-smile. Dressed in a distressed oversized black leather biker jacket over a vintage band tee, torn plaid skirt, and combat boots. Characteristic 1990s direct-flash aesthetic with punchy contrast, sharp drop-shadows against the brick, subtle analog tape scanlines, and authentic film grain. Captured on a 28mm wide lens, sharp facial focus, and raw street energy. Authentic 90s youth-culture editorial, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "766",
+    "title": "Fine-Art Floral Crown Milk Bath",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/766.jpeg",
+    "promptText": "Transform the provided reference photo into an ethereal high-fashion fine-art portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject is immersed in an antique clawfoot tub filled with opaque, creamy milk-white water, surrounded by floating fresh white roses, baby's breath, and eucalyptus leaves. Only her face, shoulders, and an ornate fresh floral crown emerge above the surface. Her expression is serene and dreamlike, with closed or half-lidded eyes. Soft, diffused daylight from a tall window washes across the porcelain tub and water surface, creating clean, delicate highlights on her skin. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp facial details, and smooth botanical water bokeh. Minimalist ethereal aesthetic with pure white, botanical greens, and natural skin tones, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "767",
+    "title": "Rooftop Infinity Pool Twilight Cocktail",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/767.jpeg",
+    "promptText": "Transform the provided reference photo into an aspirational luxury evening portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject leans against the glass edge of an infinity pool on a luxury skyscraper rooftop in Singapore or Dubai at blue hour twilight, holding a coupe glass with a sophisticated smile. The city skyline below glows with thousands of golden architectural lights, reflecting mirrored streaks across the calm pool water. Dressed in a chic backless black evening jumpsuit with gold cuff jewelry. Cool twilight blue sky light blends with warm rooftop lounge lamps on her face. Captured on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy city bokeh. High-end jet-setter editorial, authentic skin pores, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "768",
+    "title": "Traditional Chikankari Lucknowi Courtyard",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/768.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic heritage Indian fashion portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject stands in the sun-dappled courtyard of a historic Lucknowi haveli with Mughal arches and terracotta tile flooring. Dressed in a pristine white-on-white handcrafted pure georgette Chikankari Anarkali suit featuring delicate shadow-work embroidery and mukesh metallic dots, paired with a matching flowing dupatta, antique silver jhumkas, and juttis. Morning sunlight filters through carved stone screens, casting delicate lattice light patterns across the sheer fabric and her graceful, radiant face. Shot on an 85mm f/1.8 portrait lens, shallow depth of field, razor-sharp focus on the embroidery and eyes, and creamy haveli background bokeh. Timeless Indian cultural elegance, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "769",
+    "title": "3x3 Director's Film Proof Sheet Portrait",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/769.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic 3x3 cinematic film director's contact sheet while preserving the exact identity and recognizable facial characteristics of the woman in every single frame. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive personal features consistently across all 9 panels. Arranged as a 3-by-3 grid showing the subject in sequential cinematic expressions: laughing candidly, pensive look, direct eye contact, adjusting her hair, profile glance, soft smile, and head tilted. Authentic 35mm black film borders with frame numbers (e.g., 12A, 13A) and yellow Kodak Portra edge markings, complete with a red grease-pencil circle drawn around the center frame. Dressed in a stylish trench coat. Natural daylight, fine film grain, and razor-sharp facial details in each frame. Ultra-photorealistic director's proof sheet, 8K detail, no inconsistent faces, 3:4 composition.",
+    "trending": true
   }
 ]
