@@ -655,5 +655,455 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/769.jpeg",
     "promptText": "Transform the provided reference photo into an authentic 3x3 cinematic film director's contact sheet while preserving the exact identity and recognizable facial characteristics of the woman in every single frame. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive personal features consistently across all 9 panels. Arranged as a 3-by-3 grid showing the subject in sequential cinematic expressions: laughing candidly, pensive look, direct eye contact, adjusting her hair, profile glance, soft smile, and head tilted. Authentic 35mm black film borders with frame numbers (e.g., 12A, 13A) and yellow Kodak Portra edge markings, complete with a red grease-pencil circle drawn around the center frame. Dressed in a stylish trench coat. Natural daylight, fine film grain, and razor-sharp facial details in each frame. Ultra-photorealistic director's proof sheet, 8K detail, no inconsistent faces, 3:4 composition.",
     "trending": true
+  },
+  {
+    "id": "870",
+    "title": "Pastel Organza Saree in Golden Hour Courtyard",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/870.jpeg",
+    "promptText": "Transform the provided reference photo into an ethereal Indian festive fashion portrait while strictly preserving the exact facial identity, bone structure, natural skin tone, eyes, nose, lips, jawline, and natural expressions of the woman in the reference image. Use the uploaded reference photo as the ONLY source for identity and face. Do not redesign, beautify, age, de-age, or replace her face. Dress her in a sheer pastel blush-pink organza saree with delicate scalloped borders, hand-painted floral motifs, and subtle silver gota-patti threadwork, paired with a sleeveless matching silk blouse. Adorn her with oversized silver oxidised jhumkas, a dainty silver nose pin, and thin glass bangles. She stands gracefully in a sunlit haveli courtyard paved with antique terracotta tiles and surrounded by climbing bougainvillea vines. Low-angle golden-hour sunlight filters through courtyard pillars, illuminating the translucent drape of the organza saree with glowing amber rim light and casting soft, flattering illumination across her face. Captured on an 85mm f/1.4 portrait prime lens, shallow depth of field, razor-sharp focus on the eyes and jewelry, authentic skin pores, and creamy floral bokeh. Ultra-photorealistic Indian ethnic aesthetic, 8K detail, no plastic skin, no facial distortion, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "871",
+    "title": "Royal Rajputi Poshak in Mehrangarh Fort",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/871.jpeg",
+    "promptText": "Transform the provided reference photo into a regal Rajasthani royal portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject stands in the grand sandstone arched corridor of Mehrangarh Fort in Jodhpur, overlooking the distant blue-painted city. Dressed in a traditional royal Rajputi Poshak in rich saffron and crimson-red georgette, embellished with heavy handcrafted zardozi and kundan work, paired with a sheer odhna gracefully draped over the head. Adorned with a circular gold borla on the forehead, a delicate traditional nath with pearl chain, and layered kundan chokers. The setting sun casts dramatic golden-hour sidelight through carved stone jali screens, painting intricate geometric shadow patterns across her serene, dignified face and the rich embroidery. Shot on an 85mm f/1.8 lens, shallow depth of field, razor-sharp focus on the jewelry and eyes, and creamy heritage palace background bokeh. Majestic Indian royal aesthetic, 8K detail, no identity alteration, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "872",
+    "title": "Bollywood Chiffon Saree in Manali Snow",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/872.jpeg",
+    "promptText": "Transform the provided reference photo into an iconic Yash Chopra-inspired Bollywood romance still while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands gracefully upon fresh snow in a scenic pine valley in Manali, surrounded by snow-dusted evergreen trees and distant Himalayan peaks under a clear blue winter sky. Dressed in a vibrant canary-yellow or scarlet-red flowing chiffon saree that billows naturally in the alpine breeze, paired with a matching blouse and delicate silver drop earrings. Crisp natural winter daylight reflects off the white snow, providing radiant, natural fill light across her smiling, rosy-cheeked face. Captured on an 85mm f/1.8 cinema lens, shallow depth of field, razor-sharp eye focus, realistic fabric flutter, and creamy snow-covered mountain bokeh. Classic Bollywood romance aesthetic, authentic skin pores, realistic cold-weather flush, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "873",
+    "title": "South Indian Dhavani Half-Saree in Temple Garden",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/873.jpeg",
+    "promptText": "Transform the provided reference photo into a graceful South Indian traditional portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject stands beside a carved granite pillar in an ancient Tamil Nadu temple garden during early morning. Dressed in a traditional South Indian Dhavani (half-saree) featuring a pleated peacock-blue silk skirt with heavy gold zari borders, a contrasting mustard-yellow embroidered blouse, and a sheer crimson dhavani drape. Her long braided hair is decorated with fresh white jasmine flowers (mullai poo). Adorned with traditional temple-jewellery kadas, guttapusalu necklace, and a small round bindi. Soft morning sunlight filters through temple trees, casting golden highlights across the metallic zari weave and her serene, smiling face. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy temple bokeh. Authentic South Indian cultural photography, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "874",
+    "title": "Modern Indo-Western Blazer with Silver Choker",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/874.jpeg",
+    "promptText": "Transform the provided reference photo into a high-fashion contemporary Indo-Western editorial portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject stands in a minimalist concrete art gallery against a textured warm-gray wall. Dressed in a structured oversized charcoal-black tailored blazer worn over an intricately embroidered raw-silk bustier, paired with high-waisted black wide-leg trousers. Styled with a bold, antique Gujarati tribal silver choker with coin fringes, heavy silver statement rings, and kohl-lined expressive eyes. Clean directional studio softbox lighting creates dramatic, sculpted highlights across her cheekbones, jawline, and the polished silver jewelry while leaving the background in sophisticated soft contrast. Captured on an 85mm f/2.0 lens, shallow depth of field, razor-sharp focus on the eyes and jewelry craftsmanship, and realistic skin texture. Vogue India-style fashion editorial, 8K detail, no identity alteration, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "875",
+    "title": "Bandra Sea Link Sunset Drive in Vintage Padmini",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/875.jpeg",
+    "promptText": "Transform the provided reference photo into an evocative Mumbai sunset lifestyle portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject leans casually against the open window of a vintage black-and-yellow Premier Padmini taxi parked along the Bandra Bandstand promenade at sunset, with the cable-stayed Bandra-Worli Sea Link curving gracefully in the misty ocean background. Dressed in a chic retro-casual outfit: an oversized white linen button-down shirt over high-waisted blue denim, vintage cat-eye sunglasses pushed up on windblown hair, and thin gold hoop earrings. Warm golden-hour sunbeams reflect off the sea, bathing her smiling, joyful face in radiant amber light. Captured on a 50mm f/1.8 prime lens, shallow depth of field, sharp eye focus, and creamy ocean wave bokeh. Nostalgic modern Bombay aesthetic, authentic skin pores, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "876",
+    "title": "Bengali Dhakai Jamdani Saree beside Vintage Tram",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/876.jpeg",
+    "promptText": "Transform the provided reference photo into a nostalgic, literary Kolkata street portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject pauses beside a vintage wooden Kolkata tram parked along a tree-lined street in College Street at morning. Dressed in an exquisite handwoven white-and-scarlet-red Dhakai Jamdani cotton-silk saree with geometric floral motifs, paired with a retro puff-sleeve black blouse, red coral (shakha pola) bangles, a small circular red bindi, and a leather satchel. Soft morning mist mingles with golden sunbeams filtering through ancient banyan trees, highlighting the translucent cotton-silk weave and casting gentle, warm illumination across her thoughtful, cultured face. Captured on an 85mm f/1.8 vintage lens, shallow depth of field, sharp facial focus, authentic film grain, and creamy tram background bokeh. Classic Bengali retro cinema aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "877",
+    "title": "Punjabi Phulkari Dupatta at Village Tubewell",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/877.jpeg",
+    "promptText": "Transform the provided reference photo into a vibrant, joyful rural Punjabi lifestyle portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject sits near the gushing clear water of a rustic tube-well in a lush green Punjab village field at sunset. Dressed in a bright magenta cotton Patiala salwar kameez, draped with a heavy hand-embroidered multi-colored geometric Phulkari dupatta with gold gota trim. Styled with hanging silver jhumkas, a traditional paranda woven into her long braid, and colorful glass bangles. Fresh water droplets glisten on the concrete canal edge, and late-afternoon golden sunlight warms the green fields behind her, highlighting her infectious, joyful laugh. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp facial details, and creamy agricultural bokeh. Vibrant Punjabi cultural celebration, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "878",
+    "title": "Kashmiri Pheran in Srinagar Tulip Garden",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/878.jpeg",
+    "promptText": "Transform the provided reference photo into an enchanting spring mountain portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject walks gently between endless rows of blooming red, yellow, and pastel-pink tulips at the Indira Gandhi Memorial Tulip Garden in Srinagar at early morning. In the background, the misty Zabarwan mountain range rises majestically under soft overcast skies. Dressed in an authentic powder-blue wool Kashmiri Pheran with delicate Tilla needle-embroidery in gold around the wide cuffs and collar, paired with a soft cashmere shawl. Soft, cool mountain daylight creates flattering, even wrap-around lighting across her serene face, showing natural cold-weather rosy cheeks. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy floral foreground bokeh. Picturesque Kashmiri travel aesthetic, authentic skin texture, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "879",
+    "title": "Lucknowi Pastel Chikankari Sharara with Jhumkas",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/879.jpeg",
+    "promptText": "Transform the provided reference photo into an elegant, aristocratic Lucknowi portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands in the arched veranda of a vintage Awadhi haveli with floral stucco pillars and terracotta floor tiles. Dressed in an exquisite handcrafted powder-blue pure georgette Chikankari sharara suit featuring delicate white shadow-work, mukaish metallic dots, and an airy matching dupatta with pearl scalloped edges. Styled with antique silver jhumkas with pearl drops, a minimal silver maang tikka, and soft kohl around the eyes. Gentle morning sunlight streaming through carved stone jali screens casts delicate lattice shadow patterns across her shoulder and highlights her radiant, gentle smile. Shot on an 85mm f/1.4 lens, shallow depth of field, razor-sharp focus on the embroidery and eyes, and creamy architectural bokeh. Nawabi grace, authentic skin pores, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "880",
+    "title": "Desi College Girl Kurti & Jhumka Campus Candid",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/880.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic, relatable Indian college campus candid photograph while strictly maintaining 100% facial identity, eyes, nose, lips, and natural skin tone. The subject walks across the red-brick courtyard of a Delhi University campus under the shade of mature neem trees, smiling candidly while holding notebooks and a cloth tote bag. Dressed in an effortless everyday fusion outfit: an indigo-blue printed cotton short kurti over high-waisted distressed denim jeans, oxidised silver dome jhumkas, a small black bindi, and flat leather Kolhapuri chappals. Warm afternoon sunlight filters through the tree canopy, casting soft natural highlights on her windblown hair and happy, expressive face. Captured on a 50mm f/1.8 prime lens, shallow depth of field, sharp facial focus, and creamy collegiate brick background blur. Relatable Indian youth aesthetic, realistic skin texture, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "881",
+    "title": "Navratri Kutchi Gamthi Chaniya Choli Swirl",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/881.jpeg",
+    "promptText": "Transform the provided reference photo into a high-energy Gujarati Garba festival portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject twirls gracefully on an illuminated Garba ground at midnight, her flared Kutchi Gamthi chaniya choli spinning in dramatic motion. The black cotton skirt is adorned with colorful threadwork, real mirror medallions that catch the light, and pom-pom borders, paired with a matching backless tie-up choli and bandhani dupatta. Styled with heavy oxidised silver jewelry: a broad tribal choker, matching maang tikka, oversized ear-cuffs, and stacked silver kadas. Dynamic festival floodlights and colorful stage lights create sparkling reflections off the small mirrors, illuminating her exuberant, laughing face. Shot on an 85mm f/1.8 lens, fast shutter speed, sharp facial detail, and creamy circular background bokeh. Vibrant Indian festival photography, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "882",
+    "title": "Kerala Kasavu Set-Saree with Temple Nilavilakku",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/882.jpeg",
+    "promptText": "Transform the provided reference photo into a serene Onam festival portrait while strictly preserving the woman's exact facial structure, bone contours, natural skin tone, and gentle expressions. The subject sits gracefully beside a polished tall brass Nilavilakku oil lamp on the polished wooden veranda of a traditional Kerala Nalukettu courtyard home. Dressed in an authentic off-white Kerala Kasavu set-saree with a thick gold zari border, paired with a green brocade blouse, gold coin necklace (kasu mala), and a jasmine flower garland (mulla poovu) framing her neatly tied hair bun. Nearby rests a fresh circular floral carpet (Pookkalam). The glowing flame of the oil lamp provides warm key lighting, casting radiant golden highlights across the gold zari and her calm, smiling face. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp eye focus, and creamy veranda background bokeh. Cultural Kerala heritage photography, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "883",
+    "title": "Sabyasachi-Style Muted Velvet Heritage Lehenga",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/883.jpeg",
+    "promptText": "Transform the provided reference photo into a high-end Sabyasachi-inspired couture bridal editorial while maintaining 100% facial identity, natural skin texture, eyes, and bone structure. The subject poses with dignified aristocratic poise in an opulent heritage palace room with dark hand-painted antique walls, Persian rugs, and vintage oil paintings. Dressed in an exquisite muted antique-burgundy velvet lehenga embroidered with antique gold and oxidized copper bullion work, paired with a sheer embroidered tulle veil draped over the head, an uncut polki diamond choker, heavy matching earrings, and a statement green emerald ring. Directional warm museum-style softbox lighting sculpts her cheekbones and jewelry with rich chiaroscuro contrast and deep shadow depth. Captured on a medium-format 85mm f/2.0 lens, shallow depth of field, sharp focus on the iris and jewelry, and creamy vintage room bokeh. Regal Indian luxury fashion aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "884",
+    "title": "Monsoon Balcony Cutting Chai & Marigold Garland",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/884.jpeg",
+    "promptText": "Transform the provided reference photo into a cozy, atmospheric Indian monsoon lifestyle photo while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject sits on a cane armchair on a rain-sheltered apartment balcony during a heavy downpour, holding a steaming glass of ginger cutting-chai with both hands, smiling with relaxed warmth. Potted tropical plants, strings of yellow marigold garlands, and wet stone tiles frame the balcony railing. Outside, rain streams down in shimmering sheets against the lush green monsoon city backdrop. Soft overcast monsoon daylight provides flattering, gentle illumination across her face, highlighting natural skin pores, fine hair strands, and delicate silver earrings. Shot on a 50mm f/1.8 lens, shallow depth of field, razor-sharp eye focus, realistic steam rising from the tea glass, and creamy rain-streak bokeh. Peaceful Indian home lifestyle aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "885",
+    "title": "Jaipur Blue Pottery Studio Artisan Moment",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/885.jpeg",
+    "promptText": "Transform the provided reference photo into a charming craft lifestyle portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject sits at a wooden workbench inside a sunlit Jaipur Blue Pottery artisan studio, holding a delicate fine-hair brush, gently hand-painting cobalt-blue and turquoise floral patterns on an unbaked ceramic plate. Dressed in an earthy terracotta-orange cotton hand-block printed kurti with rolled-up sleeves and oxidized silver studs. Shelves filled with glazed cobalt plates and vases catch morning sunbeams in the background. Warm directional window light illuminates her focused, serene expression and the fine brushwork on the pottery. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy blue-and-white pottery background bokeh. Authentic Rajasthani artisanal lifestyle aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "886",
+    "title": "1970s Bollywood Retro Bell-Bottoms & Oversized Glasses",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/886.jpeg",
+    "promptText": "Transform the provided reference photo into a chic 1970s Bollywood cinema still inspired by Zeenat Aman and Parveen Babi while preserving 100% facial identity, eyes, nose, lips, and natural skin tone. The subject leans casually against a vintage orange Fiat car parked on a scenic palm-lined Marine Drive at golden hour. Dressed in iconic 1970s retro fashion: high-waisted mustard-yellow bell-bottom trousers, a fitted psychedelic floral-print silk shirt with a wide dagger collar, platform heels, oversized square amber-tinted sunglasses, and hoop earrings. Warm sunset sunlight creates golden lens flares and rich amber rim lighting along her feathered hairstyle and cheekbones. Shot on a vintage 50mm lens, authentic 1970s Kodachrome warm color science, subtle analog film grain, and creamy city background bokeh. Retro Bollywood diva aesthetic, authentic skin texture, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "887",
+    "title": "Gateway of India Sunrise Yacht in Linen Co-ord",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/887.jpeg",
+    "promptText": "Transform the provided reference photo into an ultra-luxurious coastal travel portrait while strictly preserving the person's exact facial structure, eyes, nose, lips, jawline, and natural skin tone. The subject sits on the teak deck of a private luxury yacht sailing the calm harbor waters of South Mumbai at sunrise. In the background, the iconic basalt arch of the Gateway of India and the historic Taj Mahal Palace hotel glow in the soft morning mist. Dressed in an effortless quiet-luxury ivory linen co-ord set consisting of a relaxed sleeveless top and wide-leg trousers, styled with a gold chain necklace and designer sunglasses held in hand. The rising sun casts radiant peach and golden highlights across her peaceful, smiling face. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp eye focus, and creamy sparkling ocean wave bokeh. High-end Indian luxury lifestyle editorial, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "888",
+    "title": "Royal Paithani Silk Saree in Shaniwar Wada Pune",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/888.jpeg",
+    "promptText": "Transform the provided reference photo into a magnificent Maharashtrian royal heritage portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject stands gracefully before the massive historic wooden spiked gates of Shaniwar Wada in Pune. Dressed in a luxurious royal-purple pure Paithani silk saree featuring a signature oblique square (mor-bangadi) peacock design handwoven in gold zari across the pallu, paired with a matching embroidered blouse, traditional pearl-and-ruby Peshwai nath (nose ring), and green glass chuda bangles. Warm afternoon sunlight strikes the ancient stone bastions, casting soft architectural shadows and illuminating the metallic sheen of the Paithani pallu with regal brilliance. Shot on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and soft heritage stone background bokeh. Traditional Marathi royal aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "889",
+    "title": "Cyberpunk Desi Neon Street with Embroidered Bomber",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/889.jpeg",
+    "promptText": "Transform the provided reference photo into an edgy, futuristic Indo-cyberpunk street portrait while maintaining 100% facial identity, natural skin texture, eyes, and bone structure. The subject stands in a rain-slicked futuristic Delhi alleyway beneath towering neon Hindi signboards and holographic advertisements at night. Dressed in an avant-garde fusion look: a glossy black technical bomber jacket customized with traditional golden zardozi embroidery across the back and sleeves, worn over a cropped metallic top, cargo pants, combat boots, and delicate silver jhumkas. Hard cyan and magenta neon light reflects off the wet pavement and sculpts her sharp jawline and cheekbones with intense, colorful rim lighting. Captured on a 50mm f/1.4 cinema lens, fast shutter speed, sharp eye focus, and creamy wet reflection bokeh. Futuristic desi street-culture aesthetic, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "890",
+    "title": "Chanderi Saree in Ancient Mandu Fort Ruins",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/890.jpeg",
+    "promptText": "Transform the provided reference photo into an evocative, historic Madhya Pradesh travel portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands in the open pavilion of the Jahaz Mahal in Mandu, with weathered stone arches overlooking a tranquil lotus-filled reservoir. Dressed in an authentic tissue-chanderi silk saree in muted moss-green and copper-gold, with the diaphanous pallu catching the afternoon breeze, paired with raw-silver tribal jewelry. Soft diffused sunlight filtering through historic arches highlights the sheer, lustrous weave of the Chanderi fabric and illuminates her graceful, contemplative face. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp focus on the fabric texture and eyes, and creamy ancient ruins bokeh. Romantic historic heritage photography, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "891",
+    "title": "Delhi Lodhi Art District Colorful Mural Streetwear",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/891.jpeg",
+    "promptText": "Transform the provided reference photo into a vibrant contemporary urban fashion portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands before a colossal, colorful street-art wall mural in the Lodhi Art District of New Delhi on a bright winter afternoon. Dressed in trendy modern street-style: an oversized olive utility jacket, white ribbed cropped tank, high-waisted wide-leg khaki trousers, chunky white sneakers, and layered gold chain necklaces. Her posture is confident, relaxed, and chic, offering an engaging smile toward the lens. Clean, crisp winter daylight illuminates the vivid mural colors and creates natural, flattering highlights across her face. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and soft colorful graffiti bokeh in the background. Modern Indian street-fashion editorial, authentic skin texture, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "892",
+    "title": "Golden Hour Mustard Field Dupatta Wave",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/892.jpeg",
+    "promptText": "Transform the provided reference photo into an iconic cinematic Indian countryside photograph while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject stands in the middle of a vast, blooming yellow sarson (mustard flower) field at sunset, holding the corner of her crimson-red georgette dupatta as it floats gracefully in the evening breeze. Dressed in an off-white cotton salwar kameez with subtle mirror-work details. The setting golden sun sits directly behind her, creating dramatic golden rim lighting around her hair, arms, and the flowing translucent red dupatta, while soft ambient light keeps her smiling face radiant and clearly detailed. Captured on an 85mm f/1.4 portrait lens, shallow depth of field, sharp eye focus, and creamy yellow flower bokeh. Timeless Indian cinematic aesthetic, authentic skin pores, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "893",
+    "title": "Vintage Irani Cafe Bun Maska & Parsi Lace Blouse",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/893.jpeg",
+    "promptText": "Transform the provided reference photo into a warm, nostalgic heritage cafe portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject sits at a round white-marble tabletop inside an authentic century-old Parsi Irani cafe in South Mumbai, gently holding a warm glass cup of sweet Irani chai with a plate of fresh buttered bun maska nearby. Bentwood chairs, vintage etched mirrors, and glass cabinets decorate the historic room. Dressed in a delicate cream vintage Parsi gara-embroidered lace blouse with pearl buttons and simple gold studs. Soft, diffused daylight from the street-facing wooden window illuminates her serene, nostalgic smile with gentle, warm tonal gradations. Photographed on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy vintage cafe bokeh. Bombay heritage nostalgia, authentic skin pores, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "894",
+    "title": "Royal Mysore Silk Saree inside Mysore Palace",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/894.jpeg",
+    "promptText": "Transform the provided reference photo into a regal royal couture portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands in the Durbar Hall of the Mysore Palace, surrounded by sculpted turquoise pillars, stained-glass ceilings, and mosaic marble floors. Dressed in an authentic royal-blue Mysore crepe silk saree with an opulent solid gold zari border, paired with an embroidered elbow-sleeve blouse, an antique gold choker with ruby cabochons, and matching ear-studs. Soft golden chandelier lighting mixes with filtered daylight from the stained-glass ceiling, casting majestic, warm illumination across the rich crepe silk and her graceful, poised face. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp focus on the jewelry and eyes, and creamy palace interior bokeh. Imperial Indian royal aesthetic, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "895",
+    "title": "Aesthetic Mirror-Selfie in Heavy Silver Jewelry & Kurta",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/895.jpeg",
+    "promptText": "Transform the provided reference photo into a trendy viral aesthetic mirror selfie while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject captures an aesthetic mirror selfie holding a modern smartphone in an ornate brass-framed antique mirror in a cozy bedroom with warm fairy lights and houseplants in the background. Dressed in an earthy olive-green oversized cotton kurta with rolled sleeves, accessorized with stacked oxidised silver tribal necklaces, jhumkas, a septum clip, and a tiny black bindi. Her expression is effortless, stylish, and playful. Warm ambient room lighting creates soft, flattering illumination across her face and highlights the intricate carved silver jewelry details. Shot on a 35mm equivalent camera through clean mirror glass, realistic subtle reflections, sharp eye focus, and authentic social-media aesthetic. Relatable desi Gen-Z style, authentic skin texture, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "896",
+    "title": "Goa Portuguese Villa Pastel Dress on Yellow Scooter",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/896.jpeg",
+    "promptText": "Transform the provided reference photo into a sun-soaked Goa holiday portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject sits casually on a pastel-yellow retro Vespa scooter parked outside a bright indigo-blue heritage Portuguese colonial villa in Fontainhas, Goa. Crimson bougainvillea flowers drape over the white balustrade in the background. Dressed in a breezy pastel-yellow tiered sundress, a woven straw hat with a black ribbon resting in hand, and flat leather sandals. Warm tropical morning sunlight bathes the cobblestone lane, casting delicate leaf shadows across the colorful stucco walls and illuminating her joyful, beaming smile. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy tropical street bokeh. Vibrant coastal holiday aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "897",
+    "title": "Banarasi Brocade Pant-Suit Runway Power Editorial",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/897.jpeg",
+    "promptText": "Transform the provided reference photo into a powerful high-fashion couture fusion editorial while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject poses in an architectural brutalist concrete studio, projecting commanding female leadership and modern grace. Dressed in a bespoke tailored double-breasted power suit crafted entirely from rich crimson and gold Banarasi brocade silk, paired with sleek pointed gold heels and a minimalist gold choker. Dramatic directional studio key lighting sculpts her cheekbones and jawline, casting high-contrast shadows while the metallic brocade weave shimmers with luxurious texture. Photographed on a medium-format 85mm f/2.0 lens, shallow depth of field, razor-sharp focus on the eyes, natural skin pores, and soft studio background blur. High-fashion Indian power dressing, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "898",
+    "title": "Classical Kathak Dance Pose with Ghungroo & Chikan Anarkali",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/898.jpeg",
+    "promptText": "Transform the provided reference photo into a classical Indian performing arts portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject is captured mid-movement in an expressive classical Kathak dance stance in a polished wooden rehearsal hall. Heavy brass bells (ghungroo) wrapped around her ankles with red cords gleam under the light. Dressed in an ivory and gold-bordered pleated flared Anarkali costume with a contrasting maroon waistcoat, with her hands sculpted into a graceful classical hasta mudra. Her eyes are accentuated with dramatic classical kohl, holding an expressive, emotional abhinaya gaze. Soft daylight from tall studio windows creates fluid motion blur along the hem of her flared costume while keeping her face in razor-sharp focus. Shot on an 85mm f/1.8 lens, shallow depth of field, and authentic classical dance grace. 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "899",
+    "title": "Hampi Stone Chariot Sunset Linen Saree",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/899.jpeg",
+    "promptText": "Transform the provided reference photo into a breathtaking UNESCO heritage travel portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands before the monolithic carved Stone Chariot at the Vijaya Vittala Temple in Hampi during a fiery crimson sunset. Dressed in a minimalist handloom linen saree in muted mustard-yellow with thin charcoal borders, accessorized with handcrafted silver tribal earrings and a black thread anklet. Low-angle golden-hour sunlight washes across the ancient granite boulders and temple carvings, casting radiant warm rim lighting across her hair and profile. Her expression is one of quiet awe and peaceful wanderlust. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy temple bokeh. Historical Indian travel aesthetic, authentic skin texture, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "900",
+    "title": "Kashmiri Shikara Saree Floating Market Morning",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/900.jpeg",
+    "promptText": "Transform the provided reference photo into a scenic Dal Lake travel portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject sits gracefully on the cushioned wooden bench of an open shikara boat navigating Dal Lake in Srinagar at dawn, beside a floating wooden boat laden with fresh colorful dahlias and lilies. Dressed in a pastel-sage green georgette saree, warm ivory pashmina shawl draped over her shoulders, and silver Kashmiri ear-drops. Cool morning lake mist hovers over the mirror-calm water, reflecting the snow-capped Pir Panjal peaks. The rising sun breaks through the mist, creating soft golden highlights on her smiling, serene face. Shot on an 85mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy mountain lake bokeh. Ethereal Indian travel photography, 8K detail, no identity alteration, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "901",
+    "title": "Haldi Ceremony Yellow Mirror Lehenga & Floral Mathapatti",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/901.jpeg",
+    "promptText": "Transform the provided reference photo into an exuberant Indian wedding Haldi celebration portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject sits on an ornate brass chowki in an outdoor courtyard decorated with yellow and orange marigold canopies, laughing with pure, spontaneous joy. Dressed in a vibrant sunny-yellow mirror-work lehenga with a sleeveless blouse, styled with handcrafted yellow floral jewellery: a mathapatti, earrings, and haathphool made of fresh tagar and marigold buds. Subtle touches of auspicious turmeric paste (haldi) are smeared gently across her glowing cheeks. Fresh yellow flower petals shower through the air around her in mid-flight. Captured on an 85mm f/1.4 lens, fast shutter speed, shallow depth of field, razor-sharp facial details, and creamy marigold bokeh. Festive Indian bridal celebration aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "902",
+    "title": "90s Doordarshan Newsreader Retro Silk Saree & Glasses",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/902.jpeg",
+    "promptText": "Transform the provided reference photo into a charming 1990s vintage Doordarshan news anchor television studio still while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject sits at a classic wooden news desk inside a 1990s TV studio, with an analog microphone and paper news sheets in hand, offering a calm, dignified, reassuring smile to the camera. Dressed in an authentic stiff handloom Kanchi cotton saree in rich teal with a contrast maroon border, delicate gold studs, a red bindi, and thin wire-rimmed reading glasses. Warm retro studio lighting with soft diffuse highlights illuminates the scene. Captured with subtle 1990s broadcast television color science, gentle analog tape scanlines, and soft CRT film grain. Nostalgic Indian television media heritage, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "903",
+    "title": "Desert Night Star Trail Dunes with Ajrakh Block Print Cape",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/903.jpeg",
+    "promptText": "Transform the provided reference photo into an artistic desert astrophotography portrait while strictly preserving the woman's exact facial structure, eyes, nose, lips, jawline, and natural skin tone. The subject stands on a windswept sand dune in the Thar desert at midnight under an arching Milky Way galaxy and star trails. Dressed in a flowing indigo-and-crimson hand-block printed Ajrakh silk cape that flutters dramatically in the desert wind over a fitted dark outfit, with layered tribal silver necklaces. A small lantern resting on the sand casts soft warm key light across her face and the intricate geometric Ajrakh block prints against the deep blue night sky. Shot on a 24mm f/1.4 astrophotography lens, sharp facial focus, and breathtaking deep-space starry background. Mythic desert nomad aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "904",
+    "title": "Modern Minimalist Raw Silk Cape Dress in Brutalist Architecture",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/904.jpeg",
+    "promptText": "Transform the provided reference photo into a sculptural high-fashion architectural editorial while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject poses in the soaring open-air concrete rotunda of a modernist museum in Chandigarh. Dressed in an architectural high-fashion floor-length cape dress made of structured raw tussar silk in unbleached ivory, with a sharp geometric neckline, minimal styling, and a single sculptural gold ear cuff. Stark diagonal afternoon sunlight cuts through geometric ceiling cutouts, casting sharp linear shadows and illuminating her composed, fierce facial features with high-fashion clarity. Captured on an 85mm f/2.8 lens, shallow depth of field, razor-sharp focus on the eyes, and smooth brutalist concrete background blur. International luxury magazine editorial aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "905",
+    "title": "Kolkata Kumartuli Idol Workshop Clay Sculpting",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/905.jpeg",
+    "promptText": "Transform the provided reference photo into a culturally rich artisan lifestyle portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject stands inside an atmospheric, rustic clay sculptor's workshop in Kumartuli, Kolkata, surrounded by unfinished straw-and-clay sculptures of Goddess Durga. She gently touches the sculpted clay cheek of an idol with artistic reverence, smiling thoughtfully. Dressed in an earthy indigo handloom cotton saree with a simple elbow-sleeve blouse, small terracotta earrings, and glass bangles. Soft morning daylight streams through corrugated roof gaps, catching floating clay dust and casting warm, dramatic Rembrandt highlights across her face. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy clay-sculpture bokeh. Authentic Kolkata heritage storytelling, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "906",
+    "title": "Rainy Car Window Reflection in Chiffon Dupatta",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/906.jpeg",
+    "promptText": "Transform the provided reference photo into an intimate cinematic monsoon movie frame while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject sits in the passenger seat of a car during a heavy Mumbai rainstorm at night, leaning her forehead lightly against the rain-streaked glass window. Water droplets run down the glass, reflecting blurred red taillights and yellow streetlamps. Dressed in a soft pastel-mauve georgette kurta with a delicate chiffon dupatta resting over her shoulder. The subject holds a pensive, nostalgic, gentle expression as she gazes outside. Warm dashboard illumination and cool neon street reflections sculpt her face with cinematic dual-tone lighting. Captured on an 85mm f/1.4 lens, shallow depth of field, razor-sharp focus on her eyes through the glass, and creamy colored rain bokeh. Moody Indian cinema still, authentic skin texture, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "907",
+    "title": "Traditional Maharashtrian Nauvari Saree with Peshwai Nath",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/907.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic traditional Maharashtrian cultural portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject poses gracefully in an ancient stone wada courtyard in Satara. Dressed in a traditional vibrant royal-blue and golden-yellow borders Nauvari (nine-yard) silk saree draped in Kashta style, paired with a matching embroidered blouse, green glass bangles with gold tode, traditional Thushi choker necklace, and an authentic pearl-and-ruby crescent Peshwai nath in her nose. A crescent-shaped chandrakor bindi adorns her forehead. Warm afternoon sunlight bounces off the stone walls, casting soft golden illumination across her radiant, proud smile. Captured on an 85mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy historic stone bokeh. Rich Marathi cultural aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "908",
+    "title": "Coffee Estate Treehouse Morning in Coorg",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/908.jpeg",
+    "promptText": "Transform the provided reference photo into a cozy luxury plantation retreat portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject sits on the wooden deck of a luxury treehouse nestled among towering silver oak trees in a misty Coorg coffee estate at sunrise, holding a steaming ceramic mug of filter coffee with both hands. Dressed in an oversized cream knit cardigan over an olive linen camisole and cozy lounge pants. Soft morning mist drifts through the canopy, with fresh red coffee berries visible on bushes below. The rising sun filters through the trees, casting golden volumetric sunbeams and gentle highlights across her relaxed, smiling face. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp eye focus, and creamy green plantation bokeh. Serene South Indian nature retreat aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "909",
+    "title": "Indie Film Director on Set with Megaphone & Handloom Saree",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/909.jpeg",
+    "promptText": "Transform the provided reference photo into a creative behind-the-scenes movie director portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject stands on an active outdoor cinema film set, smiling confidently with a viewfinder hanging around her neck and a radio headset over one ear. Dressed in contemporary creative director attire: an earthy handloom indigo cotton saree worn over a casual t-shirt with running sneakers, silver jhumkas, and a messy top bun. Film lights, c-stands, and camera rigs are softly blurred in the background under late-afternoon sun. The warm directional light illuminates her focused, visionary, smiling expression. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, and authentic cinema production bokeh. Inspiring modern Indian female creator aesthetic, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "910",
+    "title": "Udaipur Pichola Ghat Candlelit Steps in Raw Silk Anarkali",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/910.jpeg",
+    "promptText": "Transform the provided reference photo into a breathtaking romantic royal evening portrait while precisely retaining the woman's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject sits gracefully on the marble steps of Ambrai Ghat in Udaipur at twilight, surrounded by dozens of gently flickering clay diyas and fresh red rose petals. Across the calm waters of Lake Pichola, the illuminated City Palace glows with thousands of golden lights. Dressed in a floor-length ivory raw-silk Anarkali suit with delicate gold pita embroidery, paired with a sheer dupatta and antique polki earrings. Warm candlelight from the diyas provides organic, flattering key illumination across her face, creating sparkling catchlights in her eyes and soft shadows. Shot on an 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp facial details, and creamy palace reflection bokeh on the lake. Ultra-photorealistic luxury Indian travel photography, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "911",
+    "title": "Vibrant Bandhani Saree in Bhuj Desert Village",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/911.jpeg",
+    "promptText": "Transform the provided reference photo into an authentic craft heritage portrait in Kutch while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands in the courtyard of a traditional circular mud-and-mirror decorated Bhunga hut in a Bhuj village during golden hour. Dressed in an authentic hand-tied red-and-yellow Bandhani silk saree with delicate micro-dots, paired with an embroidered Kutchi blouse and stacked white bone bangles on her arms. Golden desert sunlight catches the intricate tie-dye patterns and highlights her warm, welcoming, proud smile. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp focus on the fabric texture and eyes, and creamy mud-architecture background bokeh. Authentic Gujarati textile heritage photography, 8K detail, no identity modification, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "912",
+    "title": "Modern Corporate CEO in Tailored Khadi Blazer",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/912.jpeg",
+    "promptText": "Transform the provided reference photo into a commanding modern Indian corporate leader portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands in a sunlit corner executive office on a high floor of a glass skyscraper in Gurugram, arms folded with approachable, visionary confidence. Dressed in a bespoke tailored raw-khadi charcoal blazer over a crisp ivory silk top, tailored trousers, and minimal gold stud earrings. Expansive floor-to-ceiling windows behind her showcase the skyline in late-afternoon daylight. Clean natural side-lighting sculpts her facial contours with professional elegance and sharp clarity. Captured on an 85mm f/2.0 lens, shallow depth of field, sharp eye focus, and creamy corporate city bokeh. Forbes India executive editorial aesthetic, authentic skin pores, 8K detail, no identity change, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "913",
+    "title": "Golden Temple Parikrama Night Reflection in Phulkari Suit",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/913.jpeg",
+    "promptText": "Transform the provided reference photo into a peaceful, deeply spiritual Amritsar night portrait while preserving 100% facial identity, natural skin tone, eyes, and bone structure. The subject stands with joined palms in quiet prayer on the white marble parikrama pathway of the Golden Temple in Amritsar at night. In the background, the gilded Harmandir Sahib blazes with radiant golden illumination, casting shimmering mirrored reflections across the sacred Amrit Sarovar holy pool. Dressed in an elegant cream silk salwar suit with a respectfully draped pastel-pink Phulkari embroidered dupatta covering her head. The brilliant golden temple lights illuminate her serene, devotional face with heavenly warmth. Shot on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy golden reflection bokeh. Sacred Indian cultural aesthetic, 8K detail, no plastic smoothing, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "914",
+    "title": "Vintage Calcutta Gramophone & Antique Armchair Saree",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/914.jpeg",
+    "promptText": "Transform the provided reference photo into a moody 1950s Ray-cinema inspired heritage portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject sits in an antique carved mahogany armchair in a grand, book-lined colonial library in North Kolkata beside an authentic brass horn gramophone. Dressed in a classic vintage tussar-silk saree with a high-neck lace blouse, pearl drop earrings, and a small bindi. Soft afternoon sunbeams stream through slatted wooden louvered shutters, illuminating floating dust particles and casting cinematic Venetian blind shadows across her thoughtful, poetic face. Captured on a 50mm vintage lens, authentic black-and-white tonal grading with deep silver-halide contrast, fine film grain, and creamy bokeh. Satyajit Ray cinema tribute, 8K detail, no identity alteration, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "915",
+    "title": "Leh Ladakh Khardung La Pass in Snow Jacket & Pashmina",
+    "category": "Female",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/915.jpeg",
+    "promptText": "Transform the provided reference photo into an epic high-altitude travel portrait while strictly maintaining 100% facial identity, eyes, nose, lips, and natural skin tone. The subject stands at the snow-covered summit of Khardung La pass in Ladakh, with towering snow peaks and fluttering multi-colored Buddhist prayer flags behind her under an intense cobalt-blue sky. Dressed in a technical arctic-white winter down jacket, dark thermal trousers, and a hand-woven Kashmiri pashmina wool scarf wrapped warmly around her neck. The bright, unpolluted mountain sunlight reflects off pure snow, creating radiant, clean illumination across her face with natural cold-air rosy cheeks and sparkling eyes. Shot on a 35mm f/2.8 lens, expansive mountain depth, razor-sharp facial details, and authentic cold weather atmosphere. Inspiring Himalayan travel photography, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "916",
+    "title": "Traditional Assamese Mekhela Chador in Tea Garden",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/916.jpeg",
+    "promptText": "Transform the provided reference photo into a graceful Northeast Indian cultural portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. The subject stands amidst rolling green tea bushes in an organic tea estate in Assam during early morning mist. Dressed in an authentic two-piece Assamese Muga silk Mekhela Chador in natural golden-yellow silk, embroidered with traditional red and black Kingkhap geometric motifs, styled with Assamese Gamkharu silver bangles and a fresh orchid in her hair. Soft morning sunlight breaks through the mist, illuminating the natural golden sheen of the wild Muga silk and casting gentle, warm highlights across her serene, smiling face. Captured on an 85mm f/1.8 lens, shallow depth of field, razor-sharp focus on the silk motifs and eyes, and creamy tea plantation bokeh. Authentic Assamese cultural aesthetic, 8K detail, no identity modification, 3:4 composition.",
+    "trending": false
+  },
+  {
+    "id": "917",
+    "title": "Candlelit Terrace Diwali Diya Thali & Kanjeevaram",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/917.jpeg",
+    "promptText": "Transform the provided reference photo into a warm, celebratory Diwali night portrait while preserving 100% facial identity, natural skin texture, eyes, and bone structure. The subject kneels on a decorated rooftop terrace at night, holding an ornate brass puja thali glowing with five clay diyas, marigold petals, and sweets. In the background, distant celebratory fireworks and twinkling festive fairy lights illuminate the night sky. Dressed in a rich royal-purple and gold zari Kanjeevaram silk saree, paired with traditional gold jhumkas and bangles. The golden flames of the diyas on the thali cast warm flickering key light upward across her joyful, smiling face, creating sparkling catchlights in her eyes and soft shadows. Shot on an 85mm f/1.4 lens, shallow depth of field, sharp eye focus, and creamy firework bokeh. Festive Diwali celebration aesthetic, 8K detail, no plastic skin, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "918",
+    "title": "Cyberpunk Marine Drive Mumbai Rain Walk",
+    "category": "Female",
+    "subcategory": "Urban & Cinematic",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/918.jpeg",
+    "promptText": "Transform the provided reference photo into an ultra-modern neo-noir street portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject walks along the wet promenade of Marine Drive in Mumbai at midnight during rain, holding a clear transparent umbrella. A high-tech futuristic skyline with glowing neon Hindi signs and electric blue light bars reflects in deep water puddles on the asphalt. Dressed in a cropped black technical rain jacket, high-waisted dark utility trousers, and combat boots. Vibrant neon reflections in electric cyan and magenta illuminate her face and the umbrella canopy with dynamic cinematic contrast. The subject looks forward with an intense, confident, modern gaze. Captured on an 85mm T1.5 cinema lens, shallow depth of field, razor-sharp eye focus, and creamy neon reflection bokeh. Blade Runner meets Mumbai aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
+  },
+  {
+    "id": "919",
+    "title": "Classical Bharatnatyam Mudra Temple Sanctum",
+    "category": "Female",
+    "subcategory": "Creative & Whimsical",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/919.jpeg",
+    "promptText": "Transform the provided reference photo into a magnificent classical Indian dance portrait while strictly maintaining the woman's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject stands in an ancient Thanjavur temple sanctum in an iconic Bharatnatyam araimandi stance, her hands shaped into the graceful Mayura hasta mudra. Dressed in an authentic pleated silk Bharatnatyam dance costume in royal maroon and gold temple zari, with ghungroo bells tied around her ankles and alta red dye decorating her fingertips and palms. An elaborate temple jewelry set including the sun and moon head ornaments (Surya-Chandra) and kemp stone choker sparkles brilliantly. Warm light from a traditional brass standing lamp (kuthuvilakku) sculpts her expressive, kohl-rimmed eyes and poised, devotional face. Shot on an 85mm f/1.4 lens, shallow depth of field, razor-sharp facial details, and creamy granite temple bokeh. Classical Indian temple arts aesthetic, 8K detail, no identity change, 3:4 composition.",
+    "trending": true
   }
 ]
