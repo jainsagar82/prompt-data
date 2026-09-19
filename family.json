@@ -466,6 +466,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/639.jpeg",
     "promptText": "Transform the provided mother and father reference photos into a museum-grade fine-art black-and-white family portrait while strictly preserving the exact facial identity, bone structure, eyes, nose, lips, and natural skin texture of both parents. The mother and father are posed in a close, sculptural embrace against a seamless dark charcoal studio background, both gently cradling their tiny, sleeping newborn between them. Dressed in simple, unadorned black knit tops. A single large studio softbox provides elegant directional lighting, sculpting the parents' jawlines and cheekbones with smooth silver grayscale gradients, luminous skin highlights, and rich, deep velvety shadows. Photographed on a 105mm medium-format studio lens at f/2.8, razor-sharp focus on the baby and parents' eyes, authentic silver-halide film grain, and realistic hands. Masterwork monochrome family photography, 8K detail, no identity change, no artificial smoothing, 3:4 composition.",
     "trending": true
+  },
+  {
+    "id": "930",
+    "title": "Diwali Courtyard Family Portrait",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/930.jpeg",
+    "promptText": "Transform the provided reference photo into a warm Diwali courtyard family portrait while preserving the exact identities and recognizable facial characteristics of every family member in the reference image. Maintain each person's original face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline, and distinctive personal features. Every person must remain clearly recognizable as the same individual. Do not merge faces, exchange features, change ages, invent extra relatives, or alter natural height and body proportions. Dress the family in coordinated but non-matching jewel-toned Indian festive clothing with realistic embroidery, comfortable styling, and understated jewelry. Place them in an elegant home courtyard decorated with marigold garlands, flower rangoli, warm fairy lights, and rows of diyas positioned at a safe distance from children. Create a spontaneous shared moment in which the family laughs while arranging flower petals together rather than posing stiffly for the camera. Render every face, hand, finger, clothing fold, and interaction accurately. Use warm diya glow combined with a soft diffused key light, natural catchlights, gentle amber bokeh, and controlled shadow detail. Capture the scene as premium documentary family photography with authentic skin texture, realistic textiles, and subtle photographic grain. Compose a strict 3:4 vertical portrait with all family members comfortably framed and no cropped faces or hands. No duplicated people or limbs, no plastic skin, no text, no logo, no watermark, strict 3:4 portrait composition.",
+    "trending": true
   }
-
 ]
