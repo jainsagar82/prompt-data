@@ -935,4 +935,32 @@
     "promptText": "Transform the provided reference photo into a story-led monsoon railway farewell portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Maintain her original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining features, and distinctive personal characteristics. She must remain clearly recognizable as the same person. Do not replace, redesign, beautify, age, de-age, or alter her natural body proportions. Dress her in a simple rust cotton kurta with an indigo handwoven shawl and practical travel footwear. Place her beneath the roof of an old Indian railway platform immediately after heavy rain, with wet reflective paving, a departing blue train softened by atmospheric motion, and only a few distant passengers. Have her hold a small weathered vintage suitcase and pause with a thoughtful but hopeful expression, one hand gently gathering the shawl. Render her hands, fingers, suitcase grip, posture, and wet fabric edges accurately. Mix cool rainy daylight with warm train-window glow, delicate halation, fine analog grain, deep shadow detail, and realistic moisture in the air. Capture the scene like a premium feature-film still using a 50mm lens look and natural depth. Compose a strict 3:4 vertical three-quarter portrait with the head and both hands fully visible. No readable station signs, no melodramatic pose, no celebrity imitation, no plastic skin, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
   }
+,
+  {
+    "id": "941",
+    "title": "VHS Railway Platform Reunion",
+    "category": "Cinematic",
+    "subcategory": "Vintage Cinema",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/941.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into an emotional VHS-era railway-platform reunion while preserving both exact identities. Preserve facial features, skin tone, age, hair, body proportions, and relationship without face swapping or redesign. Place one person waiting beside a worn metal travel trunk as the other approaches through steam on an old railway platform under warm lamps. Use period-inspired travel clothing, layered depth, subtle tape softness, restrained analog scan texture, and cinematic practical light. Compose as a strict 3:4 vertical storytelling frame with both adults visible and the reunion emotion clear. Maintain accurate hands, feet, luggage, perspective, and anatomy. No readable signs, text, logo, watermark, celebrity likeness, or identity change.",
+    "trending": true
+  },
+  {
+    "id": "953",
+    "title": "Neo-Noir Taxi Reflection",
+    "category": "Cinematic",
+    "subcategory": "Noir & Mystery",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/953.jpeg",
+    "promptText": "Transform the provided adult reference photo into a neo-noir taxi-window character portrait while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and proportions. Place the subject inside a classic city taxi at night wearing a tailored dark coat, viewed through a rain-streaked side window. Layer realistic amber and cyan street reflections across the glass while keeping the thoughtful face readable. Use dramatic practical lighting, natural skin texture, detailed rain droplets, and authentic vehicle materials. Compose as a strict 3:4 vertical close-up framed by the taxi window. No readable signs, celebrity likeness, text, logo, watermark, face replacement, identity change, or plastic skin.",
+    "trending": false
+  },
+  {
+    "id": "965",
+    "title": "Three-Frame Monochrome Character Study",
+    "category": "Cinematic",
+    "subcategory": "Collage & Film Sheets",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/965.jpeg",
+    "promptText": "Transform the provided adult reference photo into a fine-art monochrome three-frame character study while preserving the subject's exact identity consistently in every panel. Preserve the same face, facial features, natural age, hair, facial hair, body proportions, and dark wool coat across all three moments. Create three narrow vertical panels: a direct close-up gaze, a thoughtful side profile, and a full figure walking through soft rain. Use subtle black dividers, silver-gelatin film texture, natural contrast, realistic skin, coat fibers, rain, and pavement reflections. The overall canvas must be strict 3:4 vertical. Keep face consistency and anatomy accurate. No celebrity likeness, text, logo, watermark, duplicate identity drift, extra people, or malformed panels.",
+    "trending": false
+  }
 ]

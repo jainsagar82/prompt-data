@@ -494,4 +494,32 @@
     "promptText": "Transform the provided reference photo into a wedding-season analog contact sheet while preserving the exact identities and recognizable facial characteristics of both adults in every frame. Maintain each person's original face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining features, and distinctive personal characteristics. Both people must remain unmistakably the same individuals throughout the entire grid. Do not merge faces, exchange features, change ages, or alter natural body proportions. Dress the woman in an elegant ivory-and-rose hand-embroidered lehenga and the man in a deep-olive tailored bandhgala. Place them in a heritage haveli courtyard during a warmly lit pre-wedding evening with restrained flowers and practical lamps. Build one cohesive 3x3 analog contact sheet containing nine different believable candid moments: shared laughter, walking hand-in-hand, a gentle forehead kiss, a seated conversation, a playful twirl, close hand details, and quiet affectionate glances. Keep clothing, jewelry, faces, and lighting consistent in every frame. Use subtle direct flash, fine 35mm grain, warm color response, slight frame-to-frame exposure variation, and narrow cream film borders. Compose the overall result as a strict 3:4 vertical image with nine clean frames, readable faces, and no printed numbers or text. Same two adults only, accurate hands, no extra people, no celebrity imitation, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
   }
+,
+  {
+    "id": "938",
+    "title": "Monsoon Bollywood Umbrella Romance",
+    "category": "Couples",
+    "subcategory": "Retro & Creative",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/938.jpeg",
+    "promptText": "Transform the two adult people in the provided reference photo into a cinematic 1980s-inspired monsoon romance while preserving both exact identities. Preserve each person's facial structure, features, natural skin tone, hair, age, body proportions, and relationship. Do not merge, swap, beautify, or replace either face. Place them beneath one transparent umbrella on a wet old-city street at blue hour, wearing period-inspired clothing in deep teal and mustard. Add gentle rain, practical shop lights, warm reflections in puddles, soft halation, and fine 35mm grain. Compose in strict 3:4 vertical format with both people visible from the knees up, sharing natural eye contact. Keep hands, limbs, umbrella grip, and reflections realistic. No celebrity likeness, readable signage, text, logo, watermark, or identity change.",
+    "trending": true
+  },
+  {
+    "id": "950",
+    "title": "Monsoon Cafe Window Candid",
+    "category": "Couples",
+    "subcategory": "Romantic Dates",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/950.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into an intimate monsoon café-window candid while preserving both exact identities, facial features, skin tones, hair, ages, body proportions, and relationship. Seat them across from each other at a warm wooden table with two ceramic cups, sharing quiet natural smiles. Place rain droplets on the large window and softly blurred street lights outside. Use gentle window light, authentic skin texture, realistic clothing, and a calm documentary mood. Compose as a strict 3:4 vertical portrait with both faces clearly visible. Keep hands, cups, reflections, and anatomy accurate. No readable signage, brand marks, text, logo, watermark, celebrity likeness, face swapping, or identity change.",
+    "trending": false
+  },
+  {
+    "id": "963",
+    "title": "Diwali Terrace Sparkler Romance",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/963.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into a romantic Diwali terrace portrait while preserving both exact identities, facial features, natural skin tones, hair, ages, body proportions, and relationship. Dress them in elegant coordinated traditional clothing and place them on a flower-decorated terrace at night, each holding a sparkler safely away from clothing while sharing affectionate natural eye contact. Add diyas in protected holders and softly blurred city lights. Compose as a strict 3:4 vertical full-length couples portrait. Render skin, fabric, sparks, hands, and lighting realistically. No face swapping, celebrity likeness, text, logo, watermark, identity change, unsafe fire placement, or distorted anatomy.",
+    "trending": true
+  }
 ]

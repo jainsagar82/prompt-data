@@ -953,4 +953,23 @@
     "promptText": "Transform the provided reference photo into a joyful Navratri toddler portrait while preserving the exact identity and recognizable facial characteristics of the child in the reference image. Maintain the child's original face shape, eyes, eyebrows, nose, lips, cheeks, natural skin tone, age, hairline, hair texture, and distinctive features. The child must remain unmistakably the same person. Do not change age, gender presentation, facial proportions, body shape, or natural expression. Dress the toddler in a comfortable miniature indigo-and-red mirrorwork kediyu outfit with soft traditional shoes and child-safe fabric details. Place the child on a secure cushioned mat inside a warmly decorated home courtyard with marigold garlands, tiny fairy lights, brass decor kept safely in the background, and soft festive bokeh. Show the toddler standing or balancing naturally while holding two lightweight decorative dandiya sticks, with a delighted candid smile and accurate hands, fingers, feet, and posture. Use soft warm diffused light, realistic catchlights, gentle background separation, and premium baby-photography clarity. Preserve natural baby skin texture, fine hair, realistic clothing folds, and age-appropriate proportions without excessive smoothing or adult styling. Compose a strict 3:4 vertical full-body portrait at the child's eye level with generous margins around the head, sticks, and feet. Safe and age-appropriate, no makeup, no unsafe flame, no adult body proportions, no facial distortion, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
   }
+,
+  {
+    "id": "939",
+    "title": "Little Festive Lantern Portrait",
+    "category": "Cute Baby",
+    "subcategory": "Festive & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/939.jpeg",
+    "promptText": "Transform the provided child reference photo into a warm festive studio portrait while preserving the child's exact identity, facial features, natural skin tone, hair, age, and proportions. Dress the child in a simple ivory festive kurta set and seat them safely on a padded neutral floor beside handcrafted electric paper lanterns and marigold petals. Create soft amber bokeh, gentle studio light, a joyful natural expression, and realistic embroidered fabric. Compose as a strict 3:4 vertical full seated portrait with generous safe margins. Keep the pose age-appropriate and the fingers, toes, teeth, and limbs anatomically accurate. Use no open flame or unsafe objects. No text, logo, watermark, identity change, adult styling, heavy makeup, plastic skin, or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "951",
+    "title": "One-Year Floral Milestone",
+    "category": "Cute Baby",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/951.jpeg",
+    "promptText": "Transform the provided child reference photo into a clean one-year floral milestone portrait while preserving the child's exact identity, facial features, natural skin tone, hair, age, and proportions. Dress the child in a pale sage romper and seat them securely on a soft cream rug beside low arrangements of blush and ivory flowers and a simple wooden number-one shape. Use a bright neutral studio background, soft daylight, realistic skin and fabric, and a natural cheerful expression. Compose as a strict 3:4 vertical full seated portrait. Keep the setup age-appropriate and safe, with accurate fingers, toes, teeth, and limbs. No glass, candles, adult styling, text, logo, watermark, identity change, or distorted anatomy.",
+    "trending": false
+  }
 ]

@@ -449,4 +449,23 @@
     "promptText": "Transform the provided reference photo into an impactful Bloomberg Businessweek-style magazine cover portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. Studio portrait with dynamic, directional lighting: warm rim light on the shoulders paired with a crisp, soft key light across the face against an editorial dark slate backdrop. The subject makes direct, magnetic eye contact with an expression of sharp intellect and visionary determination. Dressed in impeccably tailored modern suiting. Captured on a 105mm portrait lens at f/2.8, razor-sharp focus on the eyes, natural skin pores, and clean editorial tonal rolloff. High-end personal brand cover photo, 8K detail, no identity modification, 3:4 composition.",
     "trending": true
   }
+,
+  {
+    "id": "945",
+    "title": "Y2K Digicam Rooftop Photo Dump",
+    "category": "Social Media",
+    "subcategory": "Streetwear & Y2K",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/945.jpeg",
+    "promptText": "Transform the provided adult reference photo into a playful Y2K digicam rooftop candid while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Style the subject in a metallic jacket and relaxed denim, holding a compact digital camera toward the viewer on a city rooftop at twilight. Use direct on-camera flash, colorful city bokeh, slightly imperfect snapshot energy, and realistic early-digital-camera texture. Compose as a strict 3:4 vertical knee-up portrait with a natural playful expression. Keep hands, camera grip, clothing, and anatomy accurate. No brand marks, readable text, logo, watermark, celebrity likeness, identity change, face distortion, or plastic skin.",
+    "trending": true
+  },
+  {
+    "id": "958",
+    "title": "Creator Desk Direct-Flash Candid",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/958.jpeg",
+    "promptText": "Transform the provided adult reference photo into an authentic creator-at-work candid while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and proportions. Seat the subject at a compact home-studio desk while adjusting a small unbranded camera on a tabletop tripod. Include acoustic panels, a closed notebook, a warm practical lamp, and a laptop with its screen turned away. Use tasteful direct flash, realistic skin, hands, camera controls, and everyday desk texture. Compose as a strict 3:4 vertical waist-up environmental portrait. No readable screen content, brand marks, text, logo, watermark, celebrity likeness, identity change, extra fingers, or distorted equipment.",
+    "trending": false
+  }
 ]

@@ -449,4 +449,23 @@
     "promptText": "Transform the provided reference photo into a breathtaking golden sunrise mountain-meadow portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain the person's original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual from the reference photograph. Place the subject alone in a vast alpine meadow surrounded by wildflowers, tall grasses, distant mountain peaks, scattered pine trees, drifting morning mist, and a glowing sunrise emerging behind the mountains. Dress the subject in a premium cream outdoor jacket layered over a simple natural-colored sweater, relaxed trousers, and clean hiking boots. Create a genuine joyful expression and natural confident posture, with one hand gently touching the wild grasses while the subject looks toward the sunrise. Use warm golden sunlight passing through the grass and creating a delicate rim light around the hair and shoulders, while soft cool ambient mountain light maintains realistic skin tones. Include realistic dew droplets on flowers and grass, tiny floating particles, distant birds, detailed mountain textures, atmospheric perspective, and subtle cloud layers. Capture the image using a professional full-frame camera with a 50mm lens around f/2.2, precise facial focus, natural perspective, soft cinematic depth of field, realistic highlight rolloff, high dynamic range, subtle film grain, and authentic photographic texture. Compose the final image as a premium cinematic 16:9 horizontal landscape photograph with the subject balanced against the enormous mountain environment and generous negative space. The final image should feel joyful, inspiring, peaceful, adventurous, and highly shareable while remaining completely believable as a real photograph. Ultra-photorealistic mountain nature photography, golden sunrise, alpine meadow, wildflowers, cinematic landscape portrait, realistic atmospheric haze, natural skin texture, detailed vegetation, realistic mountains, premium outdoor photography, 8K ultra-detailed photorealism, masterpiece, no identity change, no facial distortion, no artificial face replacement, no plastic skin, no excessive retouching, no fantasy landscape, no cartoon appearance, no oversaturation, no watermark, 16:9 horizontal composition.",
     "trending": true
   }
+,
+  {
+    "id": "944",
+    "title": "Misty Monsoon Tea Garden Sunrise",
+    "category": "Nature",
+    "subcategory": "Meadows & Gardens",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/944.jpeg",
+    "promptText": "Create a photorealistic vertical landscape of rolling Indian tea gardens at dawn immediately after monsoon rain. Show layered emerald tea rows covered in droplets, silver mist drifting between forested hills, a narrow winding footpath, and one tiny distant red umbrella used only for scale. Use a strong foreground-to-background composition, soft sunrise breaking through clouds, realistic wet soil, natural foliage variation, atmospheric depth, and refined landscape-photography color. The final image must be a strict 3:4 vertical composition with no crop marks or border. Keep the scene plausible and environmentally natural. No identifiable person, buildings dominating the view, text, logo, watermark, oversaturation, fantasy elements, or artificial symmetry.",
+    "trending": false
+  },
+  {
+    "id": "957",
+    "title": "Moonlit Desert Wildflowers",
+    "category": "Nature",
+    "subcategory": "Deserts & Dunes",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/957.jpeg",
+    "promptText": "Create a photorealistic moonlit desert valley after rare rain. Show small native wildflowers scattered across damp sand in the foreground, moonlight tracing sculpted dunes in the middle distance, dark rocky hills beyond, and delicate clouds surrounding a bright full moon. Use a low foreground viewpoint, deep layered composition, realistic long-exposure detail, natural plant variation, subtle wet highlights, and restrained nocturnal color. The final image must be a strict 3:4 vertical composition with no border or crop marks. Keep the botany and desert terrain plausible. No people, buildings, fantasy creatures, text, logo, watermark, oversaturation, artificial symmetry, or impossible lighting.",
+    "trending": false
+  }
 ]

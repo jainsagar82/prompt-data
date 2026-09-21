@@ -386,4 +386,23 @@
     "promptText": "Transform the provided reference photo into a luxury monochrome fashion double-exposure portrait while strictly preserving the person's exact jawline, eye details, lips, and facial proportions. The primary subject is captured in an elegant side-profile pose under sharp editorial studio rim lighting. Seamlessly merged inside the silhouette is an intricate second exposure of brutalist glass skyscrapers, soaring geometric bridges, and high-speed highway light streaks. Deep inky blacks, luminous silver-gelatin midtones, crisp highlight gradients, authentic Ilford medium-format film grain, flawless edge separation, 8K detail, no facial distortion. 3:4 composition.",
     "trending": true
   }
+,
+  {
+    "id": "943",
+    "title": "Banarasi Couture Flash Editorial",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/943.jpeg",
+    "promptText": "Transform the provided adult reference photo into a high-fashion Banarasi couture editorial while preserving the subject's exact identity and recognizable facial characteristics. Preserve face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, hair, age, and body proportions. Dress the subject in a modern sculptural Banarasi brocade ensemble in ruby and antique gold, styled modestly and elegantly. Place the subject against a dark stone arcade and use crisp direct flash with controlled background falloff. Compose as a strict 3:4 vertical full-length fashion portrait with a strong editorial pose. Render fine textile detail, realistic skin, natural hands, and accurate anatomy. No celebrity likeness, identity change, text, logo, watermark, plastic skin, or distorted fabric.",
+    "trending": true
+  },
+  {
+    "id": "956",
+    "title": "Liquid Chrome Studio Couture",
+    "category": "Fashion",
+    "subcategory": "Avant-Garde & Creative",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/956.jpeg",
+    "promptText": "Transform the provided adult reference photo into an avant-garde liquid-chrome fashion editorial while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Dress the subject in a sculptural mirrored jacket over a modest black high-neck garment and tailored black trousers. Place them in a seamless charcoal studio with controlled white strip lights and a subtly mirrored floor. Compose as a strict 3:4 vertical full-figure portrait with a strong symmetrical silhouette. Render metallic reflections, skin, fabric, shadow, and floor perspective realistically. Keep hands and anatomy accurate. No celebrity likeness, identity change, text, logo, watermark, distorted reflections, or melted body features.",
+    "trending": false
+  }
 ]

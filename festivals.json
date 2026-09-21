@@ -647,4 +647,23 @@
     "promptText": "Transform the provided reference photo into an elegant Mysore Dasara palace-lights portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Maintain her original face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining features, and distinctive personal characteristics. She must remain unmistakably the same person. Do not replace, redesign, beautify, age, de-age, or alter her natural body proportions. Dress her in a rich royal-blue Mysore silk saree with a woven antique-gold border, matching blouse, traditional gold jewelry, stacked bangles, and a jasmine-adorned braid. Place her in the palace forecourt at blue hour with the illuminated Mysore Palace softly recognizable in the background, restrained flower decorations, distant ceremonial lamps, and gentle festival activity. Have her hold a small brass flower-offering tray naturally with both hands and wear a calm celebratory smile. Render every finger, saree pleat, silk weave, jewelry reflection, flower, and architectural light accurately. Blend warm palace illumination with cool twilight ambience and a soft flattering key light on the face. Capture premium cultural editorial photography with an 85mm lens look, realistic skin pores, controlled highlights, fine grain, and deep environmental perspective. Compose a strict 3:4 vertical three-quarter portrait with the head, tray, and hands fully visible. Culturally respectful, no deity transformation, no celebrity imitation, no oversaturation, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
   }
+,
+  {
+    "id": "942",
+    "title": "Navratri Garba Circle Motion",
+    "category": "Festivals",
+    "subcategory": "Navratri",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/942.jpeg",
+    "promptText": "Transform the adult subject in the provided reference photo into the lead dancer in a joyful Navratri garba circle while preserving the subject's exact identity, facial features, skin tone, age, hair, and body proportions. Dress the subject in a richly detailed mirrorwork outfit and place them in a festive night courtyard surrounded by adult dancers. Keep the lead subject sharply focused while the surrounding circle creates graceful motion blur. Add warm string lights, subtle dust in the air, natural smiles, and realistic embroidered textiles. Compose as a strict 3:4 vertical full-body action portrait. Maintain culturally respectful styling, correct dance posture, accurate hands, feet, and limbs. No text, logo, watermark, face replacement, distorted anatomy, or unsafe crowding.",
+    "trending": true
+  },
+  {
+    "id": "954",
+    "title": "Durga Puja Dhunuchi Smoke Portrait",
+    "category": "Festivals",
+    "subcategory": "Traditional Festivals",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/954.jpeg",
+    "promptText": "Transform the provided adult reference photo into a graceful Durga Puja dhunuchi-dance portrait while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Dress her in a traditional white saree with a red border and place her in a warmly lit puja courtyard with adult participants softly blurred behind. Show controlled incense smoke, ceremonial lamps, and a joyful respectful expression. Compose as a strict 3:4 vertical full-body dynamic portrait. Preserve correct dance posture and render hands, feet, saree drape, incense vessels, smoke, and anatomy accurately. Keep cultural details respectful and avoid a deity close-up. No text, logo, watermark, celebrity likeness, identity change, or distorted limbs.",
+    "trending": true
+  }
 ]

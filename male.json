@@ -1124,4 +1124,32 @@
     "promptText": "Transform the provided reference photo into a lo-fi late-night metro-platform flash portrait while preserving the exact identity and recognizable facial characteristics of the adult man in the reference image. Maintain his original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining characteristics, facial hair, and distinctive personal features. He must remain unmistakably the same person. Do not replace, redesign, beautify, age, de-age, or alter his natural body proportions. Dress him in a charcoal overshirt, plain dark T-shirt, faded straight-leg denim, simple sneakers, and wired headphones resting around his neck. Place him on a modern Indian metro platform after rain, with reflective flooring, fluorescent ceiling lights, a softly streaked arriving train, and very few distant commuters blurred into the background. Pose him naturally while holding a plain paper coffee cup, with a relaxed introspective gaze and accurate hands and fingers. Combine cool station ambience with a crisp direct-flash look, slight background motion blur, subtle digital noise, and authentic 35mm-meets-digicam character. Preserve real skin texture, fabric wear, shoe detail, and believable reflections. Compose a strict 3:4 vertical full-to-three-quarter portrait at eye level with generous safe margins and no cropped head or hands. No readable station text, no brand marks, no celebrity imitation, no plastic skin, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
   }
+,
+  {
+    "id": "937",
+    "title": "1980s Film Hero Studio Portrait",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/937.jpeg",
+    "promptText": "Transform the provided reference photo into a charismatic 1980s Indian film-hero studio portrait while preserving the exact identity of the adult man in the reference image. Preserve his facial structure, eyes, eyebrows, nose, lips, jawline, hair, facial hair, natural skin tone, age, and distinctive features. Do not replace, idealize, or redesign the face. Style him in a tailored cream suit over a black shirt with period-inspired swept-back hair. Use a painted burgundy studio backdrop, a single practical spotlight, faint atmospheric smoke, warm print tones, and authentic 35mm grain. Frame a strict 3:4 vertical three-quarter portrait with a confident understated expression. Maintain realistic skin, fabric, hands, and anatomy. No celebrity likeness, text, logo, watermark, frame, identity change, or excessive retouching.",
+    "trending": true
+  },
+  {
+    "id": "949",
+    "title": "Desert Campfire Editorial",
+    "category": "Male",
+    "subcategory": "Cinematic & Mood",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/949.jpeg",
+    "promptText": "Transform the provided adult reference photo into a cinematic desert-camp editorial while preserving the man's exact identity, facial features, natural skin tone, hair, facial hair, age, and body proportions. Dress him in a rugged charcoal jacket and earth-tone scarf, seated safely beside a small contained campfire at blue hour. Add a canvas tent, dunes, a deep cobalt sky, and subtle crescent moon. Use realistic mixed firelight and ambient light with detailed skin, fabric, sand, and practical camping props. Compose as a strict 3:4 vertical knee-up portrait with a calm reflective gaze. Maintain accurate hands and anatomy. No celebrity likeness, text, logo, watermark, identity change, oversized flames, or unsafe fire placement.",
+    "trending": false
+  },
+  {
+    "id": "962",
+    "title": "Minimal White Studio Kurta Portrait",
+    "category": "Male",
+    "subcategory": "Studio & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/962.jpeg",
+    "promptText": "Transform the provided adult reference photo into a minimalist studio kurta editorial while preserving the man's exact identity, facial structure, features, natural skin tone, hair, facial hair, age, and proportions. Dress him in a sharply tailored ivory linen kurta-pajama with understated brown loafers. Place him against a seamless warm-white studio background with soft sculptural side light and a subtle floor shadow. Compose as a strict 3:4 vertical full-figure portrait with relaxed confident posture and generous clean space. Render skin, linen texture, seams, shoes, hands, and anatomy realistically. No celebrity likeness, text, logo, watermark, identity change, facial redesign, or blown-out white detail.",
+    "trending": false
+  }
 ]

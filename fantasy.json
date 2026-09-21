@@ -269,4 +269,14 @@
     "promptText": "Transform the provided reference photo into a breathtaking cosmic creator deity portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject looms in the celestial heavens, cradling a newborn spiral galaxy of swirling purple, magenta, and gold stars between gentle, immense hands. Hair flows outward like a field of starlight nebulae. Dressed in cosmic robes composed of deep space and distant glittering star clusters. The glowing galactic core in their hands illuminates the face with divine, soft multi-colored radiance and profound tenderness. Captured on an 85mm medium-format cinema lens, shallow depth of field, sharp facial focus with celestial catchlights, and majestic deep-space bokeh. Cosmic fantasy color grade with magenta, violet, starlight gold, deep space black, and natural skin tones. Ultra-photorealistic cosmic deity portrait, 8K detail, no plastic smoothing, 3:4 composition.",
     "trending": true
   }
+,
+  {
+    "id": "955",
+    "title": "Celestial Moon-Garden Empress",
+    "category": "Fantasy",
+    "subcategory": "Celestial & Astral",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/955.jpeg",
+    "promptText": "Transform the provided adult reference photo into an original celestial moon-garden empress while preserving the subject's exact identity, facial features, natural skin tone, hair characteristics, age, and proportions. Dress her in a flowing midnight-blue gown with restrained silver celestial embroidery and a delicate crescent crown. Place her in a nocturnal palace conservatory filled with luminous white flowers, arched glass, reflective stone, and a huge moon beyond. Use silver-blue cinematic light, realistic skin, fabric, flowers, and reflections. Compose as a strict 3:4 vertical full-length portrait with elegant symmetry. Maintain accurate hands and anatomy. No existing character imitation, text, logo, watermark, identity change, plastic skin, or excessive fantasy distortion.",
+    "trending": false
+  }
 ]

@@ -1439,4 +1439,122 @@
     "promptText": "Transform the provided reference photo into an elegant Mysore Dasara palace-lights portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Maintain her original face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining features, and distinctive personal characteristics. She must remain unmistakably the same person. Do not replace, redesign, beautify, age, de-age, or alter her natural body proportions. Dress her in a rich royal-blue Mysore silk saree with a woven antique-gold border, matching blouse, traditional gold jewelry, stacked bangles, and a jasmine-adorned braid. Place her in the palace forecourt at blue hour with the illuminated Mysore Palace softly recognizable in the background, restrained flower decorations, distant ceremonial lamps, and gentle festival activity. Have her hold a small brass flower-offering tray naturally with both hands and wear a calm celebratory smile. Render every finger, saree pleat, silk weave, jewelry reflection, flower, and architectural light accurately. Blend warm palace illumination with cool twilight ambience and a soft flattering key light on the face. Capture premium cultural editorial photography with an 85mm lens look, realistic skin pores, controlled highlights, fine grain, and deep environmental perspective. Compose a strict 3:4 vertical three-quarter portrait with the head, tray, and hands fully visible. Culturally respectful, no deity transformation, no celebrity imitation, no oversaturation, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
   }
+,
+  {
+    "id": "936",
+    "title": "Retro Bollywood Terrace Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/936.jpeg",
+    "promptText": "Transform the provided reference photo into a refined 1980s-inspired Indian cinema terrace portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Use the uploaded reference as the only identity source. Preserve her face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, hairstyle characteristics, age, and distinctive features without beautifying or replacing her identity. Dress her in a classic crimson silk saree with a modest blouse and small gold earrings. Place her on a breezy city terrace at sunset with a softly hazy skyline. Use warm analog film color, subtle halation, fine grain, realistic skin and fabric texture, and a calm expressive gaze. Compose as a strict 3:4 vertical waist-up portrait with comfortable headroom. Keep anatomy natural and hands accurate. No celebrity likeness, text, logo, watermark, border, facial distortion, plastic skin, or identity change.",
+    "trending": true
+  },
+  {
+    "id": "937",
+    "title": "1980s Film Hero Studio Portrait",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/937.jpeg",
+    "promptText": "Transform the provided reference photo into a charismatic 1980s Indian film-hero studio portrait while preserving the exact identity of the adult man in the reference image. Preserve his facial structure, eyes, eyebrows, nose, lips, jawline, hair, facial hair, natural skin tone, age, and distinctive features. Do not replace, idealize, or redesign the face. Style him in a tailored cream suit over a black shirt with period-inspired swept-back hair. Use a painted burgundy studio backdrop, a single practical spotlight, faint atmospheric smoke, warm print tones, and authentic 35mm grain. Frame a strict 3:4 vertical three-quarter portrait with a confident understated expression. Maintain realistic skin, fabric, hands, and anatomy. No celebrity likeness, text, logo, watermark, frame, identity change, or excessive retouching.",
+    "trending": true
+  },
+  {
+    "id": "938",
+    "title": "Monsoon Bollywood Umbrella Romance",
+    "category": "Couples",
+    "subcategory": "Retro & Creative",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/938.jpeg",
+    "promptText": "Transform the two adult people in the provided reference photo into a cinematic 1980s-inspired monsoon romance while preserving both exact identities. Preserve each person's facial structure, features, natural skin tone, hair, age, body proportions, and relationship. Do not merge, swap, beautify, or replace either face. Place them beneath one transparent umbrella on a wet old-city street at blue hour, wearing period-inspired clothing in deep teal and mustard. Add gentle rain, practical shop lights, warm reflections in puddles, soft halation, and fine 35mm grain. Compose in strict 3:4 vertical format with both people visible from the knees up, sharing natural eye contact. Keep hands, limbs, umbrella grip, and reflections realistic. No celebrity likeness, readable signage, text, logo, watermark, or identity change.",
+    "trending": true
+  },
+  {
+    "id": "939",
+    "title": "Little Festive Lantern Portrait",
+    "category": "Cute Baby",
+    "subcategory": "Festive & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/939.jpeg",
+    "promptText": "Transform the provided child reference photo into a warm festive studio portrait while preserving the child's exact identity, facial features, natural skin tone, hair, age, and proportions. Dress the child in a simple ivory festive kurta set and seat them safely on a padded neutral floor beside handcrafted electric paper lanterns and marigold petals. Create soft amber bokeh, gentle studio light, a joyful natural expression, and realistic embroidered fabric. Compose as a strict 3:4 vertical full seated portrait with generous safe margins. Keep the pose age-appropriate and the fingers, toes, teeth, and limbs anatomically accurate. Use no open flame or unsafe objects. No text, logo, watermark, identity change, adult styling, heavy makeup, plastic skin, or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "940",
+    "title": "1980s Festive Family Album",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/940.jpeg",
+    "promptText": "Transform the provided family reference photo into a candid 1980s festive family-album portrait while preserving every person's exact identity, age, facial features, natural skin tone, hairstyle, body proportions, and family relationship. Do not add, remove, merge, or replace family members. Dress the family in coordinated jewel-tone traditional clothing and place them in a cozy home living room with marigold garlands, old wooden furniture, and warm lamps. Capture genuine laughter and affectionate closeness with slight direct-flash falloff, authentic consumer-film color, and fine grain. Compose in strict 3:4 vertical format with all faces clearly visible and a balanced group arrangement. Maintain accurate hands, limbs, and interactions. No text, logo, watermark, identity change, or excessive retouching.",
+    "trending": true
+  },
+  {
+    "id": "941",
+    "title": "VHS Railway Platform Reunion",
+    "category": "Cinematic",
+    "subcategory": "Vintage Cinema",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/941.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into an emotional VHS-era railway-platform reunion while preserving both exact identities. Preserve facial features, skin tone, age, hair, body proportions, and relationship without face swapping or redesign. Place one person waiting beside a worn metal travel trunk as the other approaches through steam on an old railway platform under warm lamps. Use period-inspired travel clothing, layered depth, subtle tape softness, restrained analog scan texture, and cinematic practical light. Compose as a strict 3:4 vertical storytelling frame with both adults visible and the reunion emotion clear. Maintain accurate hands, feet, luggage, perspective, and anatomy. No readable signs, text, logo, watermark, celebrity likeness, or identity change.",
+    "trending": true
+  },
+  {
+    "id": "942",
+    "title": "Navratri Garba Circle Motion",
+    "category": "Festivals",
+    "subcategory": "Navratri",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/942.jpeg",
+    "promptText": "Transform the adult subject in the provided reference photo into the lead dancer in a joyful Navratri garba circle while preserving the subject's exact identity, facial features, skin tone, age, hair, and body proportions. Dress the subject in a richly detailed mirrorwork outfit and place them in a festive night courtyard surrounded by adult dancers. Keep the lead subject sharply focused while the surrounding circle creates graceful motion blur. Add warm string lights, subtle dust in the air, natural smiles, and realistic embroidered textiles. Compose as a strict 3:4 vertical full-body action portrait. Maintain culturally respectful styling, correct dance posture, accurate hands, feet, and limbs. No text, logo, watermark, face replacement, distorted anatomy, or unsafe crowding.",
+    "trending": true
+  },
+  {
+    "id": "943",
+    "title": "Banarasi Couture Flash Editorial",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/943.jpeg",
+    "promptText": "Transform the provided adult reference photo into a high-fashion Banarasi couture editorial while preserving the subject's exact identity and recognizable facial characteristics. Preserve face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, hair, age, and body proportions. Dress the subject in a modern sculptural Banarasi brocade ensemble in ruby and antique gold, styled modestly and elegantly. Place the subject against a dark stone arcade and use crisp direct flash with controlled background falloff. Compose as a strict 3:4 vertical full-length fashion portrait with a strong editorial pose. Render fine textile detail, realistic skin, natural hands, and accurate anatomy. No celebrity likeness, identity change, text, logo, watermark, plastic skin, or distorted fabric.",
+    "trending": true
+  },
+  {
+    "id": "945",
+    "title": "Y2K Digicam Rooftop Photo Dump",
+    "category": "Social Media",
+    "subcategory": "Streetwear & Y2K",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/945.jpeg",
+    "promptText": "Transform the provided adult reference photo into a playful Y2K digicam rooftop candid while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Style the subject in a metallic jacket and relaxed denim, holding a compact digital camera toward the viewer on a city rooftop at twilight. Use direct on-camera flash, colorful city bokeh, slightly imperfect snapshot energy, and realistic early-digital-camera texture. Compose as a strict 3:4 vertical knee-up portrait with a natural playful expression. Keep hands, camera grip, clothing, and anatomy accurate. No brand marks, readable text, logo, watermark, celebrity likeness, identity change, face distortion, or plastic skin.",
+    "trending": true
+  },
+  {
+    "id": "947",
+    "title": "Haldi Courtyard Film Still",
+    "category": "Wedding",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/947.jpeg",
+    "promptText": "Transform the provided adult bridal reference photo into a joyful haldi-ceremony documentary portrait while preserving the bride's exact identity, facial features, natural skin tone, hair, age, and body proportions. Place her in a sunlit marigold-filled courtyard wearing a modest yellow traditional outfit while close adult family members gently apply turmeric to her cheeks. Preserve the identities of any referenced family members if they are visible. Capture candid laughter, warm natural sunlight, realistic turmeric texture, flowers, fabric, skin, and accurate hands. Compose as a strict 3:4 vertical waist-up storytelling frame. Keep the scene culturally respectful. No added children, text, logo, watermark, face replacement, identity change, distorted fingers, or excessive retouching.",
+    "trending": true
+  },
+  {
+    "id": "954",
+    "title": "Durga Puja Dhunuchi Smoke Portrait",
+    "category": "Festivals",
+    "subcategory": "Traditional Festivals",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/954.jpeg",
+    "promptText": "Transform the provided adult reference photo into a graceful Durga Puja dhunuchi-dance portrait while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Dress her in a traditional white saree with a red border and place her in a warmly lit puja courtyard with adult participants softly blurred behind. Show controlled incense smoke, ceremonial lamps, and a joyful respectful expression. Compose as a strict 3:4 vertical full-body dynamic portrait. Preserve correct dance posture and render hands, feet, saree drape, incense vessels, smoke, and anatomy accurately. Keep cultural details respectful and avoid a deity close-up. No text, logo, watermark, celebrity likeness, identity change, or distorted limbs.",
+    "trending": true
+  },
+  {
+    "id": "963",
+    "title": "Diwali Terrace Sparkler Romance",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/963.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into a romantic Diwali terrace portrait while preserving both exact identities, facial features, natural skin tones, hair, ages, body proportions, and relationship. Dress them in elegant coordinated traditional clothing and place them on a flower-decorated terrace at night, each holding a sparkler safely away from clothing while sharing affectionate natural eye contact. Add diyas in protected holders and softly blurred city lights. Compose as a strict 3:4 vertical full-length couples portrait. Render skin, fabric, sparks, hands, and lighting realistically. No face swapping, celebrity likeness, text, logo, watermark, identity change, unsafe fire placement, or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "964",
+    "title": "Generations Diwali Heirloom Portrait",
+    "category": "Family",
+    "subcategory": "Generations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/964.jpeg",
+    "promptText": "Transform the provided multigenerational family reference photo into a warm Diwali heirloom portrait while preserving every person's exact identity, age, facial features, natural skin tone, hairstyle, body proportions, and family relationship. Do not add, remove, merge, or replace relatives. Arrange the family in coordinated jewel-tone traditional outfits around an heirloom brass lamp and flower rangoli in a heritage courtyard. Use warm practical lights, natural affectionate expressions, realistic skin, fabric, flowers, brass, and gentle depth. Compose as a strict 3:4 vertical group portrait with every face clearly visible. Maintain accurate hands, limbs, and safe lamp placement. No text, logo, watermark, identity change, face swapping, or distorted anatomy.",
+    "trending": true
+  }
 ]
