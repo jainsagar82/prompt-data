@@ -493,8 +493,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/933.jpeg",
     "promptText": "Transform the provided reference photo into a wedding-season analog contact sheet while preserving the exact identities and recognizable facial characteristics of both adults in every frame. Maintain each person's original face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining features, and distinctive personal characteristics. Both people must remain unmistakably the same individuals throughout the entire grid. Do not merge faces, exchange features, change ages, or alter natural body proportions. Dress the woman in an elegant ivory-and-rose hand-embroidered lehenga and the man in a deep-olive tailored bandhgala. Place them in a heritage haveli courtyard during a warmly lit pre-wedding evening with restrained flowers and practical lamps. Build one cohesive 3x3 analog contact sheet containing nine different believable candid moments: shared laughter, walking hand-in-hand, a gentle forehead kiss, a seated conversation, a playful twirl, close hand details, and quiet affectionate glances. Keep clothing, jewelry, faces, and lighting consistent in every frame. Use subtle direct flash, fine 35mm grain, warm color response, slight frame-to-frame exposure variation, and narrow cream film borders. Compose the overall result as a strict 3:4 vertical image with nine clean frames, readable faces, and no printed numbers or text. Same two adults only, accurate hands, no extra people, no celebrity imitation, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "938",
     "title": "Monsoon Bollywood Umbrella Romance",
@@ -520,6 +519,24 @@
     "subcategory": "Celebrations",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/963.jpeg",
     "promptText": "Transform the two adults in the provided reference photo into a romantic Diwali terrace portrait while preserving both exact identities, facial features, natural skin tones, hair, ages, body proportions, and relationship. Dress them in elegant coordinated traditional clothing and place them on a flower-decorated terrace at night, each holding a sparkler safely away from clothing while sharing affectionate natural eye contact. Add diyas in protected holders and softly blurred city lights. Compose as a strict 3:4 vertical full-length couples portrait. Render skin, fabric, sparks, hands, and lighting realistically. No face swapping, celebrity likeness, text, logo, watermark, identity change, unsafe fire placement, or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "969",
+    "title": "1980s Couple Photo-Booth Strip",
+    "category": "Couples",
+    "subcategory": "Retro & Creative",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/969.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into an authentic four-frame 1980s analog photo-booth strip while preserving both exact identities, facial features, natural skin tones, hair, ages, body proportions, and relationship consistently in every panel. Dress them in era-appropriate casual evening outfits against a simple cream booth curtain. Arrange four equal horizontal frames stacked vertically: composed, smiling, laughing, and a gentle affectionate moment. Use soft direct flash, faded warm color, realistic skin, slight film grain, and tiny natural exposure variations. The overall canvas must be a strict 3:4 vertical composition with clean narrow dark dividers and every face and hand complete. Maintain exactly the same two people and clothing across all frames. No celebrity likeness, text, date stamp, logo, watermark, outer border, extra people, identity drift, face swapping, duplicate limbs, malformed panels, or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "972",
+    "title": "Royal Navratri Palace Couple",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/972.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into a royal Navratri palace portrait while preserving both exact identities, facial features, natural skin tones, hair, ages, body proportions, and relationship. Dress them in coordinated deep-maroon and ivory traditional outfits with detailed Kutch mirror work and restrained silver jewelry. Place them together in an illuminated heritage courtyard with carved arches, flower garlands, safely positioned brass lamps, and a softly blurred Garba circle in the distance. Use warm lantern light with subtle moonlit fill, natural affectionate eye contact, realistic skin, textiles, embroidery, architecture, and reflections. Compose as a strict 3:4 vertical full-length couples portrait with both faces, hands, and feet clearly visible. Keep all cultural details respectful and anatomy accurate. No deity impersonation, celebrity likeness, text, logos, watermark, unsafe fire, face swapping, identity blending, plastic skin, or distorted hands.",
     "trending": true
   }
 ]

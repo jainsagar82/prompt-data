@@ -385,8 +385,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/583.jpeg",
     "promptText": "Transform the provided reference photo into a luxury monochrome fashion double-exposure portrait while strictly preserving the person's exact jawline, eye details, lips, and facial proportions. The primary subject is captured in an elegant side-profile pose under sharp editorial studio rim lighting. Seamlessly merged inside the silhouette is an intricate second exposure of brutalist glass skyscrapers, soaring geometric bridges, and high-speed highway light streaks. Deep inky blacks, luminous silver-gelatin midtones, crisp highlight gradients, authentic Ilford medium-format film grain, flawless edge separation, 8K detail, no facial distortion. 3:4 composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "943",
     "title": "Banarasi Couture Flash Editorial",
@@ -404,5 +403,23 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/956.jpeg",
     "promptText": "Transform the provided adult reference photo into an avant-garde liquid-chrome fashion editorial while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Dress the subject in a sculptural mirrored jacket over a modest black high-neck garment and tailored black trousers. Place them in a seamless charcoal studio with controlled white strip lights and a subtly mirrored floor. Compose as a strict 3:4 vertical full-figure portrait with a strong symmetrical silhouette. Render metallic reflections, skin, fabric, shadow, and floor perspective realistically. Keep hands and anatomy accurate. No celebrity likeness, identity change, text, logo, watermark, distorted reflections, or melted body features.",
     "trending": false
+  },
+  {
+    "id": "968",
+    "title": "1980s Aerobics Fashion Editorial",
+    "category": "Fashion",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/968.jpeg",
+    "promptText": "Transform the provided adult reference photo into a high-energy 1980s aerobics fashion editorial while preserving the subject's exact identity, facial features, natural skin tone, hair characteristics, age, and body proportions. Style the subject in tasteful era-inspired color-block athletic wear, leg warmers, clean trainers, and a high ponytail or an equivalent period hairstyle suited to the person. Place them in a pastel geometric exercise studio with low step platforms and soft gradient panels. Capture a confident mid-step pose using bright diffused studio light with restrained pink and cyan rim accents, realistic skin, fabric texture, and subtle analog magazine grain. Compose as a strict 3:4 vertical full-body image with complete hands and feet inside generous margins. Keep movement believable and anatomy accurate. No celebrity likeness, text, magazine masthead, logos, watermark, modern equipment, identity change, exaggerated proportions, or extra limbs.",
+    "trending": true
+  },
+  {
+    "id": "975",
+    "title": "Neon Fusion Dandiya Editorial",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/975.jpeg",
+    "promptText": "Transform the two adults in the provided reference photo into a premium neon-fusion Dandiya fashion editorial while preserving both exact identities, facial features, natural skin tones, hair, ages, body proportions, and relationship. Style them in sleek black contemporary silhouettes layered with authentic multicolor mirror-work jackets, with each adult holding exactly two wooden dandiya sticks. Place them in a dark event space with geometric magenta and electric-blue light bars and a subtle circular dance-floor pattern. Use controlled neon rim light plus neutral face light, crisp fabric and mirror reflections, realistic skin, hands, clothing, props, and anatomy. Compose as a strict 3:4 vertical full-length duo portrait with all four sticks, hands, and feet completely visible. Keep the fusion styling respectful, energetic, and sophisticated. No celebrity likeness, text, logos, watermark, cyberpunk armor, identity blending, face swapping, extra sticks, extra limbs, or distorted reflections.",
+    "trending": true
   }
 ]

@@ -448,8 +448,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/305.jpeg",
     "promptText": "Transform the provided reference photo or provided couple reference photos into a charming cinematic wedding portrait featuring an elegant floral garden swing while preserving the exact identity and recognizable facial characteristics of every person in the reference images. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. Keep every subject clearly recognizable. Place the subjects in a beautiful luxury wedding garden filled with lush greenery, fresh flowers, hanging floral arrangements, warm fairy lights, and a sophisticated decorative swing covered with flowers. Dress the subjects in elegant premium wedding attire with realistic fabrics, embroidery, jewelry, and refined styling. Create a playful joyful moment where the couple naturally sits or stands beside the decorated swing while laughing together. Preserve realistic hands, fingers, anatomy, body proportions, and natural interaction. Use soft golden-hour lighting filtering through the greenery with warm decorative lights creating subtle background bokeh. Capture using an 85mm professional lens with shallow depth of field, realistic lens compression, precise facial focus, creamy bokeh, and soft highlight rolloff. Preserve authentic skin texture, pores, natural eyes, hair strands, fabric details, and jewelry reflections. Apply joyful cinematic color grading with soft green, ivory, warm gold, blush, and natural skin tones. The final image should feel youthful, romantic, playful, and highly memorable. Ultra-photorealistic wedding photography, floral swing, joyful couple, garden wedding, cinematic bokeh, premium wedding fashion, authentic emotion, 8K detail, no identity change, no facial distortion, no distorted hands, no cartoon appearance, 3:4 composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "947",
     "title": "Haldi Courtyard Film Still",
@@ -467,5 +466,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/960.jpeg",
     "promptText": "Transform the provided adult bridal reference photo into a fine-art window portrait while preserving the bride's exact identity, facial structure, features, natural skin tone, hair, age, and body proportions. Dress her in an elegant ivory-and-gold bridal ensemble with a translucent embroidered veil catching soft morning light. Place her beside a tall window in a refined neutral interior, using a quiet contemplative pose and graceful negative space. Compose as a strict 3:4 vertical full-length portrait. Render embroidery, veil transparency, skin, jewelry, hands, and reflections realistically. Maintain modest culturally respectful styling. No text, logo, watermark, celebrity likeness, identity change, distorted anatomy, or excessive retouching.",
     "trending": false
+  },
+  {
+    "id": "966",
+    "title": "1980s Bridal Studio Portrait",
+    "category": "Wedding",
+    "subcategory": "Bridal",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/966.jpeg",
+    "promptText": "Transform the provided adult bridal reference photo into an authentic 1980s Indian bridal studio portrait while preserving the woman's exact identity, facial structure, features, natural skin tone, hair characteristics, age, and body proportions. Dress her in an era-appropriate deep red silk bridal ensemble with restrained gold embroidery, a classic veil drape, period jewelry, and softly waved hair. Place her before a hand-painted muted-burgundy studio backdrop with a small floral pedestal and subtle analog haze. Use warm tungsten studio light, gentle falloff, realistic skin, hands, jewelry, fabric, and believable medium-format film grain with slight color fading. Compose as a strict 3:4 vertical full-length portrait with the complete veil and feet inside safe margins. Keep the treatment culturally respectful and nostalgic. No celebrity likeness, modern objects, text, logo, watermark, border, identity change, plastic skin, or distorted anatomy.",
+    "trending": true
   }
 ]

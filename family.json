@@ -475,8 +475,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/930.jpeg",
     "promptText": "Transform the provided reference photo into a warm Diwali courtyard family portrait while preserving the exact identities and recognizable facial characteristics of every family member in the reference image. Maintain each person's original face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline, and distinctive personal features. Every person must remain clearly recognizable as the same individual. Do not merge faces, exchange features, change ages, invent extra relatives, or alter natural height and body proportions. Dress the family in coordinated but non-matching jewel-toned Indian festive clothing with realistic embroidery, comfortable styling, and understated jewelry. Place them in an elegant home courtyard decorated with marigold garlands, flower rangoli, warm fairy lights, and rows of diyas positioned at a safe distance from children. Create a spontaneous shared moment in which the family laughs while arranging flower petals together rather than posing stiffly for the camera. Render every face, hand, finger, clothing fold, and interaction accurately. Use warm diya glow combined with a soft diffused key light, natural catchlights, gentle amber bokeh, and controlled shadow detail. Capture the scene as premium documentary family photography with authentic skin texture, realistic textiles, and subtle photographic grain. Compose a strict 3:4 vertical portrait with all family members comfortably framed and no cropped faces or hands. No duplicated people or limbs, no plastic skin, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "940",
     "title": "1980s Festive Family Album",
@@ -502,6 +501,15 @@
     "subcategory": "Generations",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/964.jpeg",
     "promptText": "Transform the provided multigenerational family reference photo into a warm Diwali heirloom portrait while preserving every person's exact identity, age, facial features, natural skin tone, hairstyle, body proportions, and family relationship. Do not add, remove, merge, or replace relatives. Arrange the family in coordinated jewel-tone traditional outfits around an heirloom brass lamp and flower rangoli in a heritage courtyard. Use warm practical lights, natural affectionate expressions, realistic skin, fabric, flowers, brass, and gentle depth. Compose as a strict 3:4 vertical group portrait with every face clearly visible. Maintain accurate hands, limbs, and safe lamp placement. No text, logo, watermark, identity change, face swapping, or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "967",
+    "title": "1980s Family Picnic Album",
+    "category": "Family",
+    "subcategory": "Outdoor Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/967.jpeg",
+    "promptText": "Transform the provided family reference photo into a joyful 1980s picnic-album snapshot while preserving every adult family member's exact identity, facial features, natural skin tone, hair, age, body proportions, and relationship. Do not add, remove, merge, or replace anyone. Arrange the adults naturally on a checked picnic blanket in a leafy public garden with a wicker basket, simple containers, and an unbranded compact radio. Style everyone in believable era-appropriate casual clothing and capture relaxed laughter toward an off-camera family photographer. Use warm late-afternoon sun, mild direct fill flash, soft 35mm consumer-film focus, natural grain, and small exposure imperfections. Compose as a strict 3:4 vertical group portrait with every face, hand, and limb clearly visible. No minors, celebrity likeness, modern phones, readable text, logos, watermark, duplicate faces, identity change, or distorted anatomy.",
     "trending": true
   }
 ]

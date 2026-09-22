@@ -1123,8 +1123,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/932.jpeg",
     "promptText": "Transform the provided reference photo into a lo-fi late-night metro-platform flash portrait while preserving the exact identity and recognizable facial characteristics of the adult man in the reference image. Maintain his original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining characteristics, facial hair, and distinctive personal features. He must remain unmistakably the same person. Do not replace, redesign, beautify, age, de-age, or alter his natural body proportions. Dress him in a charcoal overshirt, plain dark T-shirt, faded straight-leg denim, simple sneakers, and wired headphones resting around his neck. Place him on a modern Indian metro platform after rain, with reflective flooring, fluorescent ceiling lights, a softly streaked arriving train, and very few distant commuters blurred into the background. Pose him naturally while holding a plain paper coffee cup, with a relaxed introspective gaze and accurate hands and fingers. Combine cool station ambience with a crisp direct-flash look, slight background motion blur, subtle digital noise, and authentic 35mm-meets-digicam character. Preserve real skin texture, fabric wear, shoe detail, and believable reflections. Compose a strict 3:4 vertical full-to-three-quarter portrait at eye level with generous safe margins and no cropped head or hands. No readable station text, no brand marks, no celebrity imitation, no plastic skin, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "937",
     "title": "1980s Film Hero Studio Portrait",
@@ -1151,5 +1150,23 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/962.jpeg",
     "promptText": "Transform the provided adult reference photo into a minimalist studio kurta editorial while preserving the man's exact identity, facial structure, features, natural skin tone, hair, facial hair, age, and proportions. Dress him in a sharply tailored ivory linen kurta-pajama with understated brown loafers. Place him against a seamless warm-white studio background with soft sculptural side light and a subtle floor shadow. Compose as a strict 3:4 vertical full-figure portrait with relaxed confident posture and generous clean space. Render skin, linen texture, seams, shoes, hands, and anatomy realistically. No celebrity likeness, text, logo, watermark, identity change, facial redesign, or blown-out white detail.",
     "trending": false
+  },
+  {
+    "id": "971",
+    "title": "1970s Glam-Rock Stage Portrait",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/971.jpeg",
+    "promptText": "Transform the provided adult male reference photo into an original 1970s glam-rock stage portrait while preserving the man's exact identity, facial structure, features, natural skin tone, hair characteristics, age, and body proportions. Dress him in a tasteful metallic burgundy jacket, black flared trousers, and heeled boots, and place him on a small smoky theatre stage with unbranded tube amplifiers, velvet curtains, and circular warm spotlights. Give him an unbranded vintage-style electric guitar and a confident live-performance pose. Render authentic color-reversal film grain, warm color bleed, restrained lens flare, realistic concert haze, skin, hands, clothing, instrument geometry, and anatomy. Compose as a strict 3:4 vertical full-body portrait with the complete guitar and boots safely inside the frame. No real musician or celebrity likeness, copyrighted costume, readable text, logos, watermark, modern LED screens, identity change, extra fingers, or distorted instrument.",
+    "trending": true
+  },
+  {
+    "id": "974",
+    "title": "Golden-Hour Marigold Navratri Portrait",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/974.jpeg",
+    "promptText": "Transform the provided adult male reference photo into a golden-hour marigold Navratri portrait while preserving the man's exact identity, facial structure, features, natural skin tone, hair, facial hair, age, and body proportions. Dress him in a refined mustard-and-cream kediyu ensemble with restrained mirror work, traditional trousers, and mojari. Place him in a heritage haveli courtyard decorated with marigold strings and colorful fabric canopies, with distant Garba dancers softly blurred. Let him hold a pair of wooden dandiya sticks naturally at his side with a relaxed confident expression. Use low golden sunlight, realistic skin, hands, embroidery, textiles, props, and subtle filmic warmth. Compose as a strict 3:4 vertical full-length portrait with both sticks and shoes inside safe margins. No celebrity likeness, text, logos, watermark, cultural caricature, oversaturation, identity change, duplicate sticks, extra fingers, or distorted anatomy.",
+    "trending": true
   }
 ]

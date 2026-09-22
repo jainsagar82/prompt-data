@@ -934,8 +934,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/934.jpeg",
     "promptText": "Transform the provided reference photo into a story-led monsoon railway farewell portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Maintain her original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining features, and distinctive personal characteristics. She must remain clearly recognizable as the same person. Do not replace, redesign, beautify, age, de-age, or alter her natural body proportions. Dress her in a simple rust cotton kurta with an indigo handwoven shawl and practical travel footwear. Place her beneath the roof of an old Indian railway platform immediately after heavy rain, with wet reflective paving, a departing blue train softened by atmospheric motion, and only a few distant passengers. Have her hold a small weathered vintage suitcase and pause with a thoughtful but hopeful expression, one hand gently gathering the shawl. Render her hands, fingers, suitcase grip, posture, and wet fabric edges accurately. Mix cool rainy daylight with warm train-window glow, delicate halation, fine analog grain, deep shadow detail, and realistic moisture in the air. Capture the scene like a premium feature-film still using a 50mm lens look and natural depth. Compose a strict 3:4 vertical three-quarter portrait with the head and both hands fully visible. No readable station signs, no melodramatic pose, no celebrity imitation, no plastic skin, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "941",
     "title": "VHS Railway Platform Reunion",
@@ -962,5 +961,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/965.jpeg",
     "promptText": "Transform the provided adult reference photo into a fine-art monochrome three-frame character study while preserving the subject's exact identity consistently in every panel. Preserve the same face, facial features, natural age, hair, facial hair, body proportions, and dark wool coat across all three moments. Create three narrow vertical panels: a direct close-up gaze, a thoughtful side profile, and a full figure walking through soft rain. Use subtle black dividers, silver-gelatin film texture, natural contrast, realistic skin, coat fibers, rain, and pavement reflections. The overall canvas must be strict 3:4 vertical. Keep face consistency and anatomy accurate. No celebrity likeness, text, logo, watermark, duplicate identity drift, extra people, or malformed panels.",
     "trending": false
+  },
+  {
+    "id": "970",
+    "title": "1980s Rainy Bus-Stop Film Still",
+    "category": "Cinematic",
+    "subcategory": "Vintage Cinema",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/970.jpeg",
+    "promptText": "Transform the provided adult reference photo into an original 1980s rainy bus-stop film still while preserving the subject's exact identity, facial structure, features, natural skin tone, hair, age, and body proportions. Dress the subject in an era-appropriate tan jacket over a knit shirt with high-waisted trousers and place them inside a modest urban bus shelter at night, holding a folded newspaper with no readable print. Surround the scene with rain-streaked glass, wet pavement, distant unbranded bus lights, and practical street lamps. Use authentic 35mm grain, gentle halation, muted teal-and-amber color, realistic reflections, and sodium-vapor warmth against cool rain. Compose as a strict 3:4 vertical three-quarter environmental portrait with layered reflections and safe margins. No real movie imitation, celebrity likeness, readable text, brands, logos, watermark, modern vehicles, identity change, plastic skin, or distorted anatomy.",
+    "trending": true
   }
 ]
