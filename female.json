@@ -1132,8 +1132,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/931.jpeg",
     "promptText": "Transform the provided reference photo into an authentic early-2000s Y2K digicam festival-flash portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Maintain her original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, and distinctive personal features. She must remain clearly recognizable as the same person. Do not replace, redesign, beautify, age, de-age, or alter her natural body proportions. Dress her in a tasteful cherry-red kurti paired with era-appropriate dark denim, silver hoop earrings, and a small metallic shoulder bag. Place her in an early-2000s house-party corner decorated for a modern Indian festival with metallic streamers, warm fairy lights, a compact stereo, and distant friends softened into the background. Have her hold a small silver compact digital camera and glance playfully over her shoulder in an imperfect candid pose, with accurate fingers and realistic posture. Use crisp on-camera flash against a warm low-light room, slight sensor noise, subtle red-eye-era color character without distorting the eyes, modest highlight bloom, and authentic camera-roll imperfection. Preserve real skin texture, hair flyaways, denim weave, and natural asymmetry. Compose a strict 3:4 vertical three-quarter portrait with the head and hands fully visible. No readable brands, no celebrity imitation, no plastic skin, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "936",
     "title": "Retro Bollywood Terrace Portrait",
@@ -1160,5 +1159,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/961.jpeg",
     "promptText": "Transform the provided adult reference photo into a serene Kashmiri autumn portrait while preserving the woman's exact identity, facial features, natural skin tone, hair, age, and body proportions. Dress her in a traditional embroidered deep-moss pheran with a warm patterned shawl and place her walking through a quiet chinar grove covered in copper leaves, with soft mountains and a lake in the distance. Use golden-hour light, realistic wool embroidery, foliage, skin, and atmospheric haze. Compose as a strict 3:4 vertical full-length environmental portrait. Keep hands, feet, clothing drape, and anatomy accurate. No celebrity likeness, text, logo, watermark, identity change, oversaturation, or cultural caricature.",
     "trending": false
+  },
+  {
+    "id": "976",
+    "title": "1980s Disco Queen Beauty Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/976.jpeg",
+    "promptText": "Transform the uploaded reference photo into a glamorous 1980s Indian disco-beauty portrait while strictly preserving the person’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, and recognizable expression. Style the subject with voluminous side-swept 1980s hair, electric-blue eyeshadow blended cleanly to the crease, softly sculpted cheeks, glossy berry lips, crystal statement earrings, and a sequined one-shoulder evening blouse. Place the subject in a mirrored disco studio with a silver mirror ball, cobalt-blue and magenta gel lighting, small star-filter highlights, and softly blurred colored practical lights. Frame a confident waist-up direct-camera pose using an 85mm portrait lens at f/2, with crisp eye focus, realistic skin pores, natural flyaway hairs, authentic 35mm film grain, subtle highlight halation, and period-correct color separation. Premium editorial realism, no celebrity resemblance, no identity change, no plastic skin, no text, no logo, no watermark, no distorted anatomy, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

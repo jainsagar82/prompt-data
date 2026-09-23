@@ -268,8 +268,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/669.jpeg",
     "promptText": "Transform the provided reference photo into a breathtaking cosmic creator deity portrait while preserving 100% facial identity, natural skin texture, eyes, nose, lips, and bone structure. The subject looms in the celestial heavens, cradling a newborn spiral galaxy of swirling purple, magenta, and gold stars between gentle, immense hands. Hair flows outward like a field of starlight nebulae. Dressed in cosmic robes composed of deep space and distant glittering star clusters. The glowing galactic core in their hands illuminates the face with divine, soft multi-colored radiance and profound tenderness. Captured on an 85mm medium-format cinema lens, shallow depth of field, sharp facial focus with celestial catchlights, and majestic deep-space bokeh. Cosmic fantasy color grade with magenta, violet, starlight gold, deep space black, and natural skin tones. Ultra-photorealistic cosmic deity portrait, 8K detail, no plastic smoothing, 3:4 composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "955",
     "title": "Celestial Moon-Garden Empress",
@@ -278,5 +277,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/955.jpeg",
     "promptText": "Transform the provided adult reference photo into an original celestial moon-garden empress while preserving the subject's exact identity, facial features, natural skin tone, hair characteristics, age, and proportions. Dress her in a flowing midnight-blue gown with restrained silver celestial embroidery and a delicate crescent crown. Place her in a nocturnal palace conservatory filled with luminous white flowers, arched glass, reflective stone, and a huge moon beyond. Use silver-blue cinematic light, realistic skin, fabric, flowers, and reflections. Compose as a strict 3:4 vertical full-length portrait with elegant symmetry. Maintain accurate hands and anatomy. No existing character imitation, text, logo, watermark, identity change, plastic skin, or excessive fantasy distortion.",
     "trending": false
+  },
+  {
+    "id": "979",
+    "title": "Mahabharata Royal Archer Portrait",
+    "category": "Fantasy",
+    "subcategory": "Mythic & Royal",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/979.jpeg",
+    "promptText": "Transform the uploaded reference photo into a majestic Mahabharata-inspired royal archer portrait while strictly preserving the person’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, hairline, and recognizable expression. Present the subject as a fictional ancient Indian royal warrior in intricately embossed bronze-gold armor, a deep indigo drape with woven gold borders, restrained jeweled armlets, and an elegant crown designed without copying any specific deity or actor. Place the subject in a vast carved sandstone palace courtyard at dawn, holding an unstrung ceremonial bow safely at rest, with a quiver over one shoulder, distant palace guards, incense haze, and sun rays passing through monumental arches. Photograph with a 65mm cinematic lens, noble three-quarter stance, crisp facial focus, realistic metal patina, handwoven textile detail, natural skin texture, volumetric golden light, and epic large-format color grading. Respectful mythic realism, no deity attributes, no battle gore, no celebrity resemblance, no identity change, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

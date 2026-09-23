@@ -1168,5 +1168,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/974.jpeg",
     "promptText": "Transform the provided adult male reference photo into a golden-hour marigold Navratri portrait while preserving the man's exact identity, facial structure, features, natural skin tone, hair, facial hair, age, and body proportions. Dress him in a refined mustard-and-cream kediyu ensemble with restrained mirror work, traditional trousers, and mojari. Place him in a heritage haveli courtyard decorated with marigold strings and colorful fabric canopies, with distant Garba dancers softly blurred. Let him hold a pair of wooden dandiya sticks naturally at his side with a relaxed confident expression. Use low golden sunlight, realistic skin, hands, embroidery, textiles, props, and subtle filmic warmth. Compose as a strict 3:4 vertical full-length portrait with both sticks and shoes inside safe margins. No celebrity likeness, text, logos, watermark, cultural caricature, oversaturation, identity change, duplicate sticks, extra fingers, or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "978",
+    "title": "1980s Bollywood Action-Hero Magazine",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/978.jpeg",
+    "promptText": "Transform the uploaded reference photo into a bold 1980s Bollywood action-hero magazine portrait while strictly preserving the person’s exact facial identity, facial structure, eyes, nose, lips, jawline, natural skin tone, and recognizable expression. Give the subject windswept period hair, a confident moustache only if it suits the reference face, a wide-collar rust shirt, high-waisted dark trousers, a weathered leather jacket, and classic aviator sunglasses held naturally in one hand. Stage the scene on a smoky old-Mumbai waterfront street at night with amber street lamps, wet pavement reflections, and a classic motorcycle softly visible behind the subject. Use dramatic warm rim light, a slightly low camera angle, a 50mm lens, punchy 1980s color separation, dense shadows, subtle print texture, halation, and authentic 35mm grain, evoking a vintage film-magazine cover without including any typography. Heroic but photorealistic, no celebrity resemblance, no identity change, no text, no logo, no watermark, no distorted hands, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

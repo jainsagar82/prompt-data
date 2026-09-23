@@ -448,8 +448,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/525.jpeg",
     "promptText": "Transform the provided reference photo into an impactful Bloomberg Businessweek-style magazine cover portrait while keeping the exact facial structure, eyes, nose, mouth, jawline, and natural skin tone completely intact. Studio portrait with dynamic, directional lighting: warm rim light on the shoulders paired with a crisp, soft key light across the face against an editorial dark slate backdrop. The subject makes direct, magnetic eye contact with an expression of sharp intellect and visionary determination. Dressed in impeccably tailored modern suiting. Captured on a 105mm portrait lens at f/2.8, razor-sharp focus on the eyes, natural skin pores, and clean editorial tonal rolloff. High-end personal brand cover photo, 8K detail, no identity modification, 3:4 composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "945",
     "title": "Y2K Digicam Rooftop Photo Dump",
@@ -467,5 +466,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/958.jpeg",
     "promptText": "Transform the provided adult reference photo into an authentic creator-at-work candid while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and proportions. Seat the subject at a compact home-studio desk while adjusting a small unbranded camera on a tabletop tripod. Include acoustic panels, a closed notebook, a warm practical lamp, and a laptop with its screen turned away. Use tasteful direct flash, realistic skin, hands, camera controls, and everyday desk texture. Compose as a strict 3:4 vertical waist-up environmental portrait. No readable screen content, brand marks, text, logo, watermark, celebrity likeness, identity change, extra fingers, or distorted equipment.",
     "trending": false
+  },
+  {
+    "id": "977",
+    "title": "1980s South Indian College Candid",
+    "category": "Social Media",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/977.jpeg",
+    "promptText": "Transform the uploaded reference photo into an authentic 1980s South Indian college-day candid while strictly preserving the person’s exact facial identity, facial structure, eyes, nose, lips, jawline, natural skin tone, and recognizable expression. Show the subject walking beside a sunlit heritage college corridor with an old black bicycle and a small stack of well-used books, wearing a period-appropriate printed cotton salwar-kameez, a block-printed dupatta, simple jhumkas, a tiny bindi, a slim wristwatch, and jasmine flowers woven into a long braid. Capture a gentle off-camera smile and relaxed natural posture in warm late-afternoon light. Photograph with a vintage 50mm lens at f/2.8 using a faded Kodacolor palette, soft contrast, mild lens bloom, realistic 35mm grain, tiny dust specks, and the tactile warmth of an old family print without adding a date stamp. Candid social-media nostalgia, realistic hands and fabric, no celebrity resemblance, no identity change, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]
