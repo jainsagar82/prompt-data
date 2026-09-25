@@ -1,5 +1,50 @@
 [
   {
+    "id": "985",
+    "title": "Durga Puja Red-White Family Pandal Portrait",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/985.jpeg",
+    "promptText": "Transform the uploaded family reference photo into a warm Durga Puja pandal portrait while strictly preserving every family member’s exact facial identity, age, facial proportions, natural skin tone, hairstyle, body type, and recognizable expression. Keep the same number of people and their family relationships. Arrange them close together inside a beautifully decorated Kolkata pandal, styling the women and girls in coordinated white festive sarees or age-appropriate outfits with red borders, and the men and boys in refined cream-and-red panjabi-kurta sets. Place a respectful, softly focused Durga idol, traditional dhaak drums, marigold garlands, brass lamps, incense haze, and warm festival lights in the background without blocking any face. Capture natural affectionate expressions and realistic hand placement using a 50mm lens at f/2.8, documentary-style composition, warm skin tones, detailed textiles, gentle depth of field, and lifelike low-light photography. No person added or removed, no identity change, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "984",
+    "title": "Nine-Colour Navratri Portrait Grid",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/984.jpeg",
+    "promptText": "Transform the uploaded reference photo into a premium 3-by-3 Navratri portrait contact sheet while preserving the person’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, and recognizable features consistently across all nine panels. Create nine waist-up studio portraits of the same person, each with a subtly different natural pose and a coordinated Indian festive outfit representing the official 2026 Navratri colour sequence in reading order: orange, white, red, royal blue, yellow, green, grey, purple, and peacock green. Use tasteful mirror-work and embroidered details, matching bangles and earrings, clean softbox lighting, a warm neutral studio backdrop, thin off-white film borders, realistic skin texture, accurate colour separation, and a polished fashion proof-sheet aesthetic. Every panel must show the same recognizable person without facial drift. No written labels, no numbers, no celebrity resemblance, no identity change, no extra panels, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "983",
+    "title": "Navratri Capsule-Wardrobe Kurta Portrait",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/983.jpeg",
+    "promptText": "Transform the uploaded reference photo into a modern 2026 men’s Navratri capsule-wardrobe portrait while strictly preserving the man’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, hairstyle, and recognizable expression. Dress him in a versatile ivory textured kurta-pajama base layered with a removable charcoal kediyu-inspired cropped jacket featuring restrained tonal embroidery and small mirror details, finished with a royal-blue woven stole, a subtle festive brooch, and tan mojari shoes. Place him at a contemporary open-air Garba venue during blue hour, standing confidently with two wooden dandiya sticks held safely at rest while colourful dancers move softly in the background. Use an 85mm lens at f/2.2, crisp eye focus, balanced cool ambient light and warm festoon lights, realistic textile texture, natural skin pores, and polished editorial contrast. Elegant festive restraint, no celebrity resemblance, no identity change, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "982",
+    "title": "Black-Maroon Ajrakh Garba Editorial",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/982.jpeg",
+    "promptText": "Transform the uploaded reference photo into a sophisticated 2026 Navratri fashion editorial while strictly preserving the woman’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, and recognizable expression. Style her in a black Ajrakh-print chaniya choli with a deep maroon blouse and odhani, combining handcrafted mirror work, fine thread embroidery, small bead accents, oxidized silver jhumkas, layered bangles, and a statement ring. Place her in an Ahmedabad heritage courtyard just after sunset, turning gracefully so the full skirt creates controlled motion while her face remains sharply focused. Surround her with warm diyas, strings of amber lights, carved stone arches, and softly blurred Garba dancers. Photograph with a 50mm lens, subtle direct flash balanced with warm ambient light, realistic fabric movement, crisp mirror reflections, natural skin texture, and premium editorial colour grading. No celebrity resemblance, no identity change, no text, no logo, no watermark, no distorted hands, exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "981",
+    "title": "1980s Kerala Tharavadu Kasavu Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/981.jpeg",
+    "promptText": "Transform the uploaded reference photo into an authentic 1980s Kerala portrait while strictly preserving the woman’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, hairline, and recognizable expression. Seat her naturally on a cane chair along the shaded wooden veranda of a traditional Kerala tharavadu home, with carved timber pillars, a polished red-oxide floor, soft monsoon greenery, and a glowing brass nilavilakku placed safely beside her. Dress her in an ivory kasavu saree with a muted gold border, a simple matching blouse, jasmine flowers woven into a long braid, a tiny red bindi, small gold jhumkas, and delicate bangles. Use warm window light, a calm direct-camera gaze, a vintage 50mm lens at f/2.8, slightly softened contrast, faded Malayalam-cinema colour, fine 35mm grain, subtle dust, and the tactile character of an old family print. Natural skin and hands, no celebrity resemblance, no identity change, no modern objects, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
     "id": "980",
     "title": "Pastel Saree Airport Editorial",
     "category": "Fashion",
@@ -852,51 +897,6 @@
     "subcategory": "Urban & Cinematic",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/839.jpeg",
     "promptText": "Transform the provided reference photo into an authentic, relatable Indian youth lifestyle photograph while preserving the exact identity and recognizable facial characteristics of the person in the reference image. The subject stands beside a roadside tea stall (tapri) near a university campus during late afternoon, holding a glass cutting-chai cup in one hand and laughing spontaneously mid-conversation with friends who are softly blurred in the background. A vintage scooter and campus brick walls frame the scene. Dressed in an effortless everyday Indian college outfit: a checked flannel overshirt over a graphic tee, relaxed jeans, sneakers, and a casual backpack slung over one shoulder. Warm late-afternoon sunlight filters through roadside neem trees, creating natural dappled highlights across his joyful, smiling face. Shot on a 50mm f/1.8 lens, shallow depth of field, razor-sharp eye focus, and creamy street bokeh. Authentic Indian youth culture aesthetic, realistic skin texture, 8K detail, no plastic skin, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "93",
-    "title": "90s Disposable Camera Female Night",
-    "category": "Female",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/93.jpg",
-    "promptText": "Transform the provided reference photo into a joyful nostalgic 1990s disposable-camera portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Use the uploaded reference as the ONLY source for identity and face. Preserve her exact facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age characteristics, and distinctive features. Do not replace or redesign the identity. Dress the subject in an authentic late-1990s casual outfit consisting of a fitted neutral top, relaxed denim jacket, straight-leg jeans, simple sneakers, and understated accessories. Place her at a cheerful casual evening gathering with colorful interior lighting, simple decorations, a few distant blurred friends, snacks, music equipment, and natural everyday details. The subject should remain the primary recognizable person and no additional person should dominate the composition. Capture a spontaneous candid smile using direct disposable-camera flash, imperfect framing, slight motion softness, red-eye avoidance, faded colors, subtle grain, mild exposure variation, and authentic low-cost film characteristics. Use realistic skin texture and natural facial imperfections. The final image should feel like a genuine photograph from a fun night remembered years later. Authentic 1990s disposable-camera photography, nostalgic Female-night aesthetic, joyful lifestyle, realistic identity, candid expression, analog imperfections, 8K detail, no identity change, no distorted face, no modern smartphone aesthetic, no plastic skin, no cartoon appearance, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "437",
-    "title": "Cyberpunk Neon Shinjuku Rain",
-    "category": "Cinematic",
-    "subcategory": "Sci-Fi & Future",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/437.jpeg",
-    "promptText": "Transform the provided reference photo into a Blade Runner-inspired cyberpunk cinema frame while strictly preserving 100% facial identity, exact bone structure, eyes, nose, lips, and skin texture. The subject stands on a crowded futuristic Tokyo sky-bridge at night during a heavy rainstorm, surrounded by towering holographic 3D billboards, flying spinner vehicles, and dense neon kanji signs. Dressed in a high-collar matte-black techwear coat with glowing fiber-optic seam accents. Intense cyan and magenta neon light reflects off the subject's damp face and wet street surfaces. Captured on an 85mm anamorphic T1.4 lens, horizontal streak flares, sharp eye focus, suspended rain droplets, and creamy neon bokeh. Saturated cyberpunk grade with neon teal, hot pink, and deep shadows, 8K detail, no identity alteration, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "769",
-    "title": "3x3 Director's Film Proof Sheet Portrait",
-    "category": "Female",
-    "subcategory": "Creative & Whimsical",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/769.jpeg",
-    "promptText": "Transform the provided reference photo into an authentic 3x3 cinematic film director's contact sheet while preserving the exact identity and recognizable facial characteristics of the woman in every single frame. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive personal features consistently across all 9 panels. Arranged as a 3-by-3 grid showing the subject in sequential cinematic expressions: laughing candidly, pensive look, direct eye contact, adjusting her hair, profile glance, soft smile, and head tilted. Authentic 35mm black film borders with frame numbers (e.g., 12A, 13A) and yellow Kodak Portra edge markings, complete with a red grease-pencil circle drawn around the center frame. Dressed in a stylish trench coat. Natural daylight, fine film grain, and razor-sharp facial details in each frame. Ultra-photorealistic director's proof sheet, 8K detail, no inconsistent faces, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "581",
-    "title": "Heartland Journey Movie Poster",
-    "category": "Family",
-    "subcategory": "Movie Poster",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/581.jpeg",
-    "promptText": "Transform the provided reference photo into an emotional, cinematic family adventure-drama movie poster while strictly preserving the real facial structures, natural skin tones, and distinct identities of each family member. Present the family standing together against an expansive golden sunset landscape with rolling hills, an open highway, and a classic vintage travel wagon in the background. Incorporate gentle double exposure of sprawling countryside horizons and sunset skies layered into the composition. Rich Kodachrome cinema grade, warm rim lighting catching wind-swept hair, authentic cinematic grain, balanced editorial spacing, minimal prestige film typography, 8K detail, no identity morphing. 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "586",
-    "title": "Neo-Noir Cyberpunk Hero Poster",
-    "category": "Cinematic",
-    "subcategory": "Movie Poster",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/586.jpeg",
-    "promptText": "Transform the provided reference photo into a gritty neo-noir sci-fi blockbuster movie poster while strictly maintaining 100% facial identity, natural skin texture, eye focus, and facial structure. Position the subject in the center wearing a detailed futuristic technical coat, backlit by vibrant neon holographic signs and towering rain-drenched megacity skyscrapers. Water droplets reflect sharp cyan and magenta light across the subject's face, complemented by hard rim shadows. Subtly incorporate a lower double-exposure layer of flying transit vehicles and wet asphalt alleys. Deep cinematic shadows, optical lens flares, fine IMAX grain, crisp photographic realism, blockbuster one-sheet composition. 3:4 composition.",
     "trending": true
   }
 ]

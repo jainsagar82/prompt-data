@@ -511,5 +511,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/967.jpeg",
     "promptText": "Transform the provided family reference photo into a joyful 1980s picnic-album snapshot while preserving every adult family member's exact identity, facial features, natural skin tone, hair, age, body proportions, and relationship. Do not add, remove, merge, or replace anyone. Arrange the adults naturally on a checked picnic blanket in a leafy public garden with a wicker basket, simple containers, and an unbranded compact radio. Style everyone in believable era-appropriate casual clothing and capture relaxed laughter toward an off-camera family photographer. Use warm late-afternoon sun, mild direct fill flash, soft 35mm consumer-film focus, natural grain, and small exposure imperfections. Compose as a strict 3:4 vertical group portrait with every face, hand, and limb clearly visible. No minors, celebrity likeness, modern phones, readable text, logos, watermark, duplicate faces, identity change, or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "985",
+    "title": "Durga Puja Red-White Family Pandal Portrait",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/985.jpeg",
+    "promptText": "Transform the uploaded family reference photo into a warm Durga Puja pandal portrait while strictly preserving every family member’s exact facial identity, age, facial proportions, natural skin tone, hairstyle, body type, and recognizable expression. Keep the same number of people and their family relationships. Arrange them close together inside a beautifully decorated Kolkata pandal, styling the women and girls in coordinated white festive sarees or age-appropriate outfits with red borders, and the men and boys in refined cream-and-red panjabi-kurta sets. Place a respectful, softly focused Durga idol, traditional dhaak drums, marigold garlands, brass lamps, incense haze, and warm festival lights in the background without blocking any face. Capture natural affectionate expressions and realistic hand placement using a 50mm lens at f/2.8, documentary-style composition, warm skin tones, detailed textiles, gentle depth of field, and lifelike low-light photography. No person added or removed, no identity change, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

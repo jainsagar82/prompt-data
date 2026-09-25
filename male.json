@@ -1177,5 +1177,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/978.jpeg",
     "promptText": "Transform the uploaded reference photo into a bold 1980s Bollywood action-hero magazine portrait while strictly preserving the person’s exact facial identity, facial structure, eyes, nose, lips, jawline, natural skin tone, and recognizable expression. Give the subject windswept period hair, a confident moustache only if it suits the reference face, a wide-collar rust shirt, high-waisted dark trousers, a weathered leather jacket, and classic aviator sunglasses held naturally in one hand. Stage the scene on a smoky old-Mumbai waterfront street at night with amber street lamps, wet pavement reflections, and a classic motorcycle softly visible behind the subject. Use dramatic warm rim light, a slightly low camera angle, a 50mm lens, punchy 1980s color separation, dense shadows, subtle print texture, halation, and authentic 35mm grain, evoking a vintage film-magazine cover without including any typography. Heroic but photorealistic, no celebrity resemblance, no identity change, no text, no logo, no watermark, no distorted hands, exact 3:4 vertical composition.",
     "trending": true
+  },
+  {
+    "id": "983",
+    "title": "Navratri Capsule-Wardrobe Kurta Portrait",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/983.jpeg",
+    "promptText": "Transform the uploaded reference photo into a modern 2026 men’s Navratri capsule-wardrobe portrait while strictly preserving the man’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, hairstyle, and recognizable expression. Dress him in a versatile ivory textured kurta-pajama base layered with a removable charcoal kediyu-inspired cropped jacket featuring restrained tonal embroidery and small mirror details, finished with a royal-blue woven stole, a subtle festive brooch, and tan mojari shoes. Place him at a contemporary open-air Garba venue during blue hour, standing confidently with two wooden dandiya sticks held safely at rest while colourful dancers move softly in the background. Use an 85mm lens at f/2.2, crisp eye focus, balanced cool ambient light and warm festoon lights, realistic textile texture, natural skin pores, and polished editorial contrast. Elegant festive restraint, no celebrity resemblance, no identity change, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

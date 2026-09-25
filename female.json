@@ -1168,5 +1168,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/976.jpeg",
     "promptText": "Transform the uploaded reference photo into a glamorous 1980s Indian disco-beauty portrait while strictly preserving the person’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, and recognizable expression. Style the subject with voluminous side-swept 1980s hair, electric-blue eyeshadow blended cleanly to the crease, softly sculpted cheeks, glossy berry lips, crystal statement earrings, and a sequined one-shoulder evening blouse. Place the subject in a mirrored disco studio with a silver mirror ball, cobalt-blue and magenta gel lighting, small star-filter highlights, and softly blurred colored practical lights. Frame a confident waist-up direct-camera pose using an 85mm portrait lens at f/2, with crisp eye focus, realistic skin pores, natural flyaway hairs, authentic 35mm film grain, subtle highlight halation, and period-correct color separation. Premium editorial realism, no celebrity resemblance, no identity change, no plastic skin, no text, no logo, no watermark, no distorted anatomy, exact 3:4 vertical composition.",
     "trending": true
+  },
+  {
+    "id": "981",
+    "title": "1980s Kerala Tharavadu Kasavu Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/981.jpeg",
+    "promptText": "Transform the uploaded reference photo into an authentic 1980s Kerala portrait while strictly preserving the woman’s exact facial identity, facial proportions, eyes, nose, lips, jawline, natural skin tone, hairline, and recognizable expression. Seat her naturally on a cane chair along the shaded wooden veranda of a traditional Kerala tharavadu home, with carved timber pillars, a polished red-oxide floor, soft monsoon greenery, and a glowing brass nilavilakku placed safely beside her. Dress her in an ivory kasavu saree with a muted gold border, a simple matching blouse, jasmine flowers woven into a long braid, a tiny red bindi, small gold jhumkas, and delicate bangles. Use warm window light, a calm direct-camera gaze, a vintage 50mm lens at f/2.8, slightly softened contrast, faded Malayalam-cinema colour, fine 35mm grain, subtle dust, and the tactile character of an old family print. Natural skin and hands, no celebrity resemblance, no identity change, no modern objects, no text, no logo, no watermark, exact 3:4 vertical composition.",
+    "trending": true
   }
 ]
