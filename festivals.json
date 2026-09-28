@@ -673,5 +673,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/973.jpeg",
     "promptText": "Transform the provided adult reference photo into a moonlit Chandrika-style Garba portrait while preserving the woman's exact identity, facial features, natural skin tone, hair, age, and body proportions. Dress her in a flowing midnight-blue chaniya choli with fine silver mirror work and a translucent dupatta. Place her on an open palace terrace beneath a bright moon with white flowers, restrained lanterns, and a distant Garba circle rendered as soft bokeh. Capture a graceful turning step with one dandiya stick in each hand, silver-blue moonlight, warm lantern accents, realistic skin, embroidery, fabric motion, and atmospheric depth. Compose as a strict 3:4 vertical full-body portrait with complete hands, sticks, skirt, and feet inside safe margins. Keep Gujarati styling respectful and dance posture believable. No deity or celebrity likeness, text, logos, watermark, identity change, floating jewelry, duplicate sticks, extra limbs, or excessive fantasy glow.",
     "trending": true
+  },
+  {
+    "id": "988",
+    "title": "White Mirrorwork Navratri Garba Spin",
+    "category": "Festivals",
+    "subcategory": "Navratri",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/988.jpeg",
+    "promptText": "Transform the uploaded reference photo into a dynamic Navratri Garba-night portrait while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and recognizable expression. Dress her in a contemporary white chaniya choli densely embellished with authentic shisha mirrorwork and fine silver embroidery, paired with a deep maroon odhani, oxidized silver necklace, statement jhumkas, stacked bangles, and a small bindi. Place her in a vibrant outdoor Garba ground filled with warm string lights, softly blurred dancers, colorful dandiya sticks, and festive dust catching the light. Capture a joyful mid-spin moment: her face and eyes remain sharply focused while the skirt and dupatta create controlled circular motion, with anatomically correct hands and natural posture. Use a 50mm documentary-fashion look, balanced on-camera flash and warm ambient light, crisp mirror reflections, realistic fabric movement, rich but believable colors, cinematic depth, and high-detail skin texture. No text, logos, watermark, extra people in the foreground, duplicate limbs, altered identity, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
   }
 ]
