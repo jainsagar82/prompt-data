@@ -970,5 +970,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/970.jpeg",
     "promptText": "Transform the provided adult reference photo into an original 1980s rainy bus-stop film still while preserving the subject's exact identity, facial structure, features, natural skin tone, hair, age, and body proportions. Dress the subject in an era-appropriate tan jacket over a knit shirt with high-waisted trousers and place them inside a modest urban bus shelter at night, holding a folded newspaper with no readable print. Surround the scene with rain-streaked glass, wet pavement, distant unbranded bus lights, and practical street lamps. Use authentic 35mm grain, gentle halation, muted teal-and-amber color, realistic reflections, and sodium-vapor warmth against cool rain. Compose as a strict 3:4 vertical three-quarter environmental portrait with layered reflections and safe margins. No real movie imitation, celebrity likeness, readable text, brands, logos, watermark, modern vehicles, identity change, plastic skin, or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "1001",
+    "title": "Destruction-to-Rebirth Puja Pandal Portrait",
+    "category": "Cinematic",
+    "subcategory": "Movie Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1001.jpeg",
+    "promptText": "Transform the uploaded reference photo into a cinematic Durga Puja portrait inspired by a destruction-to-rebirth theme while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and natural expression. Dress her in a muted charcoal-grey handloom saree with a deep-red woven border and restrained oxidized jewelry. Place her walking through an immersive Kolkata art pandal built from weathered bamboo, cracked clay, ash-toned sculptural forms, and abstract fragments suggesting storm-damaged urban structures; keep the symbolism artistic, respectful, and non-graphic. Introduce fresh green shoots, lotus buds, reflective water, and warm diya lights emerging through the dark installation to represent renewal, with a subtle Durga silhouette glowing deeper inside. Give her a calm, resilient, hopeful expression and anatomically correct hands. Use centered full-length 35mm cinematic framing, dramatic shafts of warm light through cool smoky shadows, realistic clay, bamboo, water and textile textures, rich shadow detail, and an emotionally powerful film-grade finish. No injuries, disaster victims, graphic fire, text, logos, watermark, extra limbs, altered face, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

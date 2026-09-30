@@ -529,5 +529,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/995.jpeg",
     "promptText": "Transform the uploaded reference photo of a mother and daughter into an affectionate Navratri family portrait while preserving both people’s exact identities, facial structures, skin tones, ages, hairstyles, body proportions, and recognizable expressions. Keep exactly one adult mother and one young daughter. Style them in coordinated but not identical Bandhani outfits: the mother wears a magenta Bandhani lehenga with an orange mirrorwork blouse, while the daughter wears a comfortable age-appropriate orange lehenga with magenta accents. Place them holding hands and gently twirling together in a festive courtyard decorated with rangoli, marigold strings, brass diyas, and soft Garba lights. Keep both faces clear, the emotional connection natural, and all hands anatomically correct. Use warm golden-evening illumination, realistic fabric movement, a 50mm family-lifestyle lens look, shallow depth of field, premium festive color grading, and true-to-life skin texture. No text, logos, watermark, additional foreground people, duplicate limbs, malformed hands, adult styling on the child, altered identities, or plastic skin. Exact 3:4 vertical composition.",
     "trending": true
+  },
+  {
+    "id": "1000",
+    "title": "Father-Son Coordinated Navratri Portrait",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1000.jpeg",
+    "promptText": "Transform the uploaded reference photo of a father and son into a warm Navratri family portrait while preserving both people’s exact identities, facial structures, skin tones, ages, hairstyles, body proportions, and recognizable expressions. Keep exactly one adult father and one young son. Style them in coordinated but not identical festive outfits: the father wears an ivory cotton-silk kurta with a rust-orange embroidered Nehru jacket, while the son wears a comfortable age-appropriate rust-orange kurta with an ivory sleeveless jacket and pajama. Place them standing together in a decorated home courtyard, each holding exactly two dandiya sticks naturally while sharing a joyful glance, with rangoli, marigold garlands, brass diyas, and soft Garba lights behind them. Use full-length 50mm family-lifestyle framing, warm golden-evening illumination, authentic textile detail, anatomically correct hands, natural emotional connection, shallow depth of field, and premium festive color grading. No additional foreground people, text, logos, watermark, duplicate limbs, malformed hands, adult styling on the child, altered identities, or artificial skin. Exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

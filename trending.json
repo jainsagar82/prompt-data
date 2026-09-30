@@ -1,5 +1,50 @@
 [
   {
+    "id": "1001",
+    "title": "Destruction-to-Rebirth Puja Pandal Portrait",
+    "category": "Cinematic",
+    "subcategory": "Movie Moments",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1001.jpeg",
+    "promptText": "Transform the uploaded reference photo into a cinematic Durga Puja portrait inspired by a destruction-to-rebirth theme while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and natural expression. Dress her in a muted charcoal-grey handloom saree with a deep-red woven border and restrained oxidized jewelry. Place her walking through an immersive Kolkata art pandal built from weathered bamboo, cracked clay, ash-toned sculptural forms, and abstract fragments suggesting storm-damaged urban structures; keep the symbolism artistic, respectful, and non-graphic. Introduce fresh green shoots, lotus buds, reflective water, and warm diya lights emerging through the dark installation to represent renewal, with a subtle Durga silhouette glowing deeper inside. Give her a calm, resilient, hopeful expression and anatomically correct hands. Use centered full-length 35mm cinematic framing, dramatic shafts of warm light through cool smoky shadows, realistic clay, bamboo, water and textile textures, rich shadow detail, and an emotionally powerful film-grade finish. No injuries, disaster victims, graphic fire, text, logos, watermark, extra limbs, altered face, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "1000",
+    "title": "Father-Son Coordinated Navratri Portrait",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1000.jpeg",
+    "promptText": "Transform the uploaded reference photo of a father and son into a warm Navratri family portrait while preserving both people’s exact identities, facial structures, skin tones, ages, hairstyles, body proportions, and recognizable expressions. Keep exactly one adult father and one young son. Style them in coordinated but not identical festive outfits: the father wears an ivory cotton-silk kurta with a rust-orange embroidered Nehru jacket, while the son wears a comfortable age-appropriate rust-orange kurta with an ivory sleeveless jacket and pajama. Place them standing together in a decorated home courtyard, each holding exactly two dandiya sticks naturally while sharing a joyful glance, with rangoli, marigold garlands, brass diyas, and soft Garba lights behind them. Use full-length 50mm family-lifestyle framing, warm golden-evening illumination, authentic textile detail, anatomically correct hands, natural emotional connection, shallow depth of field, and premium festive color grading. No additional foreground people, text, logos, watermark, duplicate limbs, malformed hands, adult styling on the child, altered identities, or artificial skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "999",
+    "title": "Royal-Blue Navratri Anarkali Twirl",
+    "category": "Festivals",
+    "subcategory": "Navratri",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/999.jpeg",
+    "promptText": "Transform the uploaded reference photo into an energetic Navratri Garba portrait while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and joyful natural expression. Dress her in a flowing royal-blue Anarkali with fine silver mirror accents and a lightweight mustard-yellow Bandhani dupatta, complemented by tasteful oxidized jhumkas and slim bangles. Place her in an Ahmedabad Garba courtyard decorated with diyas, marigold strings, rangoli, and warm overhead lights, with dancers softly blurred into the background. Capture a graceful mid-twirl: keep her face and eyes sharply focused while the Anarkali hem and dupatta create controlled circular movement, with anatomically correct hands and realistic posture. Use a 50mm festival-fashion perspective, gentle on-camera flash balanced with warm ambient light, crisp mirror reflections, authentic fabric movement, rich royal-blue and yellow tones, high-detail skin texture, and cinematic depth. No text, logos, watermark, duplicate limbs, extra fingers, distorted face, crowded foreground, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "998",
+    "title": "Kashmiri Bangles and Watch Editorial",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/998.jpeg",
+    "promptText": "Transform the uploaded reference photo into a premium festive-accessory editorial while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and recognizable expression. Style her in a deep-maroon velvet kurta with subtle antique-gold embroidery and showcase the viral Kashmiri-inspired bangles-and-watch look: stacked colorful bangles with tiny ghungroos, beads, filigree, metallic charms, and one elegant bracelet-style ornamental watch without visible branding. Pose one hand naturally near her face and the other across her waist so both accessory stacks remain visible, with five anatomically correct fingers on each hand and realistic jewelry separation. Set the portrait in a softly blurred carved-wood interior with warm festive lamps and traditional textiles. Use an 85mm close-editorial lens feel, waist-up framing, soft window light, precise focus on the face and hands, realistic velvet, metal and skin textures, warm golden highlights, and tasteful luxury color grading. No text, logos, watermark, extra fingers, fused jewelry, unreadable writing, distorted hands, altered face, or artificial skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "997",
+    "title": "Pujo Peplum-Blouse Handloom Saree Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/997.jpeg",
+    "promptText": "Transform the uploaded reference photo into a sophisticated Durga Puja fashion portrait while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and natural expression. Dress her in a soft ivory-and-gold handloom saree paired with a fitted bottle-green peplum blouse featuring delicate gold floral embroidery; the peplum waist should layer elegantly over the saree drape without appearing bulky. Add restrained antique-gold jhumkas, a small red bindi, and fresh jasmine in a low bun. Place her in a heritage Kolkata courtyard with red pillars, white shiuli flowers, brass lamps, subtle alpana, and a softly glowing Durga idol in the background. Use a graceful three-quarter-to-full-length pose with relaxed, anatomically correct hands. Photograph with an 85mm editorial-lens look, shallow depth of field, soft golden morning light, authentic silk and handloom texture, realistic skin detail, controlled highlights, and premium Indian fashion-magazine color grading. No text, logos, watermark, extra fingers, malformed hands, altered face, excessive jewelry, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
     "id": "996",
     "title": "Hawa Mahal Durga Pandal Couple",
     "category": "Couples",
@@ -729,15 +774,6 @@
     "trending": true
   },
   {
-    "id": "823",
-    "title": "Marine Drive Monsoon Breeze & Sea Face",
-    "category": "Male",
-    "subcategory": "Urban & Cinematic",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/823.jpeg",
-    "promptText": "Transform the provided reference photo into a cinematic, nostalgic Mumbai monsoon street portrait while strictly preserving the person's exact facial structure, eyes, nose, lips, jawline, and natural skin tone. The subject leans casually against the weathered concrete promenade wall of Marine Drive during an overcast monsoon afternoon. Behind the subject, large Arabian Sea waves crash dramatically against the concrete tetrapods, sending a fine mist of ocean spray into the salty sea breeze. In the distant background, the sweeping curve of the Queen's Necklace and the hazy silhouette of the Bandra-Worli Sea Link are softly visible under dramatic monsoon rain clouds. Dressed in a classic navy-blue water-resistant overshirt layered over a heather-gray cotton crewneck and dark trousers. Realistic fine sea spray glistens lightly on the windblown hair and jacket. Soft, diffused overcast daylight provides flattering, natural wrap-around lighting across the face. Shot on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, and creamy ocean spray bokeh. Cinematic Mumbai street photography, authentic skin pores, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
     "id": "943",
     "title": "Banarasi Couture Flash Editorial",
     "category": "Fashion",
@@ -762,15 +798,6 @@
     "subcategory": "Cinematic & Editorial",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/232.jpeg",
     "promptText": "Transform the provided reference photos of both people into a premium editorial-style mirror selfie photograph while preserving the exact identity and recognizable facial characteristics of both individuals. Maintain their original facial structures, face shapes, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive features. Create a stylish couple mirror-selfie moment inside a sophisticated modern interior with beautiful architecture and natural lighting. Both individuals should remain clearly recognizable and physically realistic. Show them standing naturally together, with relaxed expressions and subtle playful interaction. Dress them in coordinated contemporary fashion with premium streetwear-inspired styling and tasteful accessories. Use a large clean mirror with realistic reflections, accurate perspective, physically consistent lighting, subtle fingerprints and natural imperfections on the mirror surface, and realistic smartphone positioning without visible branding. Preserve accurate hands and fingers, natural body proportions, authentic facial texture, and realistic reflection behavior. Capture the scene like a high-end social-media editorial photograph rather than a generic selfie. Ultra-photorealistic couple mirror photography, premium social-media aesthetic, modern fashion, realistic reflection, natural expressions, 8K detail, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "831",
-    "title": "Indian Railways Train Doorway Dawn Chai",
-    "category": "Male",
-    "subcategory": "Lifestyle & Travel",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/831.jpeg",
-    "promptText": "Transform the provided reference photo into an evocative, nostalgic Indian Railways journey portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. The subject stands safely inside the open doorway of a moving Indian train at early morning dawn, holding a steaming clay kulhad cup of masala chai. Outside, rural Indian countryside, misty green paddy fields, and morning telegraph poles blur gently past in the morning haze. Dressed in a casual navy-blue henley shirt, rugged dark jeans, and a woven wristband. Cool dawn breeze ruffles his hair while the first pink and gold rays of the rising sun strike the side of his face, illuminating rising steam from the tea and creating a warm, contemplative mood. Captured on a 50mm f/1.8 lens, shallow depth of field, sharp facial focus, and realistic motion blur in the passing landscape. Authentic Indian travel cinema aesthetic, natural skin texture, 8K detail, no identity modification, 3:4 composition.",
     "trending": true
   },
   {
@@ -816,33 +843,6 @@
     "subcategory": "Retro & Creative",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/227.jpeg",
     "promptText": "Transform the provided reference photos of both people into an authentic nostalgic 1990s-style couple snapshot while preserving their exact identities and recognizable facial characteristics. Maintain their original facial structures, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive personal features. Place the couple together in a realistic retro urban setting such as a colorful arcade, roadside diner, music store, or neighborhood street. Show them laughing naturally and interacting like a genuine candid photograph from the 1990s. Dress them in tasteful period-inspired casual fashion including denim, relaxed shirts, vintage sneakers, and subtle accessories without using recognizable brand logos. Recreate authentic disposable-camera and 35mm film characteristics with imperfect exposure, subtle flash, realistic grain, slight color shifts, soft focus, natural imperfections, and nostalgic analog texture. Preserve realistic skin detail and consistent identity. The final image should feel like an actual photograph found in an old family album rather than a modern digital recreation. Photorealistic 90s nostalgia, retro couple photography, disposable camera aesthetic, authentic film grain, candid romance, joyful memory, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "464",
-    "title": "Six-Frame 'One Night in the City' Storyboard",
-    "category": "Cinematic",
-    "subcategory": "Collage & Film Sheets",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/464.jpeg",
-    "promptText": "Transform the provided reference photo into a 6-frame narrative cinema contact sheet while maintaining 100% facial identity across all 6 panels. Arranged as a 2-column by 3-row grid of sequential 35mm movie frames telling a visual story of one night in the city. Frame 1: Twilight coffee with thoughtful gaze. Frame 2: Stepping onto a crowded subway train. Frame 3: Walking under neon rain with umbrella. Frame 4: Laughing in a crowded midnight jazz club. Frame 5: Resting in a diner booth at 3 AM. Frame 6: Watching the pink dawn from a rooftop. Consistent cinematic color grade, black frame borders with tiny white frame numbers, sharp facial detail in every shot, authentic film grain, 8K detail, no identity modification, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "458",
-    "title": "4-Frame Anamorphic Storyboard Grid",
-    "category": "Cinematic",
-    "subcategory": "Collage & Film Sheets",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/458.jpeg",
-    "promptText": "Transform the provided reference photo into a 4-frame widescreen movie storyboard layout while preserving the subject's exact facial structure, eyes, nose, lips, and natural skin tone in every panel. The layout consists of four horizontal 2.39:1 widescreen cinematic panels arranged vertically in a clean film sheet. Panel 1: Extreme close-up of the subject's eyes catching neon light. Panel 2: Medium shot walking through a rain-slicked city alley. Panel 3: Over-the-shoulder shot looking at a skyline sunset. Panel 4: Direct cinematic close-up with a determined smile. Clean black letterbox borders with subtle timecode numbers in the bottom corner of each frame. Consistent teal-and-orange cinematic color grade across all panels, authentic 35mm film grain, razor-sharp facial details, 8K detail, no facial distortion, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "457",
-    "title": "3x3 Director's 35mm Contact Sheet",
-    "category": "Cinematic",
-    "subcategory": "Collage & Film Sheets",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/457.jpeg",
-    "promptText": "Transform the provided reference photo into an authentic 3x3 cinematic film director's contact sheet while strictly maintaining 100% facial identity across all 9 frames. The image is structured as a precise 3-by-3 grid of 9 sequential 35mm film frames, each capturing the subject in slightly different cinematic expressions and micro-angles: laughing, pensive, intense profile, looking down, smiling softly, and making direct eye contact. Authentic black film borders separate the frames, complete with yellow Kodak Tri-X 400 edge-number markings, frame counters (1A, 2A, 3A), and subtle red grease-pencil crop circles drawn by the director around the best frame. High-contrast monochrome cinema lighting, authentic silver gelatin grain, sharp facial focus in every frame, 8K detail, no identity change, 3:4 composition.",
     "trending": true
   },
   {
