@@ -1204,5 +1204,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/998.jpeg",
     "promptText": "Transform the uploaded reference photo into a premium festive-accessory editorial while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and recognizable expression. Style her in a deep-maroon velvet kurta with subtle antique-gold embroidery and showcase the viral Kashmiri-inspired bangles-and-watch look: stacked colorful bangles with tiny ghungroos, beads, filigree, metallic charms, and one elegant bracelet-style ornamental watch without visible branding. Pose one hand naturally near her face and the other across her waist so both accessory stacks remain visible, with five anatomically correct fingers on each hand and realistic jewelry separation. Set the portrait in a softly blurred carved-wood interior with warm festive lamps and traditional textiles. Use an 85mm close-editorial lens feel, waist-up framing, soft window light, precise focus on the face and hands, realistic velvet, metal and skin textures, warm golden highlights, and tasteful luxury color grading. No text, logos, watermark, extra fingers, fused jewelry, unreadable writing, distorted hands, altered face, or artificial skin. Exact 3:4 vertical composition.",
     "trending": true
+  },
+  {
+    "id": "1007",
+    "title": "Terracotta Durga Pandal Handloom Portrait",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1007.jpeg",
+    "promptText": "Use the uploaded reference photo to create this portrait. Preserve the person's recognizable facial identity, age, skin tone, facial proportions and natural features; do not replace the face or apply beauty smoothing. An adult Indian woman in a rust terracotta handloom cotton sari with an ivory woven border and modest ivory blouse, wearing small gold earrings and a red bindi, holding a single lotus gently with both hands. She stands beneath an ornate terracotta arch at a Durga Puja pandal, textured clay relief panels and softly illuminated festive decor in the background, respectful peaceful expression. Waist-up portrait, warm clay hues, soft side light with evening lantern glow, sharply focused face, natural skin and visible handwoven textile, background softly blurred and no legible signage. Output one photorealistic vertical image in exact 3:4 aspect ratio. Keep anatomy and hands realistic, with no extra fingers, duplicate people, captions, logos or watermarks.",
+    "trending": true
   }
 ]

@@ -556,5 +556,23 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/996.jpeg",
     "promptText": "Transform the uploaded reference photo into a cinematic Durga Puja couple portrait while preserving both people’s exact identities, facial structures, skin tones, ages, hairstyles, body proportions, and recognizable expressions. Keep exactly two adult principal subjects. Dress the woman in a deep-emerald silk saree with an antique-gold border and refined traditional jewelry; dress the man in a muted-maroon silk Bengali panjabi with ivory trousers. Place them entering a spectacular Kolkata pandal inspired by Rajasthan’s Hawa Mahal, featuring an intricate pink-sandstone-style façade, rows of glowing jharokha windows, marigold decorations, brass lamps, light incense haze, and a softly visible Durga idol deeper inside. Pose them walking side by side with a warm natural glance and relaxed, anatomically correct hands. Use low eye-level cinematic framing, a 35mm lens feel, dramatic golden window glow against a subtle blue-hour sky, realistic textile and architectural detail, polished reflections, rich shadow detail, and premium festival color grading. No text, logos, watermark, extra foreground people, fused hands, duplicate limbs, altered faces, distorted architecture, or artificial skin. Exact 3:4 vertical composition.",
     "trending": true
+  },
+  {
+    "id": "1003",
+    "title": "Minimal Ivory and Indigo Garba Couple",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1003.jpeg",
+    "promptText": "Use the uploaded reference photos of the two people to create this portrait. Preserve each person's recognizable facial identity, age, skin tone, facial proportions and natural features; do not replace the face or apply beauty smoothing. An adult Indian couple paused between garba rounds, exchanging a warm smile. The woman wears a minimalist ivory chaniya skirt with a narrow indigo woven border, indigo long-sleeved blouse and lightweight ivory dupatta; the man wears an indigo cotton kurta with ivory trousers and a subtle embroidered waistcoat. Modest coordinated outfits, understated silver jewellery, one wooden dandiya stick held naturally in each hand. Full-length composition in an outdoor garba venue with circular festive lights and a softly blurred colourful crowd, elegant relaxed body language, believable hands, cinematic warm light. Output one photorealistic vertical image in exact 3:4 aspect ratio. Keep anatomy and hands realistic, with no extra fingers, duplicate people, captions, logos or watermarks.",
+    "trending": true
+  },
+  {
+    "id": "1005",
+    "title": "1980s Rainy Cinema-Date Portrait",
+    "category": "Couples",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1005.jpeg",
+    "promptText": "Use the uploaded reference photos of the two people to create this portrait. Preserve each person's recognizable facial identity, age, skin tone, facial proportions and natural features; do not replace the face or apply beauty smoothing. An adult Indian couple sharing a dark umbrella outside an old single-screen cinema on a rainy evening, posed in a candid romantic moment. The woman wears a mustard sari with a burgundy border and classic gold earrings; the man wears a cream shirt with rolled sleeves and dark high-waisted trousers. Both faces visible, gentle smiles, wet pavement reflecting warm marquee bulbs, cinema posters indistinct and unreadable. Medium three-quarter portrait, authentic 1980s Indian film-still feel, warm tungsten highlights, muted teal shadows, subtle 35mm film grain and halation, real skin texture. Output one photorealistic vertical image in exact 3:4 aspect ratio. Keep anatomy and hands realistic, with no extra fingers, duplicate people, captions, logos or watermarks.",
+    "trending": true
   }
 ]

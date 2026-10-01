@@ -466,5 +466,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/997.jpeg",
     "promptText": "Transform the uploaded reference photo into a sophisticated Durga Puja fashion portrait while preserving the woman’s exact identity, facial structure, skin tone, age, hairstyle, body proportions, and natural expression. Dress her in a soft ivory-and-gold handloom saree paired with a fitted bottle-green peplum blouse featuring delicate gold floral embroidery; the peplum waist should layer elegantly over the saree drape without appearing bulky. Add restrained antique-gold jhumkas, a small red bindi, and fresh jasmine in a low bun. Place her in a heritage Kolkata courtyard with red pillars, white shiuli flowers, brass lamps, subtle alpana, and a softly glowing Durga idol in the background. Use a graceful three-quarter-to-full-length pose with relaxed, anatomically correct hands. Photograph with an 85mm editorial-lens look, shallow depth of field, soft golden morning light, authentic silk and handloom texture, realistic skin detail, controlled highlights, and premium Indian fashion-magazine color grading. No text, logos, watermark, extra fingers, malformed hands, altered face, excessive jewelry, or plastic skin. Exact 3:4 vertical composition.",
     "trending": true
+  },
+  {
+    "id": "1002",
+    "title": "Denim-Jacket Mirrorwork Garba Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1002.jpeg",
+    "promptText": "Use the uploaded reference photo to create this portrait. Preserve the person's recognizable facial identity, age, skin tone, facial proportions and natural features; do not replace the face or apply beauty smoothing. An adult Indian woman wearing an indigo denim jacket with hand-embroidered Kutch patches over a modest ivory blouse and a flowing saffron mirrorwork chaniya skirt, oxidised silver earrings and bangles, no dupatta. She smiles while holding a pair of wooden dandiya sticks loosely at waist height, standing in a warmly lit Ahmedabad garba courtyard; softly blurred marigold strings and dancing guests behind her. Three-quarter length composition with skirt texture visible, crisp expressive face, realistic textile detail, amber string-light bokeh and subtle cool night fill. Output one photorealistic vertical image in exact 3:4 aspect ratio. Keep anatomy and hands realistic, with no extra fingers, duplicate people, captions, logos or watermarks.",
+    "trending": true
   }
 ]
