@@ -1,5 +1,14 @@
 [
   {
+    "id": "1011",
+    "title": "Rainy Bookshop Window Couple Portrait",
+    "category": "Couples",
+    "subcategory": "Cinematic & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1011.jpeg",
+    "promptText": "Use the uploaded reference photos of the people. Preserve each person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. An adult Indian couple sharing a quiet moment in a cosy independent bookshop beside a rain-streaked window. The woman wears a burgundy knitted cardigan over a modest cream top; the man wears a textured brown overshirt over an ivory shirt. Both stand facing partly toward the camera with a gentle affectionate smile while holding one open book together at waist height. Shelves blurred behind them, amber lamp light and cool blue reflections in the rainy window, medium three-quarter cinematic portrait, authentic natural skin, believable hands and relaxed body language. Book pages and spines have no legible text. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "206",
     "title": "Golden Hour Beach Couple",
     "category": "Couples",

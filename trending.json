@@ -1,5 +1,50 @@
 [
   {
+    "id": "1012",
+    "title": "Designer Figurine on a Creative Desk",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1012.jpeg",
+    "promptText": "Use the uploaded reference photo. Preserve the person's recognizable facial identity, age, skin tone and natural facial features, translating those features into the sculpted miniature without substituting a different character. A premium miniature collectible vinyl figurine depicting a fictional adult Indian woman with shoulder-length dark hair, wearing a mustard overshirt, ivory T-shirt, dark jeans and white sneakers, standing on a clear round acrylic base on a tidy creative desk. The figurine is unmistakably a physical sculpted toy with softly stylised proportions and subtly satin-painted surfaces. Beside it sits a plain unbranded cream display box with a small pictorial silhouette and no letters; blurred notebook, desk lamp and potted plant in the background. Photorealistic macro product photograph, entire figurine and base visible, shallow depth of field, warm studio side light, convincing miniature scale, no logos or text. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
+    "id": "1011",
+    "title": "Rainy Bookshop Window Couple Portrait",
+    "category": "Couples",
+    "subcategory": "Cinematic & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1011.jpeg",
+    "promptText": "Use the uploaded reference photos of the people. Preserve each person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. An adult Indian couple sharing a quiet moment in a cosy independent bookshop beside a rain-streaked window. The woman wears a burgundy knitted cardigan over a modest cream top; the man wears a textured brown overshirt over an ivory shirt. Both stand facing partly toward the camera with a gentle affectionate smile while holding one open book together at waist height. Shelves blurred behind them, amber lamp light and cool blue reflections in the rainy window, medium three-quarter cinematic portrait, authentic natural skin, believable hands and relaxed body language. Book pages and spines have no legible text. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
+    "id": "1010",
+    "title": "1980s Sunday Kitchen Family Memory",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1010.jpeg",
+    "promptText": "Use the uploaded reference photos of the people. Preserve each person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. A fictional Indian family of three in an ordinary 1980s home kitchen: two adult parents and their school-age daughter, fully clothed in modest casual period-appropriate cotton outfits. The father prepares tea beside a kettle, the mother sits with the daughter at a wooden breakfast table smiling toward the camera, all three faces clearly visible. Steel cups, a plate of toast, pale patterned curtains and warm sunlight, candid intimate family-album photography, vertical composition showing everyone from the waist up, soft colour-negative film grain, natural expressions and ordinary home details. No readable text or modern appliances. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
+    "id": "1009",
+    "title": "1980s Roadside Chai and Motorcycle Portrait",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1009.jpeg",
+    "promptText": "Use the uploaded reference photo. Preserve the person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. An adult Indian man standing beside an unbranded vintage black motorcycle at a small roadside tea stall in 1980s India, wearing a faded olive shirt with rolled sleeves and dark high-waisted trousers. He casually holds a small earthen chai cup in one hand, the other hand rests on the motorcycle seat. Soft morning sunlight through steam from a kettle, weathered wooden bench and blurred quiet street behind him. Three-quarter portrait, relaxed expression, true-to-life hands, authentic 35mm film grain, muted earthy colours, gentle warm highlights, no modern screens or readable signs. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
+    "id": "1008",
+    "title": "1980s College Library Saree Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1008.jpeg",
+    "promptText": "Use the uploaded reference photo. Preserve the person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. An adult Indian woman in a nostalgic 1980s college library, wearing a muted sky-blue cotton sari with a narrow navy border, modest navy blouse, small silver earrings and loosely braided hair. She holds two worn hardcover books against her waist and glances toward the camera with a quiet smile. Tall wooden bookshelves and a sunlit window behind her; book spines have indistinct unreadable marks. Three-quarter portrait, warm side light, authentic colour-negative film grain, gentle halation, faded blues and honey tones, natural skin texture and believable hands. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "1007",
     "title": "Terracotta Durga Pandal Handloom Portrait",
     "category": "Female",
@@ -852,51 +897,6 @@
     "subcategory": "Cinematic & Editorial",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/232.jpeg",
     "promptText": "Transform the provided reference photos of both people into a premium editorial-style mirror selfie photograph while preserving the exact identity and recognizable facial characteristics of both individuals. Maintain their original facial structures, face shapes, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive features. Create a stylish couple mirror-selfie moment inside a sophisticated modern interior with beautiful architecture and natural lighting. Both individuals should remain clearly recognizable and physically realistic. Show them standing naturally together, with relaxed expressions and subtle playful interaction. Dress them in coordinated contemporary fashion with premium streetwear-inspired styling and tasteful accessories. Use a large clean mirror with realistic reflections, accurate perspective, physically consistent lighting, subtle fingerprints and natural imperfections on the mirror surface, and realistic smartphone positioning without visible branding. Preserve accurate hands and fingers, natural body proportions, authentic facial texture, and realistic reflection behavior. Capture the scene like a high-end social-media editorial photograph rather than a generic selfie. Ultra-photorealistic couple mirror photography, premium social-media aesthetic, modern fashion, realistic reflection, natural expressions, 8K detail, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "699",
-    "title": "1980s Neon Synthwave Arcade Duel",
-    "category": "Male",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/699.jpeg",
-    "promptText": "Transform the provided reference photo into an electric 1980s retro arcade scene while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands gripping the joystick of a glowing vintage arcade cabinet, face lit by the electric cyan and hot-magenta CRT screen glow. Dressed in an authentic 1980s color-blocked nylon windbreaker, washed denim, and digital watch. The background is filled with rows of buzzing neon pinball machines and colorful CRT screens in soft bokeh. Captured on a 50mm f/1.4 lens, shallow depth of field, sharp eye focus reflecting neon game sprites, and authentic 1980s analog film grain. Vibrant retro synthwave color palette, 8K detail, no identity alteration, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "194",
-    "title": "Baby in a Vintage 35mm Home Portrait",
-    "category": "Cute Baby",
-    "subcategory": "Studio & Cozy",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/194.jpeg",
-    "promptText": "Transform the provided reference photo into a nostalgic authentic 35mm-style baby lifestyle photograph while preserving the baby's exact identity and recognizable facial characteristics. Maintain the original facial structure, face shape, eyes, eyebrows, nose, lips, cheeks, skin tone, hair, eyelashes, and distinctive features. Create a genuine home environment with warm wooden furniture, cream curtains, slightly imperfect natural daylight, and simple everyday objects softly visible in the background. Dress the baby in a classic cream cotton outfit. Capture an unposed-looking moment where the baby naturally looks toward the camera with a curious smile. Preserve realistic skin texture, soft baby hair, tiny fingers, natural facial asymmetry, authentic clothing wrinkles, and age-appropriate anatomy. Use natural window light rather than artificial studio lighting. Photograph with the visual characteristics of a real 35mm film camera, gentle grain, subtle exposure variation, soft highlight bloom, slightly muted colors, natural lens softness, realistic shadows, and authentic analog character. Follow baby-led positioning suitable for 1 to 10 months. The final image should feel like a treasured family photograph discovered years later. Ultra-photorealistic 35mm baby photography, nostalgic home portrait, authentic film grain, natural baby expression, realistic skin, documentary family photography, analog character, 8K detail, no identity change, no artificial beauty filter, no cartoon appearance, 16:9 composition.",
-    "trending": true
-  },
-  {
-    "id": "254",
-    "title": "Retro Scooter Date",
-    "category": "Couples",
-    "subcategory": "Retro & Creative",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/254.jpeg",
-    "promptText": "Transform the provided reference photos of both people into a joyful retro scooter date photograph while preserving the exact identity and recognizable facial characteristics of both individuals. Maintain each person's original facial structure, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive personal features. Place the couple together beside a stylish vintage scooter on a colorful old-city street during golden hour. Show them laughing naturally and preparing to continue their evening ride together. Dress them in tasteful retro-inspired casual fashion with coordinated colors, vintage silhouettes, and understated accessories. Create colorful architecture, old storefronts, textured walls, warm sunlight, subtle street activity, and realistic environmental details. Capture with a 50mm lens, natural depth of field, realistic skin texture, authentic expressions, subtle analog grain, gentle color imperfections, and cinematic warm grading. Preserve realistic hands, scooter interaction, anatomy, and clothing details. The final photograph should feel like a spontaneous romantic travel memory with timeless charm. Ultra-photorealistic retro street photography, couple travel portrait, vintage scooter aesthetic, golden-hour romance, 35mm film character, 8K detail, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "239",
-    "title": "Childhood Memory Recreation",
-    "category": "Couples",
-    "subcategory": "Retro & Creative",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/239.jpeg",
-    "promptText": "Transform the provided reference photos of both people into a nostalgic couple memory scene inspired by childhood summer photography while preserving the exact current adult identities and recognizable facial characteristics of both individuals. Maintain their original facial structures, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive features. Do not turn either person into a child. Instead, create a present-day couple photograph staged in a nostalgic neighborhood environment inspired by carefree childhood summers, featuring bicycles, colorful walls, an old-fashioned ice-cream cart, warm afternoon sunlight, and playful surroundings. Show the couple laughing and enjoying a simple carefree moment together. Dress them in tasteful retro-inspired casual clothing. Recreate authentic nostalgic photography with warm sunlight, subtle 35mm grain, soft colors, natural imperfections, realistic shadows, and documentary-style framing. Preserve realistic skin texture, natural expressions, accurate anatomy, and authentic hands. The result should evoke joyful memories while clearly showing the same adult individuals from the reference photos. Ultra-photorealistic nostalgic photography, childhood-memory aesthetic, joyful couple portrait, 35mm film, emotional storytelling, 8K detail, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "227",
-    "title": "Retro 90s Couple Snapshot",
-    "category": "Couples",
-    "subcategory": "Retro & Creative",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/227.jpeg",
-    "promptText": "Transform the provided reference photos of both people into an authentic nostalgic 1990s-style couple snapshot while preserving their exact identities and recognizable facial characteristics. Maintain their original facial structures, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive personal features. Place the couple together in a realistic retro urban setting such as a colorful arcade, roadside diner, music store, or neighborhood street. Show them laughing naturally and interacting like a genuine candid photograph from the 1990s. Dress them in tasteful period-inspired casual fashion including denim, relaxed shirts, vintage sneakers, and subtle accessories without using recognizable brand logos. Recreate authentic disposable-camera and 35mm film characteristics with imperfect exposure, subtle flash, realistic grain, slight color shifts, soft focus, natural imperfections, and nostalgic analog texture. Preserve realistic skin detail and consistent identity. The final image should feel like an actual photograph found in an old family album rather than a modern digital recreation. Photorealistic 90s nostalgia, retro couple photography, disposable camera aesthetic, authentic film grain, candid romance, joyful memory, 3:4 composition.",
     "trending": true
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": "1010",
+    "title": "1980s Sunday Kitchen Family Memory",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1010.jpeg",
+    "promptText": "Use the uploaded reference photos of the people. Preserve each person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. A fictional Indian family of three in an ordinary 1980s home kitchen: two adult parents and their school-age daughter, fully clothed in modest casual period-appropriate cotton outfits. The father prepares tea beside a kettle, the mother sits with the daughter at a wooden breakfast table smiling toward the camera, all three faces clearly visible. Steel cups, a plate of toast, pale patterned curtains and warm sunlight, candid intimate family-album photography, vertical composition showing everyone from the waist up, soft colour-negative film grain, natural expressions and ordinary home details. No readable text or modern appliances. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "580",
     "title": "Generations Heritage Scrapbook",
     "category": "Family",

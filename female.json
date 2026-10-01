@@ -1,5 +1,14 @@
 [
   {
+    "id": "1008",
+    "title": "1980s College Library Saree Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1008.jpeg",
+    "promptText": "Use the uploaded reference photo. Preserve the person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. An adult Indian woman in a nostalgic 1980s college library, wearing a muted sky-blue cotton sari with a narrow navy border, modest navy blouse, small silver earrings and loosely braided hair. She holds two worn hardcover books against her waist and glances toward the camera with a quiet smile. Tall wooden bookshelves and a sunlit window behind her; book spines have indistinct unreadable marks. Three-quarter portrait, warm side light, authentic colour-negative film grain, gentle halation, faded blues and honey tones, natural skin texture and believable hands. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "81",
     "title": "Luxury Floral Fashion Portrait",
     "category": "Female",

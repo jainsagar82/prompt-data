@@ -1,5 +1,14 @@
 [
   {
+    "id": "1012",
+    "title": "Designer Figurine on a Creative Desk",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1012.jpeg",
+    "promptText": "Use the uploaded reference photo. Preserve the person's recognizable facial identity, age, skin tone and natural facial features, translating those features into the sculpted miniature without substituting a different character. A premium miniature collectible vinyl figurine depicting a fictional adult Indian woman with shoulder-length dark hair, wearing a mustard overshirt, ivory T-shirt, dark jeans and white sneakers, standing on a clear round acrylic base on a tidy creative desk. The figurine is unmistakably a physical sculpted toy with softly stylised proportions and subtly satin-painted surfaces. Beside it sits a plain unbranded cream display box with a small pictorial silhouette and no letters; blurred notebook, desk lamp and potted plant in the background. Photorealistic macro product photograph, entire figurine and base visible, shallow depth of field, warm studio side light, convincing miniature scale, no logos or text. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "476",
     "title": "0.5x Ultra-Wide Party Flash",
     "category": "Social Media",

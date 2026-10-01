@@ -1,5 +1,14 @@
 [
   {
+    "id": "1009",
+    "title": "1980s Roadside Chai and Motorcycle Portrait",
+    "category": "Male",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1009.jpeg",
+    "promptText": "Use the uploaded reference photo. Preserve the person's recognizable facial identity, age, skin tone and natural facial features, without beauty smoothing or face replacement. An adult Indian man standing beside an unbranded vintage black motorcycle at a small roadside tea stall in 1980s India, wearing a faded olive shirt with rolled sleeves and dark high-waisted trousers. He casually holds a small earthen chai cup in one hand, the other hand rests on the motorcycle seat. Soft morning sunlight through steam from a kettle, weathered wooden bench and blurred quiet street behind him. Three-quarter portrait, relaxed expression, true-to-life hands, authentic 35mm film grain, muted earthy colours, gentle warm highlights, no modern screens or readable signs. Output one vertical image in exact 3:4 aspect ratio. Keep hands and anatomy believable. No captions, logos, watermarks, extra fingers or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "61",
     "title": "Luxury Sports Car Lifestyle Portrait",
     "category": "Male",
