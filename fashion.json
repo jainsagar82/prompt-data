@@ -1,5 +1,14 @@
 [
   {
+    "id": "1013",
+    "title": "White-Shirt Pastel Saree Pujo Street Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1013.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian woman wearing a pastel peach handloom sari draped neatly over a modest oversized white cotton shirt with rolled sleeves, a slim tan belt securing the pleats and an understated oxidised-silver choker. She stands in a relaxed confident pose on a Kolkata heritage lane dressed with festive marigold strings, one hand gently holding the pallu, the other relaxed by her side. Full-length editorial photo with plain ivory flats visible, early-evening warm light, softly blurred colonial facades and amber lamps, crisp natural skin and visible cotton weave. Modern respectful Pujo fusion styling, no legible signs. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
     "id": "4",
     "title": "Luxury Black-Tie Fashion Editorial",
     "category": "Fashion",

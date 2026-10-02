@@ -1,5 +1,50 @@
 [
   {
+    "id": "1017",
+    "title": "Ivory Pujo Couple by the Hooghly",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1017.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the exact identities and recognizable facial characteristics of both adults. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian couple standing together by the Hooghly River at soft golden morning light, the woman in an elegant ivory cotton sari with a delicate gold border and modest ivory blouse, the man in an ivory kurta with a pale gold stole and traditional trousers. Understated gold jewellery, natural makeup and relaxed warm smiles as they look toward each other; their hands rest naturally together without complex gestures. Full-length premium candid portrait with both feet visible on a riverside promenade, Howrah Bridge softly blurred far behind them, a few marigold decorations subtly suggesting Pujo, gentle breeze in the sari pallu, realistic skin and handwoven fabric. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
+    "id": "1016",
+    "title": "Rust-Waistcoat Traditional Garba Clap",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1016.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian man in an ivory cotton kurta and comfortable traditional ivory trousers, a rust-coloured embroidered waistcoat and understated brown traditional shoes. He is captured mid-step in a graceful garba clap, hands held naturally in front of his chest, shoulders relaxed and a joyful genuine smile. Full-length vertical photo showing both feet and hands, festive open-air courtyard with warm string lights and a softly blurred circular group of dancers, low-angle golden ambient light balanced by gentle direct flash, authentic skin and embroidered textile detail, subtle photographic grain, lively respectful Navratri atmosphere. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
+    "id": "1015",
+    "title": "Bandhani Wrap-Kurti Garba Evening",
+    "category": "Festivals",
+    "subcategory": "Navratri",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1015.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian woman in a raspberry-and-indigo bandhani wrap-style kurti over a flowing ivory skirt, modest neckline, oxidised silver earrings and stacked bangles, wearing flat embroidered shoes. She performs a graceful traditional garba clap step, hands held near chest height with correct anatomy, smiling warmly. Full-length photo with both feet and all fingers comfortably inside the frame, lively community courtyard under marigold arches and warm fairy lights, dancers as soft colourful background bokeh, tasteful direct flash freezes her face and outfit while the skirt hem shows slight natural motion, premium candid festival photography. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
+    "id": "1014",
+    "title": "Peter-Pan Collar Puja Saree Portrait",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1014.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian woman wearing a deep maroon handloom sari with a narrow ivory border and a modest fitted ivory blouse with a rounded Peter-Pan collar and short sleeves. Small gold earrings, a tiny red bindi, softly tied hair and barely-there makeup with visible natural skin texture. She holds the edge of her sari gently at waist level, looking toward the camera with a warm smile. Three-quarter portrait in a charming Bengali courtyard with red-and-ivory festive decorations, golden soft window light and leafy shadow patterns, subtly vintage editorial mood and realistic textile texture. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
+    "id": "1013",
+    "title": "White-Shirt Pastel Saree Pujo Street Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1013.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian woman wearing a pastel peach handloom sari draped neatly over a modest oversized white cotton shirt with rolled sleeves, a slim tan belt securing the pleats and an understated oxidised-silver choker. She stands in a relaxed confident pose on a Kolkata heritage lane dressed with festive marigold strings, one hand gently holding the pallu, the other relaxed by her side. Full-length editorial photo with plain ivory flats visible, early-evening warm light, softly blurred colonial facades and amber lamps, crisp natural skin and visible cotton weave. Modern respectful Pujo fusion styling, no legible signs. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
     "id": "1012",
     "title": "Designer Figurine on a Creative Desk",
     "category": "Social Media",
@@ -852,51 +897,6 @@
     "subcategory": "Vintage & Retro",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/744.jpeg",
     "promptText": "Transform the provided reference photo into a vibrant 1980s retro boardwalk action portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject glides playfully along the Venice Beach boardwalk on classic four-wheel quad roller skates with pink wheels during a vivid California sunset. Dressed in authentic 1980s high-waisted denim shorts, pastel striped ringer tee, over-ear yellow foam headphones, and tube socks. Warm Pacific sunset sunbeams bathe the scene in glowing amber, reflecting off palm trees and pastel beachfront murals in the background. Captured on a 35mm vintage prime lens, slight motion blur in the background, sharp facial focus, and authentic 1980s analog film grain. Vibrant retro summer aesthetic, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "725",
-    "title": "1970s Studio 54 Disco Mirrorball",
-    "category": "Female",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/725.jpeg",
-    "promptText": "Transform the provided reference photo into an authentic 1970s disco-glamour photograph while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive personal features. The subject laughs candidly on a crowded Studio 54 dancefloor beneath a massive spinning mirrorball that casts hundreds of dancing golden light speckles across the scene. Dressed in a shimmering metallic-gold halter jumpsuit with wide flared legs and platform heels. Captured with an 85mm vintage prime lens, starburst optical filters on specular reflections, authentic Kodak Kodachrome warm color balance, subtle film halation around nightclub lights, and realistic 35mm grain. Joyful nostalgic vintage fashion aesthetic, authentic skin texture, realistic hands, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "580",
-    "title": "Generations Heritage Scrapbook",
-    "category": "Family",
-    "subcategory": "Scrapbook & Collage",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/580.jpeg",
-    "promptText": "Transform the provided reference photo into an heirloom-style family memory journal page while preserving the exact facial characteristics, age details, natural skin tones, and recognizable expressions of all family members. Construct a warm multi-photo layout featuring candid moments: a sunny backyard picnic, cozy kitchen cooking, living room laughter, and a golden afternoon park stroll. Integrate layered kraft paper backing, stitched linen threads, pressed wild botanicals, vintage photo mounting corners, and soft textured paper grain. Warm nostalgic ambient light, authentic color reproduction, natural smiles, crisp eye focus, tactile tactile scrapbooking depth, 8K resolution, and zero facial distortion. 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "943",
-    "title": "Banarasi Couture Flash Editorial",
-    "category": "Fashion",
-    "subcategory": "Ethnic & Traditional",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/943.jpeg",
-    "promptText": "Transform the provided adult reference photo into a high-fashion Banarasi couture editorial while preserving the subject's exact identity and recognizable facial characteristics. Preserve face shape, eyes, eyebrows, nose, lips, jawline, natural skin tone, hair, age, and body proportions. Dress the subject in a modern sculptural Banarasi brocade ensemble in ruby and antique gold, styled modestly and elegantly. Place the subject against a dark stone arcade and use crisp direct flash with controlled background falloff. Compose as a strict 3:4 vertical full-length fashion portrait with a strong editorial pose. Render fine textile detail, realistic skin, natural hands, and accurate anatomy. No celebrity likeness, identity change, text, logo, watermark, plastic skin, or distorted fabric.",
-    "trending": true
-  },
-  {
-    "id": "246",
-    "title": "Couple as Magazine Cover",
-    "category": "Couples",
-    "subcategory": "Cinematic & Editorial",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/246.jpeg",
-    "promptText": "Transform the provided reference photos of both people into a premium international fashion-magazine cover photograph while preserving the exact identity and recognizable facial characteristics of both individuals. Maintain their original facial structures, face shapes, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, age-defining characteristics, and distinctive personal features. Create a sophisticated couple portrait in a luxury editorial studio environment with dramatic architectural styling and controlled cinematic lighting. Position the couple naturally together with confident expressions and subtle affectionate interaction. Dress them in high-fashion contemporary outfits with elegant tailoring, premium textures, refined accessories, and coordinated styling. Use professional editorial lighting, strong but realistic shadows, controlled highlights, natural skin texture, authentic facial detail, and shallow depth of field. Include a clean magazine-style composition with intentional negative space around the subjects, but avoid excessive readable text or fake logos. Capture with an 85mm lens and premium full-frame photography characteristics. The result should look like a real international fashion magazine cover photograph rather than a digitally generated image. Ultra-photorealistic fashion editorial, luxury couple photography, magazine cover aesthetic, premium lighting, sophisticated styling, 8K detail, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "232",
-    "title": "Mirror Selfie Couple Editorial",
-    "category": "Couples",
-    "subcategory": "Cinematic & Editorial",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/232.jpeg",
-    "promptText": "Transform the provided reference photos of both people into a premium editorial-style mirror selfie photograph while preserving the exact identity and recognizable facial characteristics of both individuals. Maintain their original facial structures, face shapes, eyes, eyebrows, noses, lips, jawlines, cheekbones, hairstyles, facial hair where present, natural skin tones, and distinctive features. Create a stylish couple mirror-selfie moment inside a sophisticated modern interior with beautiful architecture and natural lighting. Both individuals should remain clearly recognizable and physically realistic. Show them standing naturally together, with relaxed expressions and subtle playful interaction. Dress them in coordinated contemporary fashion with premium streetwear-inspired styling and tasteful accessories. Use a large clean mirror with realistic reflections, accurate perspective, physically consistent lighting, subtle fingerprints and natural imperfections on the mirror surface, and realistic smartphone positioning without visible branding. Preserve accurate hands and fingers, natural body proportions, authentic facial texture, and realistic reflection behavior. Capture the scene like a high-end social-media editorial photograph rather than a generic selfie. Ultra-photorealistic couple mirror photography, premium social-media aesthetic, modern fashion, realistic reflection, natural expressions, 8K detail, 3:4 composition.",
     "trending": true
   }
 ]

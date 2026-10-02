@@ -1,5 +1,14 @@
 [
   {
+    "id": "1014",
+    "title": "Peter-Pan Collar Puja Saree Portrait",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1014.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian woman wearing a deep maroon handloom sari with a narrow ivory border and a modest fitted ivory blouse with a rounded Peter-Pan collar and short sleeves. Small gold earrings, a tiny red bindi, softly tied hair and barely-there makeup with visible natural skin texture. She holds the edge of her sari gently at waist level, looking toward the camera with a warm smile. Three-quarter portrait in a charming Bengali courtyard with red-and-ivory festive decorations, golden soft window light and leafy shadow patterns, subtly vintage editorial mood and realistic textile texture. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
     "id": "1008",
     "title": "1980s College Library Saree Portrait",
     "category": "Female",

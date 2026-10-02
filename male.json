@@ -1,5 +1,14 @@
 [
   {
+    "id": "1016",
+    "title": "Rust-Waistcoat Traditional Garba Clap",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1016.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian man in an ivory cotton kurta and comfortable traditional ivory trousers, a rust-coloured embroidered waistcoat and understated brown traditional shoes. He is captured mid-step in a graceful garba clap, hands held naturally in front of his chest, shoulders relaxed and a joyful genuine smile. Full-length vertical photo showing both feet and hands, festive open-air courtyard with warm string lights and a softly blurred circular group of dancers, low-angle golden ambient light balanced by gentle direct flash, authentic skin and embroidered textile detail, subtle photographic grain, lively respectful Navratri atmosphere. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
     "id": "1009",
     "title": "1980s Roadside Chai and Motorcycle Portrait",
     "category": "Male",

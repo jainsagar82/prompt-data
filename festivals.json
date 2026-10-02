@@ -1,5 +1,14 @@
 [
   {
+    "id": "1015",
+    "title": "Bandhani Wrap-Kurti Garba Evening",
+    "category": "Festivals",
+    "subcategory": "Navratri",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1015.jpeg",
+    "promptText": "Transform the uploaded reference photo into this portrait while preserving the person's exact identity and recognizable facial characteristics. Maintain original facial structure, natural skin tone, age, distinctive features and body proportions. Do not replace or merge faces, change ages or apply artificial beauty smoothing. An adult Indian woman in a raspberry-and-indigo bandhani wrap-style kurti over a flowing ivory skirt, modest neckline, oxidised silver earrings and stacked bangles, wearing flat embroidered shoes. She performs a graceful traditional garba clap step, hands held near chest height with correct anatomy, smiling warmly. Full-length photo with both feet and all fingers comfortably inside the frame, lively community courtyard under marigold arches and warm fairy lights, dancers as soft colourful background bokeh, tasteful direct flash freezes her face and outfit while the skirt hem shows slight natural motion, premium candid festival photography. Create one strict 3:4 vertical portrait, with no cropped heads, hands or feet in full-length compositions. Render hands, fingers and fabric accurately. Culturally respectful, no duplicate limbs, no celebrity imitation, no readable text, logos or watermarks.",
+    "trending": true
+  },
+  {
     "id": "306",
     "title": "Golden Diya Warmth",
     "category": "Festivals",
