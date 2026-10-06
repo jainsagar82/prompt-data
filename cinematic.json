@@ -1,32 +1,5 @@
 [
   {
-    "id": "1023",
-    "title": "1970s Delhi Railway Platform Portrait",
-    "category": "Cinematic",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1023.jpg",
-    "promptText": "Transform the uploaded reference photo into a candid 1970s Indian railway portrait while preserving the person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the person's original body proportions; do not replace, merge, beautify or redesign the face. Dress the adult subject in modest period-accurate Indian travel clothing: a mustard cotton sari with a rust blouse, or a cream collared shirt with high-waisted dark trousers, chosen to suit the person. Place them beside a vintage suitcase on a Delhi railway platform in 1976, with a blue passenger train, old iron bench and softly blurred station clock behind them. Use authentic 1970s Indian family-album photography, muted ochre and teal color, imperfect warm film exposure, gentle 35mm grain and subtle analog softness. Keep the face and both hands clear, with natural posture and realistic skin and fabric. Create one strict vertical 3:4 portrait with comfortable margins. No readable signs or numbers, text, logos, watermark, collage, modern objects or celebrity likeness; no extra fingers or limbs.",
-    "trending": true
-  },
-  {
-    "id": "1024",
-    "title": "1970s Neighbourhood Newspaper Kiosk",
-    "category": "Cinematic",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1024.jpg",
-    "promptText": "Transform the uploaded adult reference photo into a nostalgic 1970s Indian neighborhood portrait while preserving the person's exact recognizable identity, facial structure, eyes, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep original body proportions; do not replace, merge or beautify the face. Style the subject in period-accurate everyday clothing, such as a tucked cream cotton shirt and high-waisted dark trousers or a simple printed cotton kurta, chosen to suit the person. Place them beside a small weathered wood-and-glass newspaper kiosk on a leafy Indian lane, with a classic bicycle and old paper bundles softly out of focus. Any newspaper print must remain completely unreadable. Capture the scene like a candid 1974 color-negative family photograph with sun-filtered afternoon light, muted warm colors, gentle analog grain and slightly imperfect exposure. Show the face and hands naturally, waist-up to three-quarter framing. Output a strict vertical 3:4 portrait. No legible text, logos, watermark, collage, modern objects, celebrity likeness or distorted anatomy.",
-    "trending": true
-  },
-  {
-    "id": "1025",
-    "title": "1970s Indian Optical Shop Snapshot",
-    "category": "Cinematic",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1025.jpg",
-    "promptText": "Transform the uploaded adult reference photo into a 1970s Indian optical-shop portrait while preserving the person's exact identity and recognizable facial features, including facial structure, eyes, nose, lips, jawline, natural skin tone, age, hairline and distinctive characteristics. Keep the person's natural body proportions and do not change or replace their face. Dress them in a modest period-accurate printed cotton kurta or simple collared shirt suited to their gender presentation. Place them inside a small neighborhood spectacles shop with rows of vintage frames on the wall; the subject gently tries on round tortoiseshell glasses with one hand and gives a thoughtful, amused smile. Compose directly on the subject's face; mirrors may show only soft indistinct room shapes and must not duplicate faces. Use warm tungsten light mixed with storefront daylight, faded teal and amber tones, subtle 1975 film grain and analog color fade. Render realistic skin, fingers and shop fixtures. Create one strict vertical 3:4 portrait. No readable signage, text, logos, watermark, collage, modern objects, celebrity likeness, duplicate faces or extra limbs.",
-    "trending": true
-  },
-  {
     "id": "1021",
     "title": "1980s Festive Dressing-Table Memory",
     "category": "Cinematic",
