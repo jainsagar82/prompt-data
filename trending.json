@@ -1,5 +1,50 @@
 [
   {
+    "id": "1023",
+    "title": "1970s Delhi Railway Platform Portrait",
+    "category": "Cinematic",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1023.jpg",
+    "promptText": "Transform the uploaded reference photo into a candid 1970s Indian railway portrait while preserving the person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the person's original body proportions; do not replace, merge, beautify or redesign the face. Dress the adult subject in modest period-accurate Indian travel clothing: a mustard cotton sari with a rust blouse, or a cream collared shirt with high-waisted dark trousers, chosen to suit the person. Place them beside a vintage suitcase on a Delhi railway platform in 1976, with a blue passenger train, old iron bench and softly blurred station clock behind them. Use authentic 1970s Indian family-album photography, muted ochre and teal color, imperfect warm film exposure, gentle 35mm grain and subtle analog softness. Keep the face and both hands clear, with natural posture and realistic skin and fabric. Create one strict vertical 3:4 portrait with comfortable margins. No readable signs or numbers, text, logos, watermark, collage, modern objects or celebrity likeness; no extra fingers or limbs.",
+    "trending": true
+  },
+  {
+    "id": "1024",
+    "title": "1970s Neighbourhood Newspaper Kiosk",
+    "category": "Cinematic",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1024.jpg",
+    "promptText": "Transform the uploaded adult reference photo into a nostalgic 1970s Indian neighborhood portrait while preserving the person's exact recognizable identity, facial structure, eyes, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep original body proportions; do not replace, merge or beautify the face. Style the subject in period-accurate everyday clothing, such as a tucked cream cotton shirt and high-waisted dark trousers or a simple printed cotton kurta, chosen to suit the person. Place them beside a small weathered wood-and-glass newspaper kiosk on a leafy Indian lane, with a classic bicycle and old paper bundles softly out of focus. Any newspaper print must remain completely unreadable. Capture the scene like a candid 1974 color-negative family photograph with sun-filtered afternoon light, muted warm colors, gentle analog grain and slightly imperfect exposure. Show the face and hands naturally, waist-up to three-quarter framing. Output a strict vertical 3:4 portrait. No legible text, logos, watermark, collage, modern objects, celebrity likeness or distorted anatomy.",
+    "trending": true
+  },
+  {
+    "id": "1025",
+    "title": "1970s Indian Optical Shop Snapshot",
+    "category": "Cinematic",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1025.jpg",
+    "promptText": "Transform the uploaded adult reference photo into a 1970s Indian optical-shop portrait while preserving the person's exact identity and recognizable facial features, including facial structure, eyes, nose, lips, jawline, natural skin tone, age, hairline and distinctive characteristics. Keep the person's natural body proportions and do not change or replace their face. Dress them in a modest period-accurate printed cotton kurta or simple collared shirt suited to their gender presentation. Place them inside a small neighborhood spectacles shop with rows of vintage frames on the wall; the subject gently tries on round tortoiseshell glasses with one hand and gives a thoughtful, amused smile. Compose directly on the subject's face; mirrors may show only soft indistinct room shapes and must not duplicate faces. Use warm tungsten light mixed with storefront daylight, faded teal and amber tones, subtle 1975 film grain and analog color fade. Render realistic skin, fingers and shop fixtures. Create one strict vertical 3:4 portrait. No readable signage, text, logos, watermark, collage, modern objects, celebrity likeness, duplicate faces or extra limbs.",
+    "trending": true
+  },
+  {
+    "id": "1026",
+    "title": "Indigo Garba Look with Embroidered Denim",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1026.jpg",
+    "promptText": "Transform the uploaded adult reference photo into a contemporary Navratri fashion portrait while preserving the person's exact identity and recognizable facial characteristics, natural skin tone, age, hairline and body proportions. Do not replace, merge, redesign or artificially smooth the face. Style the subject in a tasteful indigo chaniya choli with restrained mirror embroidery and a cropped hand-embroidered denim jacket, a current Gujarati festive fusion look; use modest, wearable styling and silver jhumkas. Place them in a sandstone garba courtyard at dusk, paused between dances, holding one pair of wooden dandiya sticks separately and naturally at their side. Warm string lights and distant dancers form soft bokeh without obscuring the outfit. Make the denim and embroidery clearly visible, with realistic skin and hands, a confident candid expression and graceful posture. Premium Indian editorial photography with warm evening light and subtle natural motion in the background. Create one strict vertical 3:4 portrait. No text, logos, watermark, collage, celebrity likeness, extra people in foreground, extra sticks, fingers or limbs.",
+    "trending": true
+  },
+  {
+    "id": "1027",
+    "title": "Minimal Jewel-Tone Navratri Co-Ord Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1027.jpg",
+    "promptText": "Transform the uploaded adult reference photo into an elegant contemporary Navratri portrait while preserving the person's exact recognizable identity, facial structure, natural skin tone, age, hairline, distinctive features and body proportions. Do not replace or redesign the face. Dress the subject in a modern coordinated lehenga set with a minimal silhouette: a deep-plum skirt, jewel-toned modest blouse, short matching jacket and delicate gold trim, with understated handcrafted silver earrings. Set the portrait beneath a simple marigold arch at a garba venue, with warm amber lights and a softly blurred festive crowd. The subject smiles naturally and holds one pair of wooden dandiya sticks, one in each hand, clearly separated and anatomically correct. Use balanced editorial flash and golden ambient light to show the fabric texture and natural skin. Keep the styling refined and wearable, the face clear, and the pose relaxed. Output one strict vertical 3:4 portrait with safe framing. No readable text, logos, watermark, collage, celebrity likeness, duplicate sticks, extra fingers or limbs.",
+    "trending": true
+  },
+  {
     "id": "1022",
     "title": "Family Garba-Ready Veranda",
     "category": "Family",
@@ -852,51 +897,6 @@
     "subcategory": "Vintage & Retro",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/67.jpg",
     "promptText": "Transform the provided reference photo into a fictional retro Indian cinema hero poster while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Preserve the person's exact facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, and distinctive features. Do not replace or redesign the face. Dress the subject in a stylish vintage-inspired Indian cinematic outfit consisting of a cream open-collar shirt, tailored dark trousers, leather belt, classic watch, and polished shoes. Place the subject in a dramatic vintage cinema-inspired environment featuring an old city street, classic architecture, warm practical lights, subtle haze, vintage vehicles, and rich atmospheric depth. Create a charismatic confident pose with a natural expression inspired by classic Indian film photography without copying any specific actor or movie character. Use warm tungsten lighting, strong controlled shadows, subtle red and amber highlights, analog film grain, slight lens softness, and realistic period photographic texture. Add a completely fictional movie title and minimal fictional credits using tasteful retro typography, avoiding any real movie or studio branding. The final result should look like a professionally designed poster for an original fictional 1970s-inspired Indian film. Ultra-photorealistic retro Indian cinema aesthetic, vintage hero portrait, cinematic storytelling, authentic identity, analog film character, warm lighting, realistic skin, detailed clothing, 8K quality, no real actor resemblance, no real movie title, no real logo, no identity change, no facial distortion, no cartoon appearance, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "450",
-    "title": "1990s VHS Camcorder Motel Room",
-    "category": "Cinematic",
-    "subcategory": "Vintage Cinema",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/450.jpeg",
-    "promptText": "Transform the provided reference photo into an authentic 1990s indie-grunge film still while strictly maintaining the person's facial identity, facial proportions, eyes, nose, lips, and skin texture. The subject sits on the edge of an unmade motel bed beneath the buzzing red neon glow of a roadside sign outside the window. A glowing CRT television set on a wooden dresser casts cool cathode-ray scanline light across the room. Dressed in oversized 90s vintage flannel and worn band tee. Captured with subtle vintage 16mm/VHS camera optical characteristics, soft chromatic aberration, gentle analog tape halation, and rich shadow detail while maintaining sharp, authentic facial features. Nostalgic 90s cinema grade with muted green, neon red, and natural skin tones, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "448",
-    "title": "1980s Neon Drive-In Movie",
-    "category": "Cinematic",
-    "subcategory": "Vintage Cinema",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/448.jpeg",
-    "promptText": "Transform the provided reference photo into an atmospheric 1980s retro-cinema movie still while precisely retaining the person's facial features, bone structure, eyes, nose, lips, and natural skin tone. The subject sits on the hood of a classic 1980s sports car at an outdoor drive-in movie theater on a warm summer night. In the background, a massive glowing cinema screen illuminates the humid night air, surrounded by classic cars and retro neon concession-stand lights. Dressed in an authentic 1980s denim jacket with rolled sleeves. Captured on a 50mm vintage prime lens, soft optical halation around neon practicals, shallow depth of field, and crisp facial focus. Saturated 1980s Fuji color grading with neon magenta, electric cyan, warm amber, and authentic 35mm film grain, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "183",
-    "title": "Little Indian Festive Baby",
-    "category": "Cute Baby",
-    "subcategory": "Festive & Celebrations",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/183.jpeg",
-    "promptText": "Transform the provided reference photo into a joyful photorealistic Indian festive baby portrait while preserving the baby's exact identity and recognizable facial characteristics. Maintain the original face shape, eyes, eyebrows, nose, lips, cheeks, skin tone, hair, eyelashes, and distinctive features without modification. Dress the baby in a premium traditional Indian outfit using rich but tasteful colors such as cream, muted gold, and soft maroon, with delicate embroidery and comfortable baby-safe fabric. Create a beautiful festive home environment with subtle marigold flowers, warm brass accents, soft fabric textures, and gentle decorative lights in the background. Keep all decorations safely away from the baby's face and hands. Give the baby a joyful natural smile and curious eyes. Use warm window light combined with subtle festive ambient lighting. Capture authentic baby skin texture, tiny fingers, soft hair, realistic clothing folds, delicate eyelashes, and natural age-appropriate proportions. Follow baby-led positioning appropriate for 1 to 10 months. Use an 85mm professional lens around f/2.0, precise eye focus, cinematic bokeh, realistic color grading, subtle film grain, and premium Indian family photography. The final image should feel culturally warm, elegant, joyful, and genuine. Ultra-photorealistic Indian baby photography, festive portrait, traditional clothing, warm family atmosphere, authentic skin texture, cinematic lighting, premium photography, 8K detail, no identity change, no cartoon appearance, no unrealistic anatomy, 16:9 composition.",
-    "trending": true
-  },
-  {
-    "id": "835",
-    "title": "Vintage Mumbai Black & Yellow Padmini Taxi",
-    "category": "Male",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/835.jpeg",
-    "promptText": "Transform the provided reference photo into a stylish retro Mumbai cinema portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. The subject leans casually against the chrome front fender of an iconic vintage black-and-yellow Premier Padmini taxi parked on a heritage street in South Bombay (Fort / Ballard Estate) in late afternoon. Dressed in retro-inspired casual tailoring: a mustard-yellow camp-collar shirt, tailored brown trousers, leather belt, and vintage gold-rim aviator sunglasses. Behind the car, colonial-era heritage stone buildings and leafy banyan trees create an atmospheric backdrop. Warm golden-hour sunlight bounces off the car's polished yellow roof, illuminating the subject's face with warm, flattering side-lighting. Captured on a 50mm vintage lens, authentic Kodak Portra color grading, subtle film grain, sharp facial details, and creamy street bokeh. Iconic retro Bombay nostalgia aesthetic, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "906",
-    "title": "Rainy Car Window Reflection in Chiffon Dupatta",
-    "category": "Female",
-    "subcategory": "Urban & Cinematic",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/906.jpeg",
-    "promptText": "Transform the provided reference photo into an intimate cinematic monsoon movie frame while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject sits in the passenger seat of a car during a heavy Mumbai rainstorm at night, leaning her forehead lightly against the rain-streaked glass window. Water droplets run down the glass, reflecting blurred red taillights and yellow streetlamps. Dressed in a soft pastel-mauve georgette kurta with a delicate chiffon dupatta resting over her shoulder. The subject holds a pensive, nostalgic, gentle expression as she gazes outside. Warm dashboard illumination and cool neon street reflections sculpt her face with cinematic dual-tone lighting. Captured on an 85mm f/1.4 lens, shallow depth of field, razor-sharp focus on her eyes through the glass, and creamy colored rain bokeh. Moody Indian cinema still, authentic skin texture, 8K detail, no identity change, 3:4 composition.",
     "trending": true
   }
 ]
