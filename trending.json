@@ -1,5 +1,50 @@
 [
   {
+    "id": "1022",
+    "title": "Family Garba-Ready Veranda",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving the exact identities of all people separately: facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Do not merge faces, swap identities or change body proportions. Use a reference photo containing the same number of people described. A joyful Indian family of three, two adult parents and their school-age daughter, getting ready for garba on a warmly lit home veranda. Mother in a coral and cream bandhani chaniya choli gently adjusting the daughter's dupatta at the shoulder; daughter in a turquoise modest traditional outfit with a delighted smile; father in an ivory cotton kurta holding three separate pairs of wooden dandiya sticks in a small woven tray. All three faces visible, natural affectionate body language, string lights and a decorative garba pot in the background, medium-full portrait, authentic hands and fabric, documentary family photography with warm flattering light. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1022.jpg"
+  },
+  {
+    "id": "1021",
+    "title": "1980s Festive Dressing-Table Memory",
+    "category": "Cinematic",
+    "subcategory": "Movie Moments",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving every person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the original body proportions; do not redesign or beautify the face. An adult Indian woman getting ready for a festive evening in a nostalgic 1980s home. She wears a bottle-green silk saree with an antique-gold border and understated gold earrings, seated beside a wooden dressing table with a small jewellery box and jasmine flowers. Compose a direct three-quarter portrait of her face, not a reflected face; the oval mirror shows only soft room shapes. Warm tungsten lamp, faded floral curtain and old radio in background, candid peaceful smile, realistic skin pores, 35mm analogue film grain, restrained halation, muted warm colours, period-accurate Indian cinema still, waist-up framing. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1021.jpg"
+  },
+  {
+    "id": "1020",
+    "title": "Marigold Arch Garba Couple Candid",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving the exact identities of all people separately: facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Do not merge faces, swap identities or change body proportions. Use a reference photo containing the same number of people described. An adult Indian couple sharing a spontaneous laugh while walking beneath a marigold entrance arch at a garba celebration. Woman in a deep plum handwoven chaniya choli with a mustard dupatta and tasteful silver jewellery; man in an off-white embroidered kediyu and charcoal trousers. Each holds their own pair of dandiya sticks naturally at their side, no crossed hands. Warm lantern light and blurred festive crowd, mid-thigh-up candid portrait, both faces equally clear, believable individual features, detailed woven textiles, direct-flash editorial photography with subtle background motion, joyful authentic atmosphere. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1020.jpg"
+  },
+  {
+    "id": "1019",
+    "title": "Black Kutch Jacket Dandiya Portrait",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving every person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the original body proportions; do not redesign or beautify the face. An adult Indian man wearing a black cotton kurta and a short richly embroidered Kutch jacket with colourful geometric needlework and subtle mirrors, ivory trousers, holding two decorated wooden dandiya sticks separately at waist height. He stands at the entrance of a festive Ahmedabad garba ground beneath warm hanging lanterns, confident relaxed expression. Medium-full portrait, face and textile embroidery sharply focused, softly blurred dancers behind him, realistic skin texture, cinematic amber and deep teal colour, premium 85mm fashion photography. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1019.jpg"
+  },
+  {
+    "id": "1018",
+    "title": "Ajrakh and Silver Garba Courtyard",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving every person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the original body proportions; do not redesign or beautify the face. An adult Indian woman in an indigo-and-rust Ajrakh-print chaniya choli with restrained tiny mirror accents, an indigo dupatta, handcrafted oxidised-silver layered necklace and jhumkas. She stands in a sandstone courtyard beside a softly glowing traditional garba pot, looking toward the camera with a relaxed smile, her hands gently holding the dupatta. Evening fairy-light bokeh, elegant textile detail, warm flattering key light, natural skin texture, medium-full portrait with both hands visible, premium 85mm editorial photography. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1018.jpg"
+  },
+  {
     "id": "1017",
     "title": "Ivory Pujo Couple by the Hooghly",
     "category": "Couples",
@@ -852,51 +897,6 @@
     "subcategory": "Urban & Cinematic",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/906.jpeg",
     "promptText": "Transform the provided reference photo into an intimate cinematic monsoon movie frame while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. The subject sits in the passenger seat of a car during a heavy Mumbai rainstorm at night, leaning her forehead lightly against the rain-streaked glass window. Water droplets run down the glass, reflecting blurred red taillights and yellow streetlamps. Dressed in a soft pastel-mauve georgette kurta with a delicate chiffon dupatta resting over her shoulder. The subject holds a pensive, nostalgic, gentle expression as she gazes outside. Warm dashboard illumination and cool neon street reflections sculpt her face with cinematic dual-tone lighting. Captured on an 85mm f/1.4 lens, shallow depth of field, razor-sharp focus on her eyes through the glass, and creamy colored rain bokeh. Moody Indian cinema still, authentic skin texture, 8K detail, no identity change, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "945",
-    "title": "Y2K Digicam Rooftop Photo Dump",
-    "category": "Social Media",
-    "subcategory": "Streetwear & Y2K",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/945.jpeg",
-    "promptText": "Transform the provided adult reference photo into a playful Y2K digicam rooftop candid while preserving the subject's exact identity, facial features, natural skin tone, hair, age, and body proportions. Style the subject in a metallic jacket and relaxed denim, holding a compact digital camera toward the viewer on a city rooftop at twilight. Use direct on-camera flash, colorful city bokeh, slightly imperfect snapshot energy, and realistic early-digital-camera texture. Compose as a strict 3:4 vertical knee-up portrait with a natural playful expression. Keep hands, camera grip, clothing, and anatomy accurate. No brand marks, readable text, logo, watermark, celebrity likeness, identity change, face distortion, or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "99",
-    "title": "Indian Festive Diya Portrait",
-    "category": "Female",
-    "subcategory": "Ethnic & Traditional",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/99.jpg",
-    "promptText": "Transform the provided reference photo into a premium cinematic Indian festive portrait while preserving the exact identity and recognizable facial characteristics of the adult woman in the reference image. Use the uploaded reference as the ONLY source for identity and face. Preserve her exact facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, age-defining characteristics, and distinctive features. Do not replace, redesign, beautify, age, de-age, or alter identity. Dress the woman in an elegant contemporary festive saree in rich jewel tones such as emerald, ruby, sapphire, or deep plum, paired with a refined blouse, delicate traditional jewelry, subtle bangles, and tasteful earrings. Place her in a beautifully decorated home courtyard featuring rows of glowing diyas, subtle floral decorations, warm architectural details, delicate string lights, and soft festive atmosphere. Create a graceful joyful pose while she gently holds a small decorated diya. Use warm golden lighting from the lamps combined with soft ambient evening illumination, realistic reflections on jewelry, natural skin tones, detailed textile fibers, and atmospheric depth. Capture with an 85mm lens, sharp facial detail, realistic eyes, natural hands, authentic fabric folds, and subtle cinematic bokeh. Keep the styling premium and modern rather than excessively ornate. The final image should feel warm, celebratory, culturally beautiful, and perfect for social media. Ultra-photorealistic Indian festive photography, elegant saree portrait, cinematic diya lighting, realistic identity, premium fashion editorial, joyful atmosphere, 8K detail, no identity change, no facial distortion, no excessive jewelry, no plastic skin, no cartoon appearance, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "932",
-    "title": "Lo-Fi Metro Platform Flash Portrait",
-    "category": "Male",
-    "subcategory": "Urban & Cinematic",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/932.jpeg",
-    "promptText": "Transform the provided reference photo into a lo-fi late-night metro-platform flash portrait while preserving the exact identity and recognizable facial characteristics of the adult man in the reference image. Maintain his original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, hairline, hairstyle-defining characteristics, facial hair, and distinctive personal features. He must remain unmistakably the same person. Do not replace, redesign, beautify, age, de-age, or alter his natural body proportions. Dress him in a charcoal overshirt, plain dark T-shirt, faded straight-leg denim, simple sneakers, and wired headphones resting around his neck. Place him on a modern Indian metro platform after rain, with reflective flooring, fluorescent ceiling lights, a softly streaked arriving train, and very few distant commuters blurred into the background. Pose him naturally while holding a plain paper coffee cup, with a relaxed introspective gaze and accurate hands and fingers. Combine cool station ambience with a crisp direct-flash look, slight background motion blur, subtle digital noise, and authentic 35mm-meets-digicam character. Preserve real skin texture, fabric wear, shoe detail, and believable reflections. Compose a strict 3:4 vertical full-to-three-quarter portrait at eye level with generous safe margins and no cropped head or hands. No readable station text, no brand marks, no celebrity imitation, no plastic skin, no logo, no watermark, strict 3:4 portrait composition.",
-    "trending": true
-  },
-  {
-    "id": "715",
-    "title": "1920s Peaky Newsboy Cap Cobblestone Alley",
-    "category": "Male",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/715.jpeg",
-    "promptText": "Transform the provided reference photo into a gritty 1920s historical gangster portrait while preserving the exact identity and recognizable facial characteristics of the person in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, beard or facial hair, natural skin tone, age-defining characteristics, and distinctive personal features. The person must remain clearly recognizable as the same individual. The subject stands in a damp, narrow industrial brick alleyway in 1920s Birmingham. Wearing a tailored heavy tweed three-piece suit, wool overcoat, pocket-watch chain hooked across the waistcoat, and an authentic wool newsboy flat cap tilted forward. Industrial factory smoke drifts from background chimneys. The subject maintains a hard, unflinching, calculated stare into the lens. Soft overcast English daylight creates gritty, detailed shadows and reveals authentic skin pores and facial hair. Captured on a 50mm vintage lens, desaturated muted color grading with dark charcoal, rust, and natural skin tones. Iconic period drama aesthetic, 8K detail, no plastic skin, 3:4 composition.",
-    "trending": true
-  },
-  {
-    "id": "744",
-    "title": "1980s Roller Skating Boardwalk Sunset",
-    "category": "Female",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/744.jpeg",
-    "promptText": "Transform the provided reference photo into a vibrant 1980s retro boardwalk action portrait while preserving the exact identity and recognizable facial characteristics of the woman in the reference image. Maintain original facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheekbones, hairstyle, natural skin tone, and distinctive features. The subject glides playfully along the Venice Beach boardwalk on classic four-wheel quad roller skates with pink wheels during a vivid California sunset. Dressed in authentic 1980s high-waisted denim shorts, pastel striped ringer tee, over-ear yellow foam headphones, and tube socks. Warm Pacific sunset sunbeams bathe the scene in glowing amber, reflecting off palm trees and pastel beachfront murals in the background. Captured on a 35mm vintage prime lens, slight motion blur in the background, sharp facial focus, and authentic 1980s analog film grain. Vibrant retro summer aesthetic, 8K detail, no identity change, 3:4 composition.",
     "trending": true
   }
 ]

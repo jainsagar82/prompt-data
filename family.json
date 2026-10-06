@@ -1,5 +1,14 @@
 [
   {
+    "id": "1022",
+    "title": "Family Garba-Ready Veranda",
+    "category": "Family",
+    "subcategory": "Home & Cozy",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving the exact identities of all people separately: facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Do not merge faces, swap identities or change body proportions. Use a reference photo containing the same number of people described. A joyful Indian family of three, two adult parents and their school-age daughter, getting ready for garba on a warmly lit home veranda. Mother in a coral and cream bandhani chaniya choli gently adjusting the daughter's dupatta at the shoulder; daughter in a turquoise modest traditional outfit with a delighted smile; father in an ivory cotton kurta holding three separate pairs of wooden dandiya sticks in a small woven tray. All three faces visible, natural affectionate body language, string lights and a decorative garba pot in the background, medium-full portrait, authentic hands and fabric, documentary family photography with warm flattering light. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1022.jpg"
+  },
+  {
     "id": "1010",
     "title": "1980s Sunday Kitchen Family Memory",
     "category": "Family",

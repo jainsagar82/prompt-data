@@ -1,5 +1,14 @@
 [
   {
+    "id": "1021",
+    "title": "1980s Festive Dressing-Table Memory",
+    "category": "Cinematic",
+    "subcategory": "Movie Moments",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving every person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the original body proportions; do not redesign or beautify the face. An adult Indian woman getting ready for a festive evening in a nostalgic 1980s home. She wears a bottle-green silk saree with an antique-gold border and understated gold earrings, seated beside a wooden dressing table with a small jewellery box and jasmine flowers. Compose a direct three-quarter portrait of her face, not a reflected face; the oval mirror shows only soft room shapes. Warm tungsten lamp, faded floral curtain and old radio in background, candid peaceful smile, realistic skin pores, 35mm analogue film grain, restrained halation, muted warm colours, period-accurate Indian cinema still, waist-up framing. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1021.jpg"
+  },
+  {
     "id": "376",
     "title": "Midnight Train Station Farewell",
     "category": "Cinematic",

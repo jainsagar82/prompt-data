@@ -1,5 +1,14 @@
 [
   {
+    "id": "1018",
+    "title": "Ajrakh and Silver Garba Courtyard",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "promptText": "Transform the uploaded reference photo into this scene while preserving every person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, age, hairline and distinctive features. Keep the original body proportions; do not redesign or beautify the face. An adult Indian woman in an indigo-and-rust Ajrakh-print chaniya choli with restrained tiny mirror accents, an indigo dupatta, handcrafted oxidised-silver layered necklace and jhumkas. She stands in a sandstone courtyard beside a softly glowing traditional garba pot, looking toward the camera with a relaxed smile, her hands gently holding the dupatta. Evening fairy-light bokeh, elegant textile detail, warm flattering key light, natural skin texture, medium-full portrait with both hands visible, premium 85mm editorial photography. Output a vertical 3:4 image, realistic anatomy and fingers, no duplicate people or limbs, no text, logo, watermark or collage.",
+    "trending": true,
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-06/1018.jpg"
+  },
+  {
     "id": "1014",
     "title": "Peter-Pan Collar Puja Saree Portrait",
     "category": "Female",
