@@ -1,5 +1,23 @@
 [
   {
+    "id": "1026",
+    "title": "Indigo Garba Look with Embroidered Denim",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1026.jpg",
+    "promptText": "Transform the uploaded adult reference photo into a contemporary Navratri fashion portrait while preserving the person's exact identity and recognizable facial characteristics, natural skin tone, age, hairline and body proportions. Do not replace, merge, redesign or artificially smooth the face. Style the subject in a tasteful indigo chaniya choli with restrained mirror embroidery and a cropped hand-embroidered denim jacket, a current Gujarati festive fusion look; use modest, wearable styling and silver jhumkas. Place them in a sandstone garba courtyard at dusk, paused between dances, holding one pair of wooden dandiya sticks separately and naturally at their side. Warm string lights and distant dancers form soft bokeh without obscuring the outfit. Make the denim and embroidery clearly visible, with realistic skin and hands, a confident candid expression and graceful posture. Premium Indian editorial photography with warm evening light and subtle natural motion in the background. Create one strict vertical 3:4 portrait. No text, logos, watermark, collage, celebrity likeness, extra people in foreground, extra sticks, fingers or limbs.",
+    "trending": true
+  },
+  {
+    "id": "1027",
+    "title": "Minimal Jewel-Tone Navratri Co-Ord Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-07/1027.jpg",
+    "promptText": "Transform the uploaded adult reference photo into an elegant contemporary Navratri portrait while preserving the person's exact recognizable identity, facial structure, natural skin tone, age, hairline, distinctive features and body proportions. Do not replace or redesign the face. Dress the subject in a modern coordinated lehenga set with a minimal silhouette: a deep-plum skirt, jewel-toned modest blouse, short matching jacket and delicate gold trim, with understated handcrafted silver earrings. Set the portrait beneath a simple marigold arch at a garba venue, with warm amber lights and a softly blurred festive crowd. The subject smiles naturally and holds one pair of wooden dandiya sticks, one in each hand, clearly separated and anatomically correct. Use balanced editorial flash and golden ambient light to show the fabric texture and natural skin. Keep the styling refined and wearable, the face clear, and the pose relaxed. Output one strict vertical 3:4 portrait with safe framing. No readable text, logos, watermark, collage, celebrity likeness, duplicate sticks, extra fingers or limbs.",
+    "trending": true
+  },
+  {
     "id": "1013",
     "title": "White-Shirt Pastel Saree Pujo Street Portrait",
     "category": "Fashion",
