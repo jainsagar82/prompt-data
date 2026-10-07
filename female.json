@@ -1,5 +1,14 @@
 [
   {
+    "id": "1029",
+    "title": "1970s Tailoring-Class Film Portrait",
+    "category": "Female",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-08/1029.jpg",
+    "promptText": "Transform the uploaded adult reference photo into the scene below. Preserve the person's exact recognizable identity, facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, apparent age, hairline, distinctive features and body proportions. Do not change ethnicity, beautify facial geometry, substitute a face or smooth away real skin texture. One adult Indian woman in a small 1975 home tailoring class, seated at a worn wooden table beside an unbranded black mechanical sewing machine. She wears a modest moss-green printed cotton kurta, a rust dupatta and simple stud earrings. She pauses while laying a floral fabric panel flat beside the machine, looking toward the camera with a proud gentle smile; her hands rest safely away from the sewing needle. Paper pattern pieces and folded cotton fabrics, a painted mint wall and a softly blurred window in the background. Nostalgic ordinary Indian color-negative photo, warm side-window light, restrained fading and authentic 35mm film grain, realistic skin, cotton weave and machine geometry, 50mm lens, waist-up environmental portrait with both hands and sewing machine visible. Preserve believable anatomy and fabric drape, five fingers on each visible hand, separated objects, realistic depth of field and a sharp recognizable face. Deliver one production-quality photorealistic portrait in exact 3:4 aspect ratio, with generous safe margins and detailed high-resolution textures. No captions, readable writing, branding, logos, watermarks, collage, duplicated people, extra limbs or distorted hands.",
+    "trending": true
+  },
+  {
     "id": "1018",
     "title": "Ajrakh and Silver Garba Courtyard",
     "category": "Female",
