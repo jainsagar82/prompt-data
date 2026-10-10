@@ -1,5 +1,14 @@
 [
   {
+    "id": "1076",
+    "title": "Clay-Diya Artisan Courtyard Portrait",
+    "category": "Festivals",
+    "subcategory": "Traditional Festivals",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-11/1076.jpg",
+    "promptText": "Transform the uploaded adult reference photo into the scene below. Use the reference as the sole source of the person's identity. Preserve facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, apparent age, hairline, distinctive features and original body proportions. Do not change ethnicity, beautify facial geometry, substitute a face or smooth away real skin texture. An adult woman clay artisan in a sunlit Indian courtyard during the festive craft season, wearing a rust cotton sari with an indigo border and a modest blouse. She sits at a low table arranging three fully dried unlit clay diyas in a neat row, hands separate and face unobstructed, with a proud gentle expression. Clay pots, natural pigments and woven baskets in soft focus. Warm side light, rust, indigo and earthen palette, three-quarter documentary portrait. Use a natural 50mm full-frame lens perspective with realistic depth of field and sharply focused expressive eyes. Preserve natural skin pores, believable fabric drape, accurate anatomy, five fingers on each visible hand and physically separate props. Deliver one high-resolution production-quality photorealistic portrait in exact 3:4 aspect ratio with safe margins. No captions, readable writing, logos, brands, watermark, frame, collage, extra limbs, distorted hands or duplicated people.",
+    "trending": true
+  },
+  {
     "id": "1042",
     "title": "Garba Mojari Workshop Selection",
     "category": "Festivals",
