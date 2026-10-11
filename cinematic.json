@@ -1,5 +1,23 @@
 [
   {
+    "id": "1109",
+    "title": "Black-Birdcage Halloween Salon Portrait",
+    "category": "Cinematic",
+    "subcategory": "Noir & Mystery",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-12/1109.jpg",
+    "promptText": "Transform the uploaded adult reference photo into an elegant rather than gory Halloween salon portrait while preserving the person’s exact recognizable identity, facial anatomy, skin tone, age, hair, body proportions, and expression. Style them in a charcoal tailored suit with a deep-plum silk blouse or shirt, pointed boots, and a single antique-style ring. Place them in a dark refined room beside a tall black birdcage holding pillar candles only, with white and sage pumpkins, seasonal branches, and a two-headed-snake-inspired abstract mirror shape rendered as an original decorative motif. Pose seated sideways in a velvet chair, one hand on the armrest and direct composed eye contact. Use an 85mm lens, candlelike warm key light, cool window edge, realistic fabric and skin, rich plum-charcoal-sage grade, controlled shadows, and cinematic editorial detail. No live animal, gore, copyrighted character, text, logos, watermark, altered face, extra fingers, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "1098",
+    "title": "Brahmacharini-Inspired Quiet Courtyard",
+    "category": "Cinematic",
+    "subcategory": "Emotional Stories",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-12/1098.jpg",
+    "promptText": "Transform the uploaded adult reference photo into a minimalist Navratri Day-2 visual story inspired by the values of focus, simplicity, and perseverance, without portraying or impersonating a deity. Preserve the person’s exact recognizable face, skin tone, age, hair, body proportions, and natural expression. Dress them in a plain unembellished white handloom wrap or kurta set with bare feet and no ornate jewelry. Place them walking slowly through a clean limewashed courtyard at first light, carrying a small neutral clay water vessel in one hand while a simple meditation mat and jasmine vine sit in the background. Capture a quiet full-body side-three-quarter stride with accurate hands and feet, eyes softly forward. Use a 35mm environmental lens, diffused dawn light, long gentle shadows, tactile plaster and cotton, realistic skin texture, restrained white-stone-sage palette, subtle film grain, and human documentary realism. No divine attributes, religious impersonation, halo, celebrity likeness, text, logo, watermark, identity change, malformed anatomy, or fantasy effects. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
     "id": "1075",
     "title": "1970s Cinema Projection-Booth Portrait",
     "category": "Cinematic",
