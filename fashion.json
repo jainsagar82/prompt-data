@@ -646,5 +646,41 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1002.jpeg",
     "promptText": "Use the uploaded reference photo to create this portrait. Preserve the person's recognizable facial identity, age, skin tone, facial proportions and natural features; do not replace the face or apply beauty smoothing. An adult Indian woman wearing an indigo denim jacket with hand-embroidered Kutch patches over a modest ivory blouse and a flowing saffron mirrorwork chaniya skirt, oxidised silver earrings and bangles, no dupatta. She smiles while holding a pair of wooden dandiya sticks loosely at waist height, standing in a warmly lit Ahmedabad garba courtyard; softly blurred marigold strings and dancing guests behind her. Three-quarter length composition with skirt texture visible, crisp expressive face, realistic textile detail, amber string-light bokeh and subtle cool night fill. Output one photorealistic vertical image in exact 3:4 aspect ratio. Keep anatomy and hands realistic, with no extra fingers, duplicate people, captions, logos or watermarks.",
     "trending": true
+  },
+  {
+    "id": "1128",
+    "title": "Fashion-Week Set-Painter Color Test",
+    "category": "Fashion",
+    "subcategory": "Avant-Garde & Creative",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-13/1128.jpg",
+    "promptText": "Transform the uploaded adult reference photo into an original Indian fashion-week set-building portrait while preserving the person’s exact recognizable identity, facial structure, eyes, brows, nose, lips, jawline, natural skin tone, apparent age, hairline, hairstyle, body proportions, and authentic expression. Style the person in a ruby utility overshirt over a black fitted base, wide tailored trousers, protective low boots, and a clean canvas apron. Place them inside a large pre-show venue painting one abstract curved set panel in ruby and clay tones, with blank lighting trusses, fabric swatches, and unfinished platforms behind. Direct a three-quarter standing pose holding one paint roller safely at rest beside the panel, with accurate hands and no wet paint on skin. Photograph with a 50mm lens at f/2.8, high clerestory daylight, warm work lamps, realistic canvas, paint, fabric and skin texture, ruby-clay-charcoal grading, controlled highlights, natural depth, and premium documentary-editorial realism. No copied runway set, brand marks, readable text, logo, watermark, extra limbs, malformed fingers, altered face, or plastic skin. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "1131",
+    "title": "Bronze-Patola City-Veranda Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-13/1131.jpg",
+    "promptText": "Transform the uploaded adult reference photo into bronze-patola city-veranda portrait while preserving the person’s exact recognizable identity, facial structure, eyes, brows, nose, lips, jawline, natural skin tone, apparent age, hairline, hairstyle, body proportions, and authentic expression. Style the person in a bronze-gold kurti with deep-purple trousers and an original Patola-inspired dupatta, tasteful jeweled choker. Place them in a shaded heritage city veranda with geometric tiles and bougainvillea. Direct three-quarter walking pose, one hand holding the dupatta edge and the other relaxed. Photograph with 70mm at f/2.5, filtered afternoon light, bronze-purple-green grade; preserve realistic skin pores, accurate anatomy, believable hands, authentic fabric and material texture, controlled highlights, natural depth, and premium photorealistic editorial finish. The creative angle is bohemian-traditional styling with an original textile pattern. Keep the scene culturally respectful and wholly original. No celebrity resemblance, copied creator composition, brand marks, readable text, logo, watermark, extra limbs, malformed fingers, altered face, plastic skin, or excessive retouching. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "1134",
+    "title": "Tomato-Red Teal Transit Clash",
+    "category": "Fashion",
+    "subcategory": "Streetwear",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-13/1134.jpg",
+    "promptText": "Transform the uploaded adult reference photo into tomato-red teal transit clash while preserving the person’s exact recognizable identity, facial structure, eyes, brows, nose, lips, jawline, natural skin tone, apparent age, hairline, hairstyle, body proportions, and authentic expression. Style the person in a tomato-red oversized coat over a teal knit and graphite wide-leg trousers with white sneakers. Place them in a modern North American light-rail platform after rain. Direct full-length walking pose carrying an unbranded folded umbrella, natural stride. Photograph with 50mm at f/2.8, overcast daylight, wet-surface reflections, red-teal-graphite grade; preserve realistic skin pores, accurate anatomy, believable hands, authentic fabric and material texture, controlled highlights, natural depth, and premium photorealistic editorial finish. The creative angle is bold Fall 2026 color clash in a realistic commuter setting. Keep the scene culturally respectful and wholly original. No celebrity resemblance, copied creator composition, brand marks, readable text, logo, watermark, extra limbs, malformed fingers, altered face, plastic skin, or excessive retouching. Exact 3:4 vertical composition.",
+    "trending": true
+  },
+  {
+    "id": "1138",
+    "title": "Plum-Velvet Sculpture-Gallery Portrait",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-13/1138.jpg",
+    "promptText": "Transform the uploaded adult reference photo into plum-velvet sculpture-gallery portrait while preserving the person’s exact recognizable identity, facial structure, eyes, brows, nose, lips, jawline, natural skin tone, apparent age, hairline, hairstyle, body proportions, and authentic expression. Style the person in a sculptural plum velvet suit with an asymmetric lapel, ivory shell top and minimal earrings. Place them in a white contemporary sculpture gallery with curved plaster forms. Direct three-quarter editorial pose beside a plinth, one hand in pocket and one relaxed. Photograph with 85mm at f/2.5, large softbox effect, gentle floor bounce, plum-ivory grade; preserve realistic skin pores, accurate anatomy, believable hands, authentic fabric and material texture, controlled highlights, natural depth, and premium photorealistic editorial finish. The creative angle is original tactile Fall 2026 tailoring without copied runway styling. Keep the scene culturally respectful and wholly original. No celebrity resemblance, copied creator composition, brand marks, readable text, logo, watermark, extra limbs, malformed fingers, altered face, plastic skin, or excessive retouching. Exact 3:4 vertical composition.",
+    "trending": true
   }
 ]

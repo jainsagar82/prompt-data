@@ -655,5 +655,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/optimized-images/1005.jpeg",
     "promptText": "Use the uploaded reference photos of the two people to create this portrait. Preserve each person's recognizable facial identity, age, skin tone, facial proportions and natural features; do not replace the face or apply beauty smoothing. An adult Indian couple sharing a dark umbrella outside an old single-screen cinema on a rainy evening, posed in a candid romantic moment. The woman wears a mustard sari with a burgundy border and classic gold earrings; the man wears a cream shirt with rolled sleeves and dark high-waisted trousers. Both faces visible, gentle smiles, wet pavement reflecting warm marquee bulbs, cinema posters indistinct and unreadable. Medium three-quarter portrait, authentic 1980s Indian film-still feel, warm tungsten highlights, muted teal shadows, subtle 35mm film grain and halation, real skin texture. Output one photorealistic vertical image in exact 3:4 aspect ratio. Keep anatomy and hands realistic, with no extra fingers, duplicate people, captions, logos or watermarks.",
     "trending": true
+  },
+  {
+    "id": "1127",
+    "title": "Red Bandhani Garba-Arrival Couple",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-13/1127.jpg",
+    "promptText": "Transform the uploaded adult reference photo into red bandhani garba-arrival couple while preserving the person’s exact recognizable identity, facial structure, eyes, brows, nose, lips, jawline, natural skin tone, apparent age, hairline, hairstyle, body proportions, and authentic expression. Style the person in coordinated red Bandhani festive outfits: an elegant lehenga set and a tailored kediyu-kurta with ivory accents. Place them in the entrance of an open-air Garba venue beneath fabric pennants and warm festoon lights. Direct exactly two adults walking together, each carrying one dandiya stick at rest, affectionate glance. Photograph with 50mm at f/2.8, blue-hour ambience, warm face fill, red-indigo-amber grade; preserve realistic skin pores, accurate anatomy, believable hands, authentic fabric and material texture, controlled highlights, natural depth, and premium photorealistic editorial finish. The creative angle is a poised arrival moment rather than another dance-circle scene. Keep the scene culturally respectful and wholly original. No celebrity resemblance, copied creator composition, brand marks, readable text, logo, watermark, extra limbs, malformed fingers, altered face, plastic skin, or excessive retouching. Exact 3:4 vertical composition.",
+    "trending": true
   }
 ]
