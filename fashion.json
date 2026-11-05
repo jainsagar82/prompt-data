@@ -1330,5 +1330,32 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-05/1592.jpg",
     "promptText": "Transform the uploaded adult reference photograph into \"Scarf-Belt Knit Concrete Sun-Circle\". Use the uploaded photo as the sole identity reference. Preserve each person's recognizable facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups include exactly the referenced adults with separate correct identities and face-to-body pairing. Clothing, environment and pose: adult woman in grey knit top and navy wide trousers with a plain red triangle scarf tied as a belt beside concrete sun-circle sculpture. Relaxed shoulders, believable hands resting naturally at waist or on the nearby surface, face turned toward camera, all faces clear and sharp. Lighting and color grade: soft editorial daylight, grey navy red and pale stone, coherent shadows, controlled highlights, restrained contrast and accurate skin tones. Eye-level 50mm lens at f/3.5 with three-quarter environmental framing, exact 3:4 portrait composition with safe crop margins and realistic depth separation. Adapt garment fit without reshaping the person. High-resolution photographic editorial realism, visible natural pores, detailed textile weave and convincing materials. No identity alteration, celebrity likeness, copied creator composition, extra people, extra limbs, malformed hands, readable text, logos, watermark, collage or plastic skin.",
     "trending": true
+  },
+  {
+    "id": "1599",
+    "title": "Ruby Pleats in the Projection Room",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-06/1599.jpg",
+    "promptText": "Transform the uploaded reference photo into “Ruby Pleats in the Projection Room.” Preserve each person's recognizable identity, facial proportions, eyes, nose, lips, jaw, complexion, hairline, age and distinctive features. Keep each reference person paired with their own body; do not add people or change natural proportions. Stage the portrait as follows: Indian woman in ruby pre-draped sari and fitted opaque ivory blouse in a projection room with abstract soft gold light circles on the wall. Fit garments naturally and keep the pose relaxed, with clear faces and plausible hands. Lighting and grade: warm projector glow with broad soft fill; preserve skin hue and roll off highlights gently. Use a 50mm lens at f/3.5 with environmental three-quarter framing; compose in exact vertical 3:4 with space around heads and hands. Deliver high-resolution photographic realism, fine textile detail, natural pores, coherent shadows and believable depth. No readable text, logos, watermark, beauty-filter smoothing, extra fingers, invented faces or copied creator composition.",
+    "trending": true
+  },
+  {
+    "id": "1603",
+    "title": "Sculptural Heel at the Crosswalk",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-06/1603.jpg",
+    "promptText": "Transform the uploaded reference photo into “Sculptural Heel at the Crosswalk.” Preserve each person's recognizable identity, facial proportions, eyes, nose, lips, jaw, complexion, hairline, age and distinctive features. Keep each reference person paired with their own body; do not add people or change natural proportions. Stage the portrait as follows: woman in charcoal tailoring and architectural black heels paused by a striped crosswalk on an empty street, full body shoes visible. Fit garments naturally and keep the pose relaxed, with clear faces and plausible hands. Lighting and grade: crisp soft-cloud daylight, neutral graphite grade; preserve skin hue and roll off highlights gently. Use a 50mm lens at f/3.5 with environmental three-quarter framing; compose in exact vertical 3:4 with space around heads and hands. Deliver high-resolution photographic realism, fine textile detail, natural pores, coherent shadows and believable depth. No readable text, logos, watermark, beauty-filter smoothing, extra fingers, invented faces or copied creator composition.",
+    "trending": false
+  },
+  {
+    "id": "1609",
+    "title": "Tall Black Boots on the Library Ramp",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-06/1609.jpg",
+    "promptText": "Transform the uploaded reference photo into “Tall Black Boots on the Library Ramp.” Preserve each person's recognizable identity, facial proportions, eyes, nose, lips, jaw, complexion, hairline, age and distinctive features. Keep each reference person paired with their own body; do not add people or change natural proportions. Stage the portrait as follows: woman in a light grey midi dress and tall black heeled boots descending a wide pale concrete library ramp, full length. Fit garments naturally and keep the pose relaxed, with clear faces and plausible hands. Lighting and grade: cool window shafts and soft facial bounce; preserve skin hue and roll off highlights gently. Use a 70mm lens at f/4.5 with full-length framing; compose in exact vertical 3:4 with space around heads and hands. Deliver high-resolution photographic realism, fine textile detail, natural pores, coherent shadows and believable depth. No readable text, logos, watermark, beauty-filter smoothing, extra fingers, invented faces or copied creator composition.",
+    "trending": false
   }
 ]
