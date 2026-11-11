@@ -952,8 +952,7 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/929.jpeg",
     "promptText": "Transform the provided reference photo into a joyful Navratri toddler portrait while preserving the exact identity and recognizable facial characteristics of the child in the reference image. Maintain the child's original face shape, eyes, eyebrows, nose, lips, cheeks, natural skin tone, age, hairline, hair texture, and distinctive features. The child must remain unmistakably the same person. Do not change age, gender presentation, facial proportions, body shape, or natural expression. Dress the toddler in a comfortable miniature indigo-and-red mirrorwork kediyu outfit with soft traditional shoes and child-safe fabric details. Place the child on a secure cushioned mat inside a warmly decorated home courtyard with marigold garlands, tiny fairy lights, brass decor kept safely in the background, and soft festive bokeh. Show the toddler standing or balancing naturally while holding two lightweight decorative dandiya sticks, with a delighted candid smile and accurate hands, fingers, feet, and posture. Use soft warm diffused light, realistic catchlights, gentle background separation, and premium baby-photography clarity. Preserve natural baby skin texture, fine hair, realistic clothing folds, and age-appropriate proportions without excessive smoothing or adult styling. Compose a strict 3:4 vertical full-body portrait at the child's eye level with generous margins around the head, sticks, and feet. Safe and age-appropriate, no makeup, no unsafe flame, no adult body proportions, no facial distortion, no text, no logo, no watermark, strict 3:4 portrait composition.",
     "trending": true
-  }
-,
+  },
   {
     "id": "939",
     "title": "Little Festive Lantern Portrait",
@@ -972,7 +971,6 @@
     "promptText": "Transform the provided child reference photo into a clean one-year floral milestone portrait while preserving the child's exact identity, facial features, natural skin tone, hair, age, and proportions. Dress the child in a pale sage romper and seat them securely on a soft cream rug beside low arrangements of blush and ivory flowers and a simple wooden number-one shape. Use a bright neutral studio background, soft daylight, realistic skin and fabric, and a natural cheerful expression. Compose as a strict 3:4 vertical full seated portrait. Keep the setup age-appropriate and safe, with accurate fingers, toes, teeth, and limbs. No glass, candles, adult styling, text, logo, watermark, identity change, or distorted anatomy.",
     "trending": false
   },
-
   {
     "id": "1113",
     "title": "Berry First Birthday Picnic",
@@ -1062,6 +1060,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-10-11/1122.jpg",
     "promptText": "Use the uploaded child reference photo to create a royal storybook studio portrait, seated on a low padded lavender chair with a pastel castle backdrop, comfortable rose pink party dress with modest lined bodice, lightweight fabric crown, no jewelry or makeup, cheerful confident smile, soft luminous studio light. This theme is designed for a child around 5 years old, within ages 1 to 5. Preserve the reference child's exact recognizable facial identity, eyes, nose, lips, cheeks, natural skin tone, hair texture, gender presentation, actual age, and body proportions; never age or de-age the child to fit the theme. Adapt clothing and positioning comfortably to the reference child. Photograph at the child's eye level with an 85mm portrait lens, sharp eyes, realistic skin texture, natural hands and fingers, authentic fabric detail, soft background bokeh, premium professional family photography. Use comfortable age-appropriate positioning and soft large props. Strict 3:4 vertical portrait, full subject comfortably inside the frame. No text, logos, watermarks, beauty filters, plastic skin, adult styling, distorted anatomy, unsafe poses, small loose objects, or identity changes.",
     "trending": false
+  },
+  {
+    "id": "1716",
+    "title": "Children's-Day Young-Inventor Showcase",
+    "category": "Cute Baby",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-12/1716.jpg",
+    "promptText": "Transform the uploaded reference photograph into “Children's-Day Young-Inventor Showcase”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: a bright classroom craft table prepared for Children's Day, with a small handmade windmill model and unbranded colored paper. Clothing: a neat navy-and-white school-inspired outfit without insignia for the child and a muted rose cardigan for the guardian. Pose and action: the school-age child proudly presenting the model while the guardian stands close in support, both faces visible. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with broad soft classroom daylight, coherent shadows and controlled highlights. Apply a refined editorial color grade in navy, white, rose and playful primary accents while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm at f/5.6, eye-level perspective, environmental portrait framing and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
+    "trending": true
   }
-
 ]
