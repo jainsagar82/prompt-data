@@ -1,5 +1,185 @@
 [
   {
+    "id": "1963",
+    "title": "Dancing Robot Sangeet Welcome",
+    "category": "Wedding",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1963.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style the couple in an emerald-and-magenta embroidered lehenga and ivory bandhgala, walking arm-in-arm between two elegant non-branded humanoid welcome robots at a contemporary sangeet entrance; jewel-tone LED accents, warm key light, joyful full-length pose, 50mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1964",
+    "title": "Farsi Lehenga Courtyard Bride",
+    "category": "Wedding",
+    "subcategory": "Bridal",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1964.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style her in a rosewood-and-gold Farsi lehenga with a sculptural trail and sheer embroidered dupatta, posed three-quarter in a carved sandstone courtyard; late-afternoon side light, full-length framing, 85mm lens, warm terracotta grade. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1965",
+    "title": "Men’s Gold Ear-Stack Sherwani",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1965.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style him in a deep-wine zardozi sherwani with a tasteful stack of small gold ear pieces, adjusting one cuff in a carved-wood dressing room; soft window key and restrained rim light, mid-length framing, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1966",
+    "title": "Backhand Mehendi Detail Creator",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1966.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress her in a muted saffron anarkali and delicate jewellery, raising one accurately rendered hand near her cheek to showcase intricate backhand henna; marigold-blur studio, soft beauty-dish light, 100mm macro portrait look. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1967",
+    "title": "Juda Hairstyle Saree Portrait",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1967.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Create a polished low juda with fresh jasmine and a fine gold pin, paired with a midnight-blue silk saree; side three-quarter pose in a heritage-hotel corridor, soft directional window light, 85mm lens, rich blue-and-gold grade. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1968",
+    "title": "Jewel-Tone Cousins Portrait",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1968.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Coordinate five adult cousins in distinct wedding outfits of emerald, ruby, sapphire and antique gold; arrange a close relaxed group pose on a palace staircase under warm chandeliers, balanced vertical framing, 50mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1969",
+    "title": "Udaipur Terrace Pre-Wedding",
+    "category": "Couples",
+    "subcategory": "Travel & Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1969.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress one partner in a powder-blue embroidered lehenga and the other in a cream tailored achkan, holding hands on a carved Udaipur palace terrace above a lake; peach sunrise light, distant domes, airy full-length framing, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1970",
+    "title": "Regional Handloom Guest GRWM",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1970.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a regional handloom silk saree with a contemporary structured blouse and minimal jewellery; pose naturally at a brass dressing table holding a phone with no visible screen content, warm window light plus soft fill, mirror-aware 50mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1971",
+    "title": "Kaanch Chudiyan Stack Portrait",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1971.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress her in an understated silk kurta and stack translucent kaanch chudiyan in ruby, emerald and amber, crossing both accurately rendered wrists near her face on a sunlit veranda; crisp jewellery focus, soft background, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1972",
+    "title": "Bengali Kolka Reception Bride",
+    "category": "Wedding",
+    "subcategory": "Bridal",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1972.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style an ivory-and-crimson silk saree, heirloom gold jewellery and refined white-and-red kolka forehead artistry; frontal half-length pose in an old Kolkata mansion, diffused window light, warm cream-and-vermilion grade, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1973",
+    "title": "Thanksgiving Who-Brings-What Host",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1973.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a rust knit top and dark apron, presenting a blank clipboard beside an abundant Thanksgiving potluck table with no readable labels; welcoming open-hand pose, modern kitchen, soft autumn window light and amber practicals, 50mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1974",
+    "title": "Friendsgiving Animated-Doodle Group",
+    "category": "Family",
+    "subcategory": "Milestones & Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1974.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Gather four adult friends closely around a harvest table in cranberry, cream and burgundy knits, laughing naturally; add only subtle star-and-heart doodle shapes as small warm light projections, candlelit ambience, 35mm environmental framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1975",
+    "title": "Thanksgiving Parade Window Portrait",
+    "category": "Social Media",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1975.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a camel sweater and relaxed trousers, seated by a tall apartment window and turning from a softly blurred Thanksgiving parade avenue toward camera; keep distant balloons generic and unbranded, natural morning light, intimate 50mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1976",
+    "title": "90s Holiday Denim Portrait",
+    "category": "Fashion",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1976.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style straight-leg dark denim, a burgundy turtleneck and vintage plaid overshirt, leaning casually in a wood-panelled room with colored string lights; controlled direct flash with warm ambient light, full-body 50mm framing, subtle authentic grain. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1977",
+    "title": "Leg-Warmer Ballet Street Style",
+    "category": "Fashion",
+    "subcategory": "Streetwear",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1977.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style charcoal leg warmers over slim boots, a soft ballet-inspired wrap cardigan and long wool skirt, captured mid-stride on a snowy city sidewalk; cool daylight with warm shop-window reflection, dynamic full-length 85mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1978",
+    "title": "Chunky Cable Sweater-Dress Portrait",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1978.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a chunky ivory cable-knit sweater dress with tall brown boots, posed confidently beneath city holiday lights at blue hour; warm bokeh against cool ambient light, full-length 85mm framing, precise knit texture. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1979",
+    "title": "Faux-Fur Collar Evening Portrait",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1979.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a chocolate wool coat with a dramatic tasteful faux-fur collar, posed over one shoulder outside a softly lit holiday venue in light snow; golden rim light and cool blue fill, mid-length 85mm cinematic framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1980",
+    "title": "Quarter-Zip Winter Café",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1980.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a forest-green quarter-zip knit over a white tee, seated casually by a café window with a plain ceramic mug; soft snow and warm street lights outside, natural side light, relaxed mid-length 50mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1981",
+    "title": "Black Friday Lip-Swatch Creator",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1981.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a sleek black top with silver accents and show three accurate unbranded lipstick swatches on one hand beside an uncluttered vanity; soft ring-light catchlights plus magenta edge light, crisp 85mm beauty framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1982",
+    "title": "In-Store Holiday Ambiance Portrait",
+    "category": "Social Media",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1982.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a camel coat and red scarf, carrying a tasteful unbranded gift box while browsing an elegant independent department store; candid mid-step pose among warm window displays, layered golden practicals, 50mm cinematic framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
     "id": "1913",
     "title": "Temple-Mandap Bridal Arrival",
     "category": "Wedding",
@@ -1167,186 +1347,6 @@
     "subcategory": "Aesthetic Lifestyle",
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-17/1832.jpg",
     "promptText": "Transform the uploaded reference photograph into “Snowy Map-and-Location Story”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: An adult traveler creates a map-and-location story moment at a snowy Canadian overlook, holding a folded blank trail map while a small pin-shaped metal charm hangs from an unbranded backpack. Clothing: a rust puffer over teal fleece, practical gloves and neutral winter trousers. Pose and action: stable standing pose with the blank map open at chest height, face fully visible above it. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with clear cold daylight with soft snow bounce, coherent shadows and controlled highlights. Apply a refined editorial color grade in rust, teal, snow blue and pine green while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame travel portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1793",
-    "title": "Usha-Arghya Dawn Water Offering",
-    "category": "Festivals",
-    "subcategory": "Traditional Festivals",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1793.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Usha-Arghya Dawn Water Offering”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A worshipper stands knee-deep at a calm riverside at sunrise, lifting a small brass lota so a thin stream of water catches the first light; woven fruit basket and sugarcane remain softly behind the subject. Clothing: a saffron and vermilion handwoven sari or traditional festive attire with a modest drape, subtle gold jewelry and a clean devotional forehead mark. Pose and action: serene three-quarter profile, elbows relaxed, both hands securely supporting the vessel, gaze directed toward the rising sun. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with warm sunrise backlight, soft reflected fill from the water and a delicate rim along the face and fabric, coherent shadows and controlled highlights. Apply a refined editorial color grade in saffron, copper, river blue and rose-gold while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 85mm full-frame portrait lens at eye level and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1794",
-    "title": "Chhath Parana Prasad Sharing",
-    "category": "Family",
-    "subcategory": "Home & Cozy",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1794.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Chhath Parana Prasad Sharing”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A family shares a post-fast prasad plate in a sunlit veranda, with thekua, fruit and brass cups arranged naturally on a floor mat; the moment feels intimate and documentary. Clothing: coordinated cream, turmeric and bottle-green Indian handloom clothing with restrained jewelry. Pose and action: seated close together, one adult offering a small piece of prasad while the others respond with warm natural expressions. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft morning window light with gentle veranda bounce and warm practical highlights, coherent shadows and controlled highlights. Apply a refined editorial color grade in cream, turmeric, leaf green and burnished brass while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame documentary lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1795",
-    "title": "Chhath Sunrise Reflection Couple",
-    "category": "Couples",
-    "subcategory": "Celebrations",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1795.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Chhath Sunrise Reflection Couple”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A couple stands together at a quiet river ghat after the sunrise offering, holding one woven offering basket between them as the water reflects the orange sky. Clothing: the man in an understated rust kurta with an ivory stole and the woman in a deep green sari with a warm red border and delicate traditional jewelry. Pose and action: shoulders lightly touching, basket held safely at waist height, both facing the camera with calm celebratory expressions. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with low sunrise backlight, luminous water bounce and soft facial fill, coherent shadows and controlled highlights. Apply a refined editorial color grade in rust, deep green, gold and peach while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 70mm full-frame portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1796",
-    "title": "Post-Chhath Basket-Wash Courtyard",
-    "category": "Male",
-    "subcategory": "Lifestyle & Travel",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1796.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Post-Chhath Basket-Wash Courtyard”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A man rinses a woven bamboo offering basket in a heritage courtyard after the festival, with water droplets frozen in motion and clean brass vessels nearby. Clothing: indigo kurta, rolled ivory pajama trousers and a textured maroon cotton gamcha over one shoulder. Pose and action: low balanced squat, one hand steadying the basket and the other pouring water, face turned clearly toward camera. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with fresh morning daylight through courtyard foliage with soft open shade on the face, coherent shadows and controlled highlights. Apply a refined editorial color grade in indigo, bamboo tan, terracotta and leafy green while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame environmental lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1797",
-    "title": "Tonal-Ivory Groom Belt Fitting",
-    "category": "Wedding",
-    "subcategory": "Groom",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1797.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Tonal-Ivory Groom Belt Fitting”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A groom completes a final fitting in a quiet tailoring suite, adjusting the waist of a tonal ivory sherwani while an unfinished matching jacket rests on a dress form. Clothing: tonal ivory raw-silk sherwani with subtle self embroidery, straight trousers and minimal pearl buttons. Pose and action: upright three-quarter stance, both hands making a precise waist adjustment, composed direct gaze. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with large north-facing window light with restrained cream bounce and a fine shoulder rim, coherent shadows and controlled highlights. Apply a refined editorial color grade in ivory, warm stone and soft champagne while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 85mm full-frame fashion portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1798",
-    "title": "Pastel-Blue Bridesmaid Draping",
-    "category": "Female",
-    "subcategory": "Ethnic & Traditional",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1798.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Pastel-Blue Bridesmaid Draping”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A bridesmaid finishes draping a pastel-blue sari in a bright dressing room with fabric swatches and flowers softly out of focus. Clothing: powder-blue chiffon sari with a clean tonal blouse, delicate silver jewelry and fresh floral hair accents. Pose and action: one hand shaping the shoulder pleats and the other resting naturally near the waist, friendly poised expression. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft window key with white-wall bounce and subtle cool edge light, coherent shadows and controlled highlights. Apply a refined editorial color grade in powder blue, pearl, blush and natural silver while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 85mm full-frame portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1799",
-    "title": "Oxblood Detachable-Jacket Groom",
-    "category": "Male",
-    "subcategory": "Luxury & Editorial",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1799.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Oxblood Detachable-Jacket Groom”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A fashion-forward groom walks through a modern sandstone arcade wearing a sharply tailored detachable short jacket over a dark kurta. Clothing: oxblood structured cropped jacket with concealed fastenings, black silk kurta and tapered trousers, polished dark footwear. Pose and action: confident full-length stride, one hand lightly touching the jacket front, shoulders relaxed and face sharply visible. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with directional architectural daylight with soft shadow fill and a restrained rim, coherent shadows and controlled highlights. Apply a refined editorial color grade in oxblood, black, sandstone and muted gold while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 70mm full-frame editorial lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1800",
-    "title": "Gaye-Holud Turmeric-Tray Preparation",
-    "category": "Wedding",
-    "subcategory": "Ceremonies",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1800.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Gaye-Holud Turmeric-Tray Preparation”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: Three family members prepare a ceremonial turmeric tray in a shaded courtyard, arranging marigolds, folded yellow fabric and small brass bowls. Clothing: coordinated turmeric-yellow, leaf-green and warm-cream traditional attire with simple jewelry. Pose and action: gathered around a low table, each person performing a distinct preparation task with believable hand placement and connected expressions. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with open-shade daylight with warm reflected fill from the courtyard walls, coherent shadows and controlled highlights. Apply a refined editorial color grade in turmeric, marigold orange, leaf green and cream while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame documentary lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1801",
-    "title": "Winter Silk-Shawl Guest Stair",
-    "category": "Fashion",
-    "subcategory": "Ethnic & Traditional",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1801.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Winter Silk-Shawl Guest Stair”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A wedding guest pauses on broad heritage-stone steps in cool November weather, the silk shawl becoming the visual hero. Clothing: deep emerald silk kurta set layered with a lavender and antique-gold woven shawl, small metallic potli and understated earrings. Pose and action: full-length poised stance, one hand securing the shawl and the other holding the potli naturally. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft overcast daylight with a gentle warm reflector and delicate fabric highlights, coherent shadows and controlled highlights. Apply a refined editorial color grade in emerald, lavender, antique gold and limestone while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 85mm full-frame fashion lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1802",
-    "title": "Wedding Venue Walkthrough Diary",
-    "category": "Social Media",
-    "subcategory": "Creator & Studio",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1802.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Wedding Venue Walkthrough Diary”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A wedding creator records a venue walkthrough in a landscaped pavilion, carrying an open blank notebook and a compact measuring tape without visible markings. Clothing: rust blazer over a cream open-collar shirt, tailored dark trousers and subtle watch. Pose and action: mid-gesture while explaining the space, notebook supported in one hand and the other indicating the pavilion, direct approachable expression. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with clean late-afternoon daylight with soft greenery bounce and warm architectural accents, coherent shadows and controlled highlights. Apply a refined editorial color grade in rust, cream, garden green and warm stone while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame personal-brand lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1803",
-    "title": "Full-Armful Holiday Haul Studio",
-    "category": "Social Media",
-    "subcategory": "Creator & Studio",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1803.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Full-Armful Holiday Haul Studio”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A creator presents an exuberant armful of unbranded winter layers in a bright home studio, turning a fashion haul into a single graphic visual. Clothing: forest-green knit, dark denim and a stack of cream, red, cobalt and camel sweaters with no labels. Pose and action: standing waist-up, both forearms securely supporting the folded stack, open friendly smile and direct eye contact. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with large softbox-style window light with clean white bounce and crisp textile highlights, coherent shadows and controlled highlights. Apply a refined editorial color grade in forest green, cream, holiday red, cobalt and camel while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame creator portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1804",
-    "title": "Holiday Gift-List Color Cards",
-    "category": "Social Media",
-    "subcategory": "Creator & Studio",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1804.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Holiday Gift-List Color Cards”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A creator builds a visual holiday gift list on a corkboard using blank color cards and small unbranded wrapped parcels; no writing appears anywhere. Clothing: navy overshirt, white tee and neutral tailored trousers. Pose and action: standing beside the board, one hand placing a blank card and the other holding a tablet with a dark inactive screen, face turned to camera. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft daylight key with warm practical background glow and controlled board shadows, coherent shadows and controlled highlights. Apply a refined editorial color grade in navy, coral, mint, lavender and kraft brown while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame studio lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1805",
-    "title": "Friendsgiving Cabin Arrival",
-    "category": "Family",
-    "subcategory": "Milestones & Celebrations",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1805.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Friendsgiving Cabin Arrival”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: Three adult friends arrive at a cozy mountain cabin carrying a woven food basket and folded blankets, pine trees and the timber porch framing the reunion. Clothing: layered autumn knitwear, practical boots, wool scarves and complementary rust, olive and cream outerwear. Pose and action: walking toward the porch in a close natural grouping, each person carrying one plausible item, candid smiles with all faces visible. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with golden late-afternoon mountain light with soft open-sky fill, coherent shadows and controlled highlights. Apply a refined editorial color grade in rust, olive, cream, pine green and honey wood while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 35mm full-frame lifestyle lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1806",
-    "title": "Small-Town Holiday Main-Street Couple",
-    "category": "Couples",
-    "subcategory": "Travel & Adventure",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1806.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Small-Town Holiday Main-Street Couple”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A couple walks arm in arm along a snowy small-town main street at blue hour, warm shop windows and simple seasonal garlands glowing behind them. Clothing: tailored camel and burgundy winter coats, textured scarves, gloves and practical boots with no visible brands. Pose and action: relaxed walking pose, shoulders close, exchanging a warm glance while keeping both faces readable. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with cool blue-hour ambient light balanced with warm storefront spill and a subtle facial fill, coherent shadows and controlled highlights. Apply a refined editorial color grade in burgundy, camel, midnight blue and amber while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame travel portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1807",
-    "title": "Banana-Bread Recipe Test Kitchen",
-    "category": "Social Media",
-    "subcategory": "Aesthetic Lifestyle",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1807.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Banana-Bread Recipe Test Kitchen”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A home creator tests a fresh banana-bread loaf in a bright kitchen, with bananas, a mixing bowl and a cooling rack arranged as a believable recipe workspace. Clothing: sage cardigan, cream apron and simple neutral top. Pose and action: lifting the loaf pan with a folded towel while checking the crust, face visible in a focused three-quarter angle and hands correctly protected. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft morning window light with warm counter bounce and natural steam highlights, coherent shadows and controlled highlights. Apply a refined editorial color grade in sage, cream, banana yellow and warm walnut while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame food-lifestyle lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1808",
-    "title": "Vintage Brooch Repair Atelier",
-    "category": "Female",
-    "subcategory": "Vintage & Retro",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1808.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Vintage Brooch Repair Atelier”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A woman restores the clasp of an original sculptural brooch at a vintage jewelry repair bench, surrounded by tiny tools and unlabeled components. Clothing: burgundy cardigan over a cream lace-trim blouse with small period-inspired earrings. Pose and action: seated three-quarter pose, brooch held securely between careful fingers, concentrated expression with face fully visible. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with warm task-lamp key balanced by soft window fill and pinpoint metal highlights, coherent shadows and controlled highlights. Apply a refined editorial color grade in burgundy, cream, aged brass and walnut while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 70mm full-frame close editorial lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1809",
-    "title": "Cool-Blue Ice-Café Portrait",
-    "category": "Female",
-    "subcategory": "Luxury & Editorial",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1809.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Cool-Blue Ice-Café Portrait”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A woman stands in an ice-inspired glass café terrace with translucent sculptural decor, holding a frosted unbranded mocktail. Clothing: glacier-blue structured belted coat with tonal gloves and refined silver earrings. Pose and action: elegant three-quarter standing pose, one hand in the coat pocket and the other holding the glass at waist height. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with crisp winter daylight, icy reflected fill and a soft flattering facial key, coherent shadows and controlled highlights. Apply a refined editorial color grade in glacier blue, silver, frosted white and natural skin tones while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 85mm full-frame fashion portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1810",
-    "title": "Khaki-Coded Field Workshop",
-    "category": "Male",
-    "subcategory": "Creative & Concept",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1810.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Khaki-Coded Field Workshop”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A field researcher studies a stone sample at a natural-history preparation bench with brushes, specimen trays and closed notebooks turned away from camera. Clothing: refined khaki utility jacket over an earth-brown knit with durable neutral trousers. Pose and action: seated three-quarter posture, sample supported in one hand while the other rests near a brush, thoughtful face clearly visible. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft north-window key with warm practical accents and textured side shadows, coherent shadows and controlled highlights. Apply a refined editorial color grade in khaki, limestone, earth brown and walnut while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame environmental portrait lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1811",
-    "title": "Glamoratti Chunky-Belt Gallery",
-    "category": "Fashion",
-    "subcategory": "Luxury & Editorial",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1811.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Glamoratti Chunky-Belt Gallery”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A high-fashion subject occupies a luxurious contemporary gallery where monumental stone art and polished brass echo the strong accessories. Clothing: sculpted-shoulder black suit cinched with a chunky gold belt and paired with bold gold cuffs. Pose and action: confident full-length stance, one hand resting naturally at the waist and the other relaxed, chin slightly raised. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with dramatic soft spotlight with restrained rim light and luminous gold reflections, coherent shadows and controlled highlights. Apply a refined editorial color grade in black, champagne gold, warm ivory and deep bronze while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 70mm full-frame editorial lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
-    "trending": true
-  },
-  {
-    "id": "1812",
-    "title": "Throwback-Kid Crochet Playmat Family",
-    "category": "Family",
-    "subcategory": "Generations",
-    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-16/1812.jpg",
-    "promptText": "Transform the uploaded reference photograph into “Throwback-Kid Crochet Playmat Family”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: A school-age child and grandparent share classic wooden toys on a colorful vintage-inspired crochet playmat in a warm retro living room. Clothing: the child in a striped hand-knit sweater and soft trousers, the grandparent in a rust cardigan and patterned blouse. Pose and action: seated comfortably on the floor, each holding one wooden toy with believable hands, faces close and naturally joyful. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with soft afternoon window light with gentle lamp warmth and cozy falloff, coherent shadows and controlled highlights. Apply a refined editorial color grade in mustard, rust, teal, cream and honey wood while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 50mm full-frame family lifestyle lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
     "trending": true
   }
 ]

@@ -2905,5 +2905,23 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1927.jpg",
     "promptText": "Transform the uploaded reference photograph into “Vancouver Rain Hoodie-Leather Walk”. Use the uploaded image as the sole identity source and preserve the subject’s exact recognizable face, facial geometry, natural skin tone, age, hair, body proportions and distinguishing features. Create a reflective Vancouver street beneath a dark awning on a rainy winter afternoon. Style the subject in a forest-green hoodie under a black leather jacket, straight jeans and weatherproof boots. Direct the pose as follows: walking with hands relaxed and giving a candid sideways glance toward camera. Light the scene with soft overcast light with warm storefront reflections and a subtle wet-street rim. Photograph it using a 50mm lens at f/2.8, full-length vertical street portrait with layered reflections. Apply forest green, black and amber with realistic rain and leather texture. Keep skin, hair, fabric, jewellery, food, smoke, reflections, hands and depth physically believable; retain natural pores and fine material detail. Compose a true 3:4 vertical portrait with safe margins and production-ready high resolution. Do not alter identity, over-smooth skin, add text, logos or watermarks, or create malformed hands, extra fingers, extra limbs, duplicate people or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "1965",
+    "title": "Men’s Gold Ear-Stack Sherwani",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1965.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style him in a deep-wine zardozi sherwani with a tasteful stack of small gold ear pieces, adjusting one cuff in a carved-wood dressing room; soft window key and restrained rim light, mid-length framing, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1980",
+    "title": "Quarter-Zip Winter Café",
+    "category": "Male",
+    "subcategory": "Lifestyle & Travel",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1980.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a forest-green quarter-zip knit over a white tee, seated casually by a café window with a plain ceramic mug; soft snow and warm street lights outside, natural side light, relaxed mid-length 50mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
   }
 ]

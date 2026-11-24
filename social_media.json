@@ -1222,5 +1222,50 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1932.jpg",
     "promptText": "Transform the uploaded reference photograph into “Thanksgiving Pie Morning”. Use the uploaded image as the sole identity source and preserve the subject’s exact recognizable face, facial geometry, natural skin tone, age, hair, body proportions and distinguishing features. Create a sunlit North American farmhouse kitchen with apples, cranberries and a freshly finished lattice pie. Style the subject in a navy apron over a warm ochre sweater with simple earrings. Direct the pose as follows: holding the pie securely near the counter, proud relaxed expression and anatomically correct hands. Light the scene with golden window key with soft oven glow and gentle fill. Photograph it using a 50mm lens at f/3.2, vertical waist-up food-and-person portrait. Apply apple red, ochre, navy and warm wood with appetising realistic pastry detail. Keep skin, hair, fabric, jewellery, food, smoke, reflections, hands and depth physically believable; retain natural pores and fine material detail. Compose a true 3:4 vertical portrait with safe margins and production-ready high resolution. Do not alter identity, over-smooth skin, add text, logos or watermarks, or create malformed hands, extra fingers, extra limbs, duplicate people or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "1970",
+    "title": "Regional Handloom Guest GRWM",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1970.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a regional handloom silk saree with a contemporary structured blouse and minimal jewellery; pose naturally at a brass dressing table holding a phone with no visible screen content, warm window light plus soft fill, mirror-aware 50mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1973",
+    "title": "Thanksgiving Who-Brings-What Host",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1973.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a rust knit top and dark apron, presenting a blank clipboard beside an abundant Thanksgiving potluck table with no readable labels; welcoming open-hand pose, modern kitchen, soft autumn window light and amber practicals, 50mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1975",
+    "title": "Thanksgiving Parade Window Portrait",
+    "category": "Social Media",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1975.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a camel sweater and relaxed trousers, seated by a tall apartment window and turning from a softly blurred Thanksgiving parade avenue toward camera; keep distant balloons generic and unbranded, natural morning light, intimate 50mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1981",
+    "title": "Black Friday Lip-Swatch Creator",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1981.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a sleek black top with silver accents and show three accurate unbranded lipstick swatches on one hand beside an uncluttered vanity; soft ring-light catchlights plus magenta edge light, crisp 85mm beauty framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1982",
+    "title": "In-Store Holiday Ambiance Portrait",
+    "category": "Social Media",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1982.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a camel coat and red scarf, carrying a tasteful unbranded gift box while browsing an elegant independent department store; candid mid-step pose among warm window displays, layered golden practicals, 50mm cinematic framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
   }
 ]

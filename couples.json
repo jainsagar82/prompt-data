@@ -1420,5 +1420,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1928.jpg",
     "promptText": "Transform the uploaded reference photograph into “Neighborhood Holiday-Light Walk”. Use the uploaded image as the sole identity source and preserve each referenced person’s exact face, face-to-body pairing, natural skin tone, age, hair, body proportions and distinguishing features. Create a quiet North American neighbourhood beneath original multicoloured house lights and bare winter trees. Style the people in coordinated camel and burgundy coats, knitted scarves and winter gloves. Direct the pose as follows: walking hand in hand and sharing a natural smile, both faces clear and bodies correctly paired. Light the scene with blue-hour ambient light balanced by warm decorative glow. Photograph it using a 50mm lens at f/2.8, full-length vertical couple portrait with street depth. Apply navy, burgundy and warm gold with gentle festive bokeh. Keep skin, hair, fabric, jewellery, food, smoke, reflections, hands and depth physically believable; retain natural pores and fine material detail. Compose a true 3:4 vertical portrait with safe margins and production-ready high resolution. Do not alter identity, over-smooth skin, add text, logos or watermarks, or create malformed hands, extra fingers, extra limbs, duplicate people or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "1969",
+    "title": "Udaipur Terrace Pre-Wedding",
+    "category": "Couples",
+    "subcategory": "Travel & Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1969.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress one partner in a powder-blue embroidered lehenga and the other in a cream tailored achkan, holding hands on a carved Udaipur palace terrace above a lake; peach sunrise light, distant domes, airy full-length framing, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
   }
 ]

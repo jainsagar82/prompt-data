@@ -3679,5 +3679,32 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1930.jpg",
     "promptText": "Transform the uploaded reference photograph into “Shearling-Boot Toronto Street”. Use the uploaded image as the sole identity source and preserve the subject’s exact recognizable face, facial geometry, natural skin tone, age, hair, body proportions and distinguishing features. Create a snowy Toronto side street with brownstone steps and softly blurred winter pedestrians. Style the subject in a long cocoa coat over a ribbed cream dress with chunky shearling boots. Direct the pose as follows: standing upright with one foot slightly forward to feature the boots, arms relaxed and face toward camera. Light the scene with cool winter daylight with warm reflected fill from nearby brick. Photograph it using a 70mm lens at f/3.2, full-length vertical fashion portrait with clean street compression. Apply cocoa, cream and winter blue with realistic snow and shearling texture. Keep skin, hair, fabric, jewellery, food, smoke, reflections, hands and depth physically believable; retain natural pores and fine material detail. Compose a true 3:4 vertical portrait with safe margins and production-ready high resolution. Do not alter identity, over-smooth skin, add text, logos or watermarks, or create malformed hands, extra fingers, extra limbs, duplicate people or distorted anatomy.",
     "trending": true
+  },
+  {
+    "id": "1966",
+    "title": "Backhand Mehendi Detail Creator",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1966.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress her in a muted saffron anarkali and delicate jewellery, raising one accurately rendered hand near her cheek to showcase intricate backhand henna; marigold-blur studio, soft beauty-dish light, 100mm macro portrait look. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1967",
+    "title": "Juda Hairstyle Saree Portrait",
+    "category": "Female",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1967.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Create a polished low juda with fresh jasmine and a fine gold pin, paired with a midnight-blue silk saree; side three-quarter pose in a heritage-hotel corridor, soft directional window light, 85mm lens, rich blue-and-gold grade. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1971",
+    "title": "Kaanch Chudiyan Stack Portrait",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1971.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress her in an understated silk kurta and stack translucent kaanch chudiyan in ruby, emerald and amber, crossing both accurately rendered wrists near her face on a sunlit veranda; crisp jewellery focus, soft background, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
   }
 ]

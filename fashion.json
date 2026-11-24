@@ -1717,5 +1717,41 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-19/1870.jpg",
     "promptText": "Transform the uploaded reference photograph into “Crosswise Cardigan Button Detail”. Use the uploaded image as the sole identity source. Preserve every referenced person's recognizable facial structure, eye shape, eyebrows, nose, lips, jawline, natural complexion, hairline, hairstyle, apparent age, distinctive features and body proportions. For groups, preserve separate identities and correct face-to-body pairing; include exactly the referenced people. Scene and styling: An adult demonstrates an offset crosswise bottom-button styling technique against a clean studio wall. Clothing: an original chocolate cardigan over a white shirt with dark straight denim. Pose and action: standing three-quarter-to-full-length, both hands correctly fastening one offset button near the waist while the face remains clear. Adapt garment fit naturally without changing the person's build. Keep every face unobstructed and sharply focused, posture relaxed, hands anatomically plausible, fingers separated and props physically consistent. Light with broad softbox light with minimal shadow fill, coherent shadows and controlled highlights. Apply a refined editorial color grade in chocolate brown, white, indigo and brass while maintaining accurate skin tones. Photograph in exact vertical 3:4 composition using a 70mm full-frame fashion-detail lens and safe margins around heads, hands and feet. Deliver high-resolution photographic realism with natural pores, detailed textile weave, convincing materials and believable depth separation. No identity alteration, invented faces, body reshaping, extra people, extra limbs, malformed hands, copied creator composition, readable text, brand logos, watermark, collage or plastic skin.",
     "trending": true
+  },
+  {
+    "id": "1976",
+    "title": "90s Holiday Denim Portrait",
+    "category": "Fashion",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1976.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style straight-leg dark denim, a burgundy turtleneck and vintage plaid overshirt, leaning casually in a wood-panelled room with colored string lights; controlled direct flash with warm ambient light, full-body 50mm framing, subtle authentic grain. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1977",
+    "title": "Leg-Warmer Ballet Street Style",
+    "category": "Fashion",
+    "subcategory": "Streetwear",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1977.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style charcoal leg warmers over slim boots, a soft ballet-inspired wrap cardigan and long wool skirt, captured mid-stride on a snowy city sidewalk; cool daylight with warm shop-window reflection, dynamic full-length 85mm framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1978",
+    "title": "Chunky Cable Sweater-Dress Portrait",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1978.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a chunky ivory cable-knit sweater dress with tall brown boots, posed confidently beneath city holiday lights at blue hour; warm bokeh against cool ambient light, full-length 85mm framing, precise knit texture. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
+  },
+  {
+    "id": "1979",
+    "title": "Faux-Fur Collar Evening Portrait",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1979.jpg",
+    "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a chocolate wool coat with a dramatic tasteful faux-fur collar, posed over one shoulder outside a softly lit holiday venue in light snow; golden rim light and cool blue fill, mid-length 85mm cinematic framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
+    "trending": true
   }
 ]
