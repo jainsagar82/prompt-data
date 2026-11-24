@@ -43,5 +43,50 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1957.jpg",
     "promptText": "Recreate the adult in the uploaded reference photo as a candid joyful black-and-white portrait caught laughing in refreshing summer rain. The original uploaded photograph is the only identity guide; preserve the subject's recognizable face, eyes, brows, jawline, natural skin features, age, hairstyle, physique and overall proportions, with no face merging or generic model substitution. Set the scene outdoors at night beneath soft falling rain with a very dark uncluttered backdrop. The subject wears an opaque white long-sleeved shirt with a modest neckline over an opaque underlayer, sleeves loosely rolled; rain has dampened the fabric but it must not appear transparent. Capture the person mid-laugh with head slightly tilted up, eyes gently closed, wet shoulder-length hair framing the face and natural water beads on cheek and hair. Use bright silvery backlight to freeze individual raindrops plus soft frontal fill, beautiful deep-gray blacks, rich midtone facial detail and a natural 50mm editorial three-quarter portrait. Pure black-and-white with no warm or blue tint, true 3:4 vertical format, no extra persons, logos, watermark, text or malformed anatomy.",
     "trending": false
+  },
+  {
+    "id": "1958",
+    "title": "Black & White Wet Look - Rain Window Muse",
+    "category": "Black & White Wet Look",
+    "subcategory": "Rain Window Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1958.jpg",
+    "promptText": "Transform the uploaded adult reference photo into \"Black & White Wet Look - Rain Window Muse\". Preserve the subject's recognizable facial identity, natural skin tone, apparent age, hairstyle, body proportions and distinctive features. Create a dramatic black-and-white wet-look fashion portrait beside a rain-covered glass wall or studio window, with droplets and streaks visible on the glass and a soft reflection of the subject. Style the subject in a dark satin or glossy sleeveless top, wet wavy hair, elegant earrings and a calm, confident expression. Use close chest-up framing, strong side lighting, rich blacks, silver highlights and crisp detail in skin, water droplets and fabric. Exact 3:4 vertical portrait, no text, no logos, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "1959",
+    "title": "Black & White Wet Look - Rooftop Rain Hero",
+    "category": "Black & White Wet Look",
+    "subcategory": "Rooftop Rain Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1959.jpg",
+    "promptText": "Transform the uploaded adult reference photo into \"Black & White Wet Look - Rooftop Rain Hero\". Preserve the subject's recognizable facial identity, natural skin tone, apparent age, hairstyle, facial hair, body proportions and distinctive features. Create a cinematic black-and-white portrait on a rainy rooftop at night with blurred city lights in the background. Dress the subject in a soaked dark open-collar shirt with sleeves rolled up, wet textured hair and a strong serious expression. Use waist-up framing, visible rain streaks, glossy wet fabric, water running down the face and dramatic rim lighting with deep noir contrast. Exact 3:4 vertical portrait, no text, no logos, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "1960",
+    "title": "Black & White Wet Look - Midnight Street Stroll",
+    "category": "Black & White Wet Look",
+    "subcategory": "Monsoon Street Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1960.jpg",
+    "promptText": "Transform the uploaded adult reference photo into \"Black & White Wet Look - Midnight Street Stroll\". Preserve the subject's recognizable facial identity, natural skin tone, apparent age, hairstyle, body proportions and distinctive features. Create a black-and-white wet-look editorial portrait walking through a rainy night street under glowing streetlamps, with reflective pavement and soft city bokeh behind. Dress the subject in a soaked white button-down shirt over a dark inner top, wet hair falling over the shoulders, small earrings and a confident sideways glance. Use full-torso framing, heavy rain, glossy highlights on skin and fabric, and cinematic monochrome realism. Exact 3:4 vertical portrait, no text, no logos, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "1961",
+    "title": "Black & White Wet Look - Underpass Solitude",
+    "category": "Black & White Wet Look",
+    "subcategory": "Urban Rain Underpass",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1961.jpg",
+    "promptText": "Transform the uploaded adult reference photo into \"Black & White Wet Look - Underpass Solitude\". Preserve the subject's recognizable facial identity, natural skin tone, apparent age, hairstyle, facial hair, body proportions and distinctive features. Create a gritty black-and-white wet-look portrait seated under an urban underpass in heavy rain, surrounded by concrete beams, puddles and splashes. Dress the subject in a soaked sleeveless tank top and dark wet trousers, with one hand pressed to the forehead in a contemplative pose. Use three-quarter seated framing, strong rain texture, wet concrete reflections and moody high-contrast lighting. Exact 3:4 vertical portrait, no text, no logos, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "1962",
+    "title": "Black & White Wet Look - Ocean Dawn Muse",
+    "category": "Black & White Wet Look",
+    "subcategory": "Ocean Wet Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-24/1962.jpg",
+    "promptText": "Transform the uploaded adult reference photo into \"Black & White Wet Look - Ocean Dawn Muse\". Preserve the subject's recognizable facial identity, natural skin tone, apparent age, hairstyle, body proportions and distinctive features. Create a dramatic black-and-white wet-look portrait emerging from the ocean at dawn, with small waves, water splashes and a misty horizon behind. Style the subject in a dark sleeveless wet top or dress, slicked-back wet hair and a calm powerful expression. Use chest-up framing, crisp water droplets on the face and shoulders, soft dawn glow in the background and refined cinematic monochrome beauty photography. Exact 3:4 vertical portrait, no text, no logos, no watermark.",
+    "trending": false
   }
 ]
