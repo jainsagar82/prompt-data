@@ -3706,5 +3706,95 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1971.jpg",
     "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress her in an understated silk kurta and stack translucent kaanch chudiyan in ruby, emerald and amber, crossing both accurately rendered wrists near her face on a sunlit veranda; crisp jewellery focus, soft background, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
     "trending": true
+  },
+  {
+    "id": "1993",
+    "title": "Blossom Saree Dream",
+    "category": "Female",
+    "subcategory": "Floral Saree Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1993.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact facial structure, eyes, eyebrows, nose, lips, jawline, natural skin tone, hairstyle, hairline, apparent age, and body proportions. Create a dreamy cinematic portrait of her standing gracefully beneath a carved stone arch surrounded by abundant bright pink bougainvillea flowers and drifting petals. Dress her in a rich magenta silk saree with a subtle gold border, delicate traditional earrings, and a soft serene expression with eyes gently closed. Use warm rosy-pink lighting, shallow depth of field, elegant mid-length 3:4 framing, realistic fabric texture, and premium portrait-app quality. No text, no watermark, no extra people.",
+    "trending": false
+  },
+  {
+    "id": "1994",
+    "title": "Rose Reverie at Dusk",
+    "category": "Female",
+    "subcategory": "Dreamy Rose Garden",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1994.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact face, eyes, brows, nose, lips, natural skin tone, long dark hair, age, and proportions. Create a poetic cinematic portrait of her in an ivory embroidered outfit seated among blooming white roses at dusk. Add gentle motion blur in a few foreground flowers and a subtle blurred head-turn feeling for an artistic dreamy mood. Use soft warm twilight light, creamy highlights, delicate earrings, a romantic garden atmosphere, and 3:4 vertical portrait framing. Keep the result photorealistic, elegant, and premium. No text, no watermark, no extra people.",
+    "trending": false
+  },
+  {
+    "id": "1995",
+    "title": "Cozy Portrait Collage",
+    "category": "Female",
+    "subcategory": "Scrapbook Collage",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1995.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact recognizable face, hairstyle, skin tone, age, and features across every panel. Create a highly detailed editorial scrapbook-style portrait collage with one large central portrait and four smaller candid snapshots of the same woman around it. Style her with long wavy hair, a cozy dark knit sweater, and soft warm indoor lighting. Add beige paper textures, taped photo corners, subtle doodles, and floral paper details for a stylish lifestyle collage aesthetic. Keep the composition vertical 3:4, visually clean, premium, and photorealistic. No text, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "1996",
+    "title": "Emerald Neon Muse",
+    "category": "Female",
+    "subcategory": "Green Cinematic Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1996.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact facial identity, skin tone, lips, nose, jawline, eyes, and hairstyle while adapting to a stylized look. Create a bold cinematic studio portrait with dramatic emerald-green lighting and smoky atmosphere. Dress her in a black leather jacket over a dark top, with short-to-medium wavy hair, hoop earrings, and a confident upward fashion pose. Use a tight 3:4 vertical composition, strong green rim lighting, glowing smoke, glossy jacket texture, and premium photorealistic portrait quality. No text, no watermark, no extra people.",
+    "trending": false
+  },
+  {
+    "id": "1997",
+    "title": "Noir Throne Queen",
+    "category": "Female",
+    "subcategory": "Power Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1997.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact recognizable face, hairline, hairstyle, brows, eyes, nose, lips, skin tone, age, and body proportions. Create a dramatic cinematic power portrait of her seated confidently on a vintage leather armchair in a dark industrial room. Style her in a sleek black structured outfit with blazer, fitted top, elegant jewelry, and dark sunglasses. Add subtle red accent lighting, moody window shadows, and a commanding throne-like pose. Keep it photorealistic, luxurious, and composed in exact 3:4 vertical framing. No text, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "1998",
+    "title": "Lost Memories Sunset",
+    "category": "Female",
+    "subcategory": "Field at Golden Hour",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1998.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact face, skin tone, hair, age, and natural proportions. Create a heartfelt cinematic portrait of her standing in a lush green field at sunset with arms gently open and face uplifted in a peaceful emotional moment. Dress her in a loose black overshirt over a white top and dark trousers. Place a glowing golden sun low on the horizon with dramatic clouds and warm backlight illuminating her hair. Use 3:4 vertical framing, romantic realism, and premium portrait detail. No text, no watermark, no extra people.",
+    "trending": false
+  },
+  {
+    "id": "1999",
+    "title": "Raven Smoke Poster",
+    "category": "Female",
+    "subcategory": "Dark Cinematic Poster",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1999.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve the intact side of her face with exact eyes, brows, nose, lips, skin tone, age, and recognizable structure. Create a dark cinematic poster-style portrait in a stormy gray atmosphere, with one half of her face intact and the other half dissolving into swirling smoke and a flock of black ravens. Dress her in a dramatic black outfit with gothic texture details and intense expression. Keep the mood moody and photorealistic with tight 3:4 close portrait framing. No text, no watermark, no extra people.",
+    "trending": false
+  },
+  {
+    "id": "2000",
+    "title": "Cinematic Red SUV",
+    "category": "Female",
+    "subcategory": "Luxury Drive Portrait",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/2000.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact recognizable face, hairstyle, skin tone, age, and body proportions. Create a clean high-end cinematic portrait of her leaning casually against a glossy red off-road SUV in bright daylight. Dress her in a crisp white shirt, black tailored trousers, stylish sunglasses, hoop earrings, and a wristwatch. Use a confident editorial pose with one hand in a pocket and one resting on the vehicle. Add an upscale outdoor setting with soft greenery and stone details. Exact 3:4 vertical framing, photorealistic premium quality. No text, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "2001",
+    "title": "Neon Smoke Double Portrait",
+    "category": "Female",
+    "subcategory": "NeoN Style Viral",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/2001.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact face, nose, lips, brows, eyes, hairstyle, skin tone, age, and features in both figures. Create a stylish cinematic double-portrait composition with a large close-up face in the background and a smaller seated portrait in front. Style her in a black hoodie and dark cargo pants, with edgy expression and neon green smoke surrounding both portraits. Use luminous green studio lighting, a modern viral-edit aesthetic, and clean 3:4 vertical composition. Keep it photorealistic and premium. No text, no watermark.",
+    "trending": false
+  },
+  {
+    "id": "2002",
+    "title": "Monochrome Rain Elegance",
+    "category": "Female",
+    "subcategory": "Black and White Rain",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/2002.jpg",
+    "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact facial geometry, eyes, brows, nose, lips, skin tone translated naturally into monochrome, wet hairstyle, age, and proportions. Create a dramatic black-and-white cinematic rain portrait with her looking upward powerfully under heavy rainfall. Dress her in a dark wet trench coat over a black outfit with subtle earrings. Emphasize sparkling water droplets, glossy wet fabric, strong contrast, and a close editorial fashion composition in exact 3:4 vertical framing. Keep it realistic, elegant, and premium. No text, no watermark, no extra people.",
+    "trending": false
   }
 ]
