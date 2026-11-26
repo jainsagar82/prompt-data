@@ -736,5 +736,32 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1972.jpg",
     "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style an ivory-and-crimson silk saree, heirloom gold jewellery and refined white-and-red kolka forehead artistry; frontal half-length pose in an old Kolkata mansion, diffused window light, warm cream-and-vermilion grade, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
     "trending": true
+  },
+  {
+    "id": "2013",
+    "title": "Slow-Shutter Sangeet Twirl",
+    "category": "Wedding",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2013.jpg",
+    "promptText": "Use the uploaded reference photo as the only identity reference. Preserve the exact recognizable faces, facial geometry, skin tones, ages, hairstyles, and natural body proportions of every visible person; keep the same people and relationship. Transform the scene into an energetic Indian sangeet dance-floor portrait: the woman twirls in a midnight-blue mirror-work lehenga while her partner in a tailored black bandhgala steps beside her, surrounded by softly blurred guests and magenta-gold stage lights. Use intentional slow-shutter motion in the spinning skirt and background while keeping both faces tack sharp. Frame at eye level on a 35mm lens, vertical 3:4, candid full-body composition, rich jewel-tone grade, realistic fabric detail, natural skin texture, premium editorial photography. No text, logos, watermark, duplicate people, or distorted hands.",
+    "trending": true
+  },
+  {
+    "id": "2014",
+    "title": "Off-Centre Varmala Moment",
+    "category": "Wedding",
+    "subcategory": "Ceremonies",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2014.jpg",
+    "promptText": "Use the uploaded couple photo as the only identity reference. Preserve both partners' exact recognizable faces, facial structure, skin tone, age, hair, and body proportions; keep the same two people. Create an unposed varmala exchange photographed slightly off-centre, with the bride laughing as she lifts a rose-and-jasmine garland toward the groom in an ivory sherwani and safa. Let cheering relatives appear naturally behind them beneath floral canopies, with one foreground shoulder creating documentary depth. Shoot on a 50mm lens at f/2, vertical 3:4, crisp faces, warm daylight mixed with soft venue light, true-to-life wedding colors, gentle film grain, realistic jewelry and textiles, and a spontaneous story-driven editorial mood. No text, watermark, extra limbs, duplicated faces, or plastic skin.",
+    "trending": true
+  },
+  {
+    "id": "2015",
+    "title": "Asymmetric Marigold Bridal Frame",
+    "category": "Wedding",
+    "subcategory": "Bridal",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2015.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, eyes, brows, nose, lips, jawline, skin tone, age, hairline, and natural proportions. Create a loose editorial bridal portrait in an ivory-and-yellow embroidered lehenga beside dense marigold strings, with her placed in the right third of an intentionally asymmetric composition and generous negative space on the left. Give her a relaxed downward gaze and softly clasped hands; keep jewelry refined and believable. Use side window light with patterned leaf shadows, an 85mm portrait lens, shallow depth of field, vertical 3:4 framing, warm saffron-and-cream color grade, fine textile detail, natural skin texture, subtle analogue grain, and high-end Indian wedding realism. No text, watermark, extra people, distorted fingers, or over-retouching.",
+    "trending": true
   }
 ]

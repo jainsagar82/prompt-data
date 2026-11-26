@@ -3013,5 +3013,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/1992.jpg",
     "promptText": "Use the uploaded adult reference photo as the SOLE identity reference; preserve the person's exact recognizable facial geometry, eyes, brows, nose, lips, jawline, natural skin tone (rendered as appropriate in monochrome), hairline, hairstyle, facial hair, apparent age, build and distinctive features. Never substitute the sample face or beautify away identity. Create a black-and-white full-height cinematic portrait of the adult subject walking alone through a heavily raining empty urban boulevard at night. He wears a long wet black trench coat over open black shirt and tailored dark trousers, hands naturally relaxed or one in pocket, glancing toward streetlights; reflective cobblestones, lamps dissolving into blur, bold silver rain lines, 35mm environment framing. Keep skin pores, believable shadows, realistic water, clothing texture, coherent fingers and anatomy, and face sharp. Deliver one photorealistic high-quality original cinematic image in exact 3:4 vertical composition with crop margins, no captions, text, watermark, visible brand logos, duplicate faces, extra people, or distortions.",
     "trending": false
+  },
+  {
+    "id": "2017",
+    "title": "35mm Groom Cuff Detail",
+    "category": "Male",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2017.jpg",
+    "promptText": "Use the uploaded adult man photo as the only identity reference. Preserve his exact recognizable face, facial geometry, skin tone, age, hairstyle, facial hair, and body proportions. Create a 35mm-film-style groom portrait as he adjusts an embroidered cuff and vintage wristwatch beside a tall window before the ceremony. Dress him in a deep forest-green sherwani with restrained gold threadwork and a dark stole. Capture a three-quarter waist-up pose with his gaze lowered toward the cuff, window light shaping his face, a softly shadowed heritage-room background, and slight candid imperfection. Use a 50mm lens look, vertical 3:4 framing, true colors, fine grain, gentle highlight roll-off, realistic hands and textile detail, and premium documentary wedding photography. No text, logos, watermark, extra people, or excessive skin smoothing.",
+    "trending": true
   }
 ]

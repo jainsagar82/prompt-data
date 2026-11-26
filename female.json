@@ -3886,5 +3886,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-22/2012.jpg",
     "promptText": "Use the uploaded adult woman photo as the ONLY identity reference. Preserve her exact face, skin tone, hairstyle, age, and body proportions. Create a dreamy moonlit portrait of her sitting beside a calm lake under a bright full moon, wearing a flowing powder-blue embellished gown with delicate jewelry. Add mist over the water, floral branches, moon reflections, and a soft introspective expression for a serene fantasy mood. Keep the image photorealistic, premium, and in exact 3:4 vertical composition. No text, no watermark, no extra people.",
     "trending": false
+  },
+  {
+    "id": "2018",
+    "title": "Gaye-Holud Cousin Flash",
+    "category": "Female",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2018.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, facial proportions, skin tone, age, hairstyle, and natural body shape. Create a joyful gaye-holud cousin portrait caught with direct on-camera flash: she sits in a bright yellow outfit with simple floral jewelry, laughing toward friends just outside the frame while marigold petals and turmeric-yellow decor fill the background. Keep the moment imperfect and candid, with slightly tilted composition, visible flash falloff, soft ambient shadows, and a few blurred relatives behind. Shoot as a 28mm documentary photograph in vertical 3:4, accurate skin texture, saturated but believable yellow-and-green color, crisp eyes, subtle grain, and realistic fabric folds. No text, watermark, duplicated people, extra fingers, or artificial beauty-filter skin.",
+    "trending": true
   }
 ]

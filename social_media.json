@@ -1267,5 +1267,59 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1982.jpg",
     "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a camel coat and red scarf, carrying a tasteful unbranded gift box while browsing an elegant independent department store; candid mid-step pose among warm window displays, layered golden practicals, 50mm cinematic framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
     "trending": true
+  },
+  {
+    "id": "2022",
+    "title": "Wedding Reel Creator Backstage",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2022.jpg",
+    "promptText": "Use the uploaded adult person photo as the only identity reference. Preserve the exact recognizable face, facial geometry, skin tone, age, hairstyle, and natural proportions. Create a candid backstage portrait of a wedding reel creator holding a compact stabilized camera rig while moving through a flower-filled reception venue. Dress the subject in practical all-black eventwear with a utility vest; show a blurred bride and warm dance-floor lights far behind, never competing with the main face. Use mixed magenta and amber lighting, a 35mm lens, vertical 3:4 framing, slight walking motion in the background, sharp eyes, authentic equipment detail, natural skin texture, and cinematic documentary color. No brand marks, text, watermark, extra limbs, duplicate people, or unreadable fake interfaces.",
+    "trending": true
+  },
+  {
+    "id": "2026",
+    "title": "Comfort-Knit Weekend Mirror",
+    "category": "Social Media",
+    "subcategory": "Aesthetic Lifestyle",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2026.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, skin tone, age, hairstyle, hair texture, and natural body proportions. Create a cozy post-holiday weekend mirror portrait in a softly lit home, wearing a relaxed oatmeal cable-knit sweater and matching wide-leg knit trousers with simple flats. She holds the phone naturally while keeping her full face visible, with a dining table, fading autumn centerpiece, and warm window light behind. Use a realistic 35mm mirror perspective, vertical 3:4 full-length framing, clean neutral color grade, gentle shadows, believable fabric texture, natural skin, and polished but attainable social-media styling. No readable phone screen, text, logos, watermark, duplicate reflection, or distorted fingers.",
+    "trending": true
+  },
+  {
+    "id": "2027",
+    "title": "Retro Pumpkin-Pie Weekend PFP",
+    "category": "Social Media",
+    "subcategory": "Candid & Flash",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2027.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, facial features, skin tone, age, hairstyle, and proportions. Create a playful retro profile-picture portrait in a warm kitchen as she presents a pumpkin pie toward the camera, smiling directly into the lens. Dress her in a mustard cable-knit sweater and use direct compact-camera flash, slightly wide 28mm perspective, mild early-2000s snapshot grain, warm wood cabinets, small autumn decorations, and honest skin texture. Crop from mid-torso in exact vertical 3:4 with centered eyes and enough negative space for a social avatar, keeping the pie and face sharp. No text, logos, watermark, extra people, duplicate hands, or fake interface elements.",
+    "trending": true
+  },
+  {
+    "id": "2028",
+    "title": "Gratitude Community Team Portrait",
+    "category": "Social Media",
+    "subcategory": "Founder & Personal Brand",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2028.jpg",
+    "promptText": "Use the uploaded group reference as the only identity reference. Preserve every visible person's exact recognizable face, facial structure, skin tone, age, hairstyle, and natural proportions; retain the same group size and identities. Create a warm community-team portrait seated closely in a bright studio lounge, each person holding a small blank thank-you card toward the camera while sharing relaxed smiles. Style them in coordinated earth-tone knitwear without uniforms. Use soft window light, plants and wood details, a 35mm lens, vertical 3:4 group composition, accurate skin tones across all complexions, natural spacing, realistic hands and cards, gentle seasonal color, and inclusive editorial realism. Cards must remain completely blank. No text, logos, watermark, duplicated faces, extra people, or malformed fingers.",
+    "trending": true
+  },
+  {
+    "id": "2030",
+    "title": "Small Business Founder Shop Portrait",
+    "category": "Social Media",
+    "subcategory": "Founder & Personal Brand",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2030.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, facial geometry, skin tone, age, hairstyle, and natural proportions. Create an authentic small-business founder portrait behind the counter of a cozy independent gift shop, wearing an olive knit sweater and linen apron while wrapping a kraft-paper parcel. Surround her with handmade ceramics, dried flowers, candles, and softly lit wooden shelves, leaving all packages and products unbranded. Pose her looking toward the camera with a proud relaxed smile and natural hands on the parcel. Use warm window light, a 50mm lens, vertical 3:4 waist-up composition, true skin tone, tactile shop detail, gentle film grain, and premium documentary realism. No text, price tags, logos, watermark, extra people, or distorted fingers.",
+    "trending": true
+  },
+  {
+    "id": "2031",
+    "title": "Cyber Monday Comparison Desk",
+    "category": "Social Media",
+    "subcategory": "Creator & Studio",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2031.jpg",
+    "promptText": "Use the uploaded adult man photo as the only identity reference. Preserve his exact recognizable face, facial geometry, skin tone, age, hairstyle, facial hair, and natural proportions. Create a clean technology creator portrait seated at a comparison desk with two pairs of unbranded headphones, a blank tablet, notebook, and desk lamp. He rests one hand naturally on a headphone case and looks thoughtfully toward the camera, wearing a charcoal crewneck shirt and glasses if present in the reference. Use bright diffused window light with a subtle cool rim, a 50mm lens, vertical 3:4 seated composition, crisp product shapes, realistic hands, neutral modern grade, shallow depth of field, and trustworthy review-studio realism. Screens must remain blank. No text, logos, watermark, extra devices, or malformed fingers.",
+    "trending": true
   }
 ]

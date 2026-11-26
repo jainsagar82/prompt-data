@@ -1429,5 +1429,14 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1969.jpg",
     "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Dress one partner in a powder-blue embroidered lehenga and the other in a cream tailored achkan, holding hands on a carved Udaipur palace terrace above a lake; peach sunrise light, distant domes, airy full-length framing, 85mm lens. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
     "trending": true
+  },
+  {
+    "id": "2019",
+    "title": "Tamil Wedding Guest Pair",
+    "category": "Couples",
+    "subcategory": "Celebrations",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2019.jpg",
+    "promptText": "Use the uploaded two-person reference as the only identity reference. Preserve both people's exact recognizable faces, facial structures, skin tones, ages, hair, and natural proportions; keep the same pair. Create a relaxed Tamil wedding guest portrait while they walk beside a carved temple corridor: one wears an ivory veshti and shirt with a thin gold border, the other a rich purple silk saree with traditional gold jewelry and jasmine in her hair. Let them glance at each other mid-step rather than pose directly. Use open-shade daylight, a 50mm lens, vertical 3:4 full-length composition, temple stone texture, restrained festive color, true skin tones, gentle background separation, and elegant documentary realism. No text, watermark, religious text overlays, extra people in focus, duplicated faces, or distorted hands.",
+    "trending": true
   }
 ]

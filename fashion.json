@@ -1753,5 +1753,68 @@
     "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-25/1979.jpg",
     "promptText": "Transform the reference photo into a photorealistic portrait while preserving every subject’s recognizable identity, facial geometry, age, body proportions, skin tone and natural texture. Style a chocolate wool coat with a dramatic tasteful faux-fur collar, posed over one shoulder outside a softly lit holiday venue in light snow; golden rim light and cool blue fill, mid-length 85mm cinematic framing. Deliver a production-quality 3:4 vertical composition with realistic anatomy, hands, fabric and lighting, controlled depth of field, no readable text, logo or watermark.",
     "trending": true
+  },
+  {
+    "id": "2020",
+    "title": "Punjabi Sangeet Colleague Portrait",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2020.jpg",
+    "promptText": "Use the uploaded adult person photo as the only identity reference. Preserve the exact recognizable face, facial geometry, skin tone, age, hairstyle, and body proportions. Create a lively Punjabi sangeet guest portrait of a colleague joining the dance floor in a silver-sequin contemporary Indian outfit, clapping to the dhol with a spontaneous smile. Surround the subject with softly blurred dancers in colorful turbans, warm floral decor, and magenta stage light, while keeping the face cleanly lit and sharp. Photograph from slightly below eye level on a 35mm lens, vertical 3:4, three-quarter body, energetic but natural pose, realistic sequins and hands, vibrant true-to-event colors, subtle grain, and editorial nightlife polish. No text, logos, watermark, duplicated people, or plastic skin.",
+    "trending": true
+  },
+  {
+    "id": "2021",
+    "title": "Ready-to-Ship Guest Mirror",
+    "category": "Fashion",
+    "subcategory": "Ethnic & Traditional",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2021.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, skin tone, age, hairline, hairstyle, and natural body proportions. Create a wedding-guest mirror portrait in a bright hotel room as she tries a ready-to-wear teal draped saree with a clean sleeveless blouse and minimal silver jewelry. Include an open delivery box and a neatly hanging backup outfit in the background without visible branding. She holds the phone naturally at chest height while her full face remains clearly visible in the mirror. Use window daylight, a 35mm lens perspective, vertical 3:4 composition, realistic mirror optics, crisp garment drape, neutral premium color grade, and polished social-first realism. No readable phone screen, text, logos, watermark, duplicate reflections, or distorted fingers.",
+    "trending": true
+  },
+  {
+    "id": "2023",
+    "title": "Cranberry Velvet Holiday Dinner",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2023.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, facial structure, skin tone, age, hairstyle, and natural body proportions. Create a sophisticated holiday dinner portrait in a cranberry-red velvet midi dress with a sculpted neckline and understated gold earrings. Place her beside an autumn-to-holiday table with amber candles, dark wood, seasonal fruit, and soft evergreen accents, giving a calm direct gaze with one hand resting naturally near the table. Use warm window backlight plus candle fill, an 85mm lens, vertical 3:4 waist-up composition, deep cranberry-and-amber grade, realistic velvet sheen, fine skin texture, shallow depth of field, and premium editorial photography. No text, logos, watermark, extra people, malformed hands, or excessive retouching.",
+    "trending": true
+  },
+  {
+    "id": "2024",
+    "title": "Bird-Motif Statement Coat",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2024.jpg",
+    "promptText": "Use the uploaded adult person photo as the only identity reference. Preserve the exact recognizable face, facial geometry, skin tone, age, hairstyle, and body proportions. Create a cold-weather fashion portrait walking through a late-autumn city park in a camel statement coat decorated with subtle embroidered bird motifs over a black turtleneck and tailored trousers. Capture a confident mid-stride pose with one hand in a pocket, fallen leaves, bare branches, and distant architecture softened behind. Use overcast directional light, a 70mm lens, vertical 3:4 full-length framing, crisp face and coat texture, muted camel-rust-charcoal palette, gentle film grain, realistic fabric movement, and elevated street-editorial realism. No text, logos, watermark, extra people in focus, distorted hands, or fantasy birds.",
+    "trending": true
+  },
+  {
+    "id": "2025",
+    "title": "Victorian Holiday Dinner Portrait",
+    "category": "Fashion",
+    "subcategory": "Vintage & Retro",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2025.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, facial proportions, skin tone, age, hairstyle, and natural body shape. Create a Victorian-inspired holiday dinner portrait in a high-neck burgundy blouse with covered buttons and a long black skirt, seated beside a candlelit heritage dining table. Keep the styling wearable and historically influenced rather than costume-like; include carved wood, autumn florals, antique glassware, and a softly glowing fireplace. Pose her with relaxed shoulders and a thoughtful side glance. Use a 50mm lens, vertical 3:4 composition, warm low-key lighting, deep burgundy-brown palette, realistic fabric and skin texture, soft film grain, and cinematic period editorial polish. No text, watermark, extra people, distorted hands, or waxy skin.",
+    "trending": true
+  },
+  {
+    "id": "2029",
+    "title": "Black Friday Coat Try-On Creator",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2029.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, facial proportions, skin tone, age, hairstyle, and natural body shape. Create a vertical creator-style coat try-on portrait in a clean boutique fitting area: she wears a rich chocolate-brown wrap coat over a dark outfit, turns slightly toward a full mirror, and holds a phone low enough that her face remains fully visible. Show two alternative neutral coats neatly on a rail and subtle berry flowers nearby, with no sale signs or brands. Use soft retail lighting plus window fill, a 35mm lens, vertical 3:4 full-length frame, realistic mirror reflection, detailed wool texture, neutral luxury grade, and social-commerce polish. No readable screen, text, logos, watermark, duplicate reflections, or distorted fingers.",
+    "trending": true
+  },
+  {
+    "id": "2032",
+    "title": "Berry-Tone Cider Gloves Portrait",
+    "category": "Fashion",
+    "subcategory": "Luxury & Editorial",
+    "imageUrl": "https://raw.githubusercontent.com/jainsagar82/prompt-images/main/batches/2026-11-27/2032.jpg",
+    "promptText": "Use the uploaded adult woman photo as the only identity reference. Preserve her exact recognizable face, skin tone, age, hairstyle, facial proportions, and natural body shape. Create an outdoor late-autumn portrait on a city overlook in a deep berry wool coat, patterned scarf, and elegant leather gloves, holding a steaming cup of apple cider with both hands. Add russet leaves, distant historic rooftops, and cool November air, with a soft direct gaze and relaxed shoulders. Use golden-hour side light, an 85mm lens, vertical 3:4 waist-up framing, shallow depth of field, berry-rust-cream color harmony, natural skin texture, realistic steam and fabric detail, subtle grain, and premium seasonal editorial realism. No text, logos, watermark, extra people in focus, or distorted hands.",
+    "trending": true
   }
 ]
